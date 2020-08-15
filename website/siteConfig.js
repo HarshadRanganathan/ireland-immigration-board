@@ -11,15 +11,15 @@
 const siteConfig = {
   title: 'Ireland Immigration', // Title for your website.
   tagline: 'Your immigration, visa and work permit queries answered by the community',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
+  url: 'https://harshadranganathan.github.io/ireland-immigration-board/', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
-  //   url: 'https://facebook.github.io',
-  //   baseUrl: '/test-site/',
+    url: 'https://harshadranganathan.github.io',
+    baseUrl: '/ireland-immigration-board/',
 
   // Used for publishing and more
-  projectName: 'test-site',
-  organizationName: 'facebook',
+  projectName: 'ireland-immigration-board',
+  organizationName: 'harshadranganathan',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -29,7 +29,7 @@ const siteConfig = {
     {doc: 'irp', label: 'Docs'},
     {page: 'help', label: 'Help'}
   ],
-  
+
   /* path to images for header/footer */
   headerIcon: 'img/favicon.ico',
   footerIcon: 'img/favicon.ico',
