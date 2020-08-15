@@ -20,6 +20,7 @@ const siteConfig = {
   // Used for publishing and more
   projectName: 'ireland-immigration-board',
   organizationName: 'harshadranganathan',
+  cname: 'ireland-immigration.rharshad.com',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -27,7 +28,9 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'irp', label: 'Docs'},
-    {page: 'help', label: 'Help'}
+    {page: 'help', label: 'Help'},
+    {href: 'https://github.com/HarshadRanganathan/ireland-immigration-board', label: 'Github'},
+    {href: 'https://ko-fi.com/harshadranganathan', label: 'Buy me a coffee'}
   ],
 
   /* path to images for header/footer */

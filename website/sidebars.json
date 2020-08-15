@@ -1,5 +1,9 @@
 {
   "docs": {
-    "Registration Certificate": ["irp"]
+    "Registration Certificate": ["irp"],
+    "Travel": [
+      "transit-visa",
+      "covid-19-test"
+    ]
   }
 }
