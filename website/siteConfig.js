@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site', // Title for your website.
-  tagline: 'A website for testing',
+  title: 'Ireland Immigration', // Title for your website.
+  tagline: 'Your immigration, visa and work permit queries answered',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -39,9 +39,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {page: 'help', label: 'Help'}
   ],
 
   // If you have users set above, you add it here:
@@ -54,8 +52,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#764351',
-    secondaryColor: '#522e38',
+    primaryColor: '#009A49',
+    secondaryColor: '#FF7900',
   },
 
   /* Custom fonts for website */
@@ -73,7 +71,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} Harshad Ranganathan`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
