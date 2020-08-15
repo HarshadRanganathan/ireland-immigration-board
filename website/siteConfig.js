@@ -14,8 +14,8 @@ const siteConfig = {
   url: 'https://harshadranganathan.github.io/ireland-immigration-board/', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
-    url: 'https://harshadranganathan.github.io',
-    baseUrl: '/ireland-immigration-board/',
+    // url: 'https://harshadranganathan.github.io',
+    // baseUrl: '/ireland-immigration-board/',
 
   // Used for publishing and more
   projectName: 'ireland-immigration-board',
