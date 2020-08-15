@@ -43,8 +43,13 @@ function Help(props) {
           <header className="postHeader">
             <h1>Need help?</h1>
           </header>
-          <p>This project is maintained by a dedicated group of people.</p>
-          <GridBlock contents={supportLinks} layout="threeColumn" />
+          <p>Raise your questions in any of the below groups:<br/>
+            <a href="https://www.facebook.com/groups/Indians.Ireland/">Indians in Ireland- Home away from Home</a><br/>
+            <a href="https://www.facebook.com/groups/984071788356184/">Indians In Ireland</a><br/>
+            <a href="https://www.facebook.com/groups/1418209775065869/">Indians In Ireland</a><br/>
+            <a href="https://www.facebook.com/groups/698907740944785/">Immigration Ireland (Updates)</a><br/>
+            <a href="https://www.facebook.com/groups/ciels/">COVID Ireland English Language Student Solidarity (CIELS)</a>
+          </p>
         </div>
       </Container>
     </div>
