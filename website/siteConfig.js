@@ -70,7 +70,16 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ['https://buttons.github.io/buttons.js'],
+  scripts: [
+    'https://buttons.github.io/buttons.js',
+    {
+      src: 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0&appId=2435890546711147&autoLogAppEvents=1',
+      async: true,
+      defer: true,
+      nonce: 'akMR67V2',
+      crossOrigin: 'anonymous'
+    }
+  ],
 
   // On page navigation for the current documentation page.
   onPageNav: 'separate',
@@ -80,6 +89,9 @@ const siteConfig = {
   // Open Graph and Twitter card images.
   ogImage: 'img/favicon.ico',
   twitterImage: 'img/favicon.ico',
+
+  facebookAppId: '2435890546711147',
+  facebookComments: true,
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.

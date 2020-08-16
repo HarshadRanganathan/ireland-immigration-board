@@ -250,6 +250,15 @@ You may submit your query by email to burghquayregoffice@justice.ie
 
 Last Updated: 15-Aug-2020
 
+#### **My permission was restricted due to the expiry of my passport. Can I use the online system to claim the remainder of my permission on my new passport?**
+No. Please do not apply for the remainder of your permission online. Applications for the balance
+of permission previously granted should be submitted by email to the Registration Office at
+burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+
+Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf 
+
+Last Updated: 15-Aug-2020
+
 ## Change Address
 
 #### **I have changed my home/postal address and need to update it in my registration. What is the procedure?**

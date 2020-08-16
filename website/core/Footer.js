@@ -17,9 +17,12 @@ class Footer extends React.Component {
 
   render() {
     return (
-      <footer className="nav-footer" id="footer">
-        <section className="copyright">{this.props.config.copyright}</section>
-      </footer>
+      <React.Fragment>
+        <div className="fb-comments" align="center" data-href={`https://${this.props.config.cname}/`} data-numposts="5" data-width="750"></div>
+        <footer className="nav-footer" id="footer">
+          <section className="copyright">{this.props.config.copyright}</section>
+        </footer>
+      </React.Fragment>
     );
   }
 }
