@@ -41,6 +41,11 @@ const siteConfig = {
   gaTrackingId: 'UA-114369504-3',
   gaGtag: true,
 
+  algolia: {
+    apiKey: '600721e219403d3bcd71c5c9a32f2361',
+    indexName: 'harshadranganathan_ireland-immigration-board'
+  },
+
   /* Colors for website */
   colors: {
     primaryColor: '#009A49',
