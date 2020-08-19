@@ -15,7 +15,7 @@ Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 ## Emiraty
 
-#### **Czy jeśli przyjeżdżamy do Irlandii przez Emiraty, potrzebujemy ujemnego sprawozdania z testów PCR COVID-19?**
+#### **Czy potrzebujemy ujemnego sprawozdania z testów PCR COVID-19, jeżeli podróżujemy do Irlandii lub z Irlandii przez Emiraty?**
 
 Wszyscy pasażerowie przylatujący do Dubaju z dowolnego miejsca docelowego, w tym pasażerowie przylatujący do Dubaju, musi posiadać ujemne świadectwo badania COVID-19 PCR, które zostanie przyjęte w trakcie lotu.
 
@@ -27,6 +27,20 @@ Badanie należy przeprowadzić maksymalnie 96 godzin przed odjazdem. Nie obejmuj
 Źródło: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
+
+## Eithad
+
+#### **Czy potrzebujemy ujemnego sprawozdania z testu PCR COVID-19, jeśli podróżujemy do Irlandii lub z Irlandii przez Eithad?**
+
+Przed lotem z Etihad Airways wymagane jest wykonanie testu PCR COVID-19 – będzie można latać tylko wtedy, gdy uzyskasz wynik ujemny.
+
+Test musi być przeprowadzony maksymalnie 96 godzin przed odlotem w dowolnej akredytowanej przez rząd placówce medycznej.
+
+Z badań COVID-19 wyłączone są dzieci w wieku poniżej 12 lat oraz osoby z łagodnymi i ciężkimi zaburzeniami układu oddechowego. Może się to różnić w zależności od miejsca przeznaczenia - zawsze sprawdzaj przed leczeniem.
+
+Źródło: https://www.etihad.com/pl/travel-updates/all-destinations-travel-guides
+
+Ostatnia aktualizacja: 19 sierpnia 2020 r.
 
 ## Certyfikat podróży
 

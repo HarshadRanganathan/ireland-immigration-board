@@ -15,7 +15,7 @@ Não, a Lufthansa não tem neste momento essas exigências.
 
 ## Emirados
 
-#### **Será necessário um relatório de teste COVID-19 negativo se viajarmos para a Irlanda de Emirates?**
+#### **Será que precisamos de um relatório de teste COVID-19 negativo se viajarmos para a Irlanda de Emirates?**
 
 Todos os passageiros que chegam ao Dubai de qualquer destino, incluindo os passageiros que se conectam no Dubai, tem de ter um certificado de teste COVID-19 negativo para ser aceite no voo.
 
@@ -27,6 +27,20 @@ O teste deve ter um máximo de 96 horas antes da partida. Isto exclui as crianç
 Referência: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
 
 Última Atualização: 15-Aug-2020
+
+## Eithad
+
+#### **Será que precisamos de um relatório de teste COVID-19 negativo se estivermos a viajar para a Irlanda pela Eithad?**
+
+É obrigatório ter um teste COVID-19 PCR antes de voar com a Etihad Airways – só será permitido voar se tivermos um resultado negativo nos testes.
+
+Seu teste deve ser realizado no máximo 96 horas antes da partida de seu voo em qualquer centro médico acreditado pelo governo.
+
+As crianças com menos de 12 anos e as pessoas com deficiências graves e suaves estão isentas dos testes COVID-19 PCR. Isto pode variar de acordo com o destino - sempre verificar antes de voar.
+
+Referência: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guias
+
+Última Atualização: 19-Aug-2020
 
 ## Certificado de Compensação
 

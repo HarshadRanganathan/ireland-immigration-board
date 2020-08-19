@@ -174,7 +174,13 @@ Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 Możesz przesłać zapytanie e-mailem na burghquayregoffice@justice.ie
 
-Ostatnia aktualizacja: 15 sierpnia 2020 r.
+Podczas kontaktowania się z nimi proszę zawierać:
+* Twoje imię i nazwisko,
+* numer referencyjny aplikacji online,
+* numer śledzenia postu zarejestrowanego, oraz
+* dane kontaktowe.
+
+Ostatnia aktualizacja: 19 sierpnia 2020 r.
 
 #### **Moje zezwolenie zostało ograniczone ze względu na wygaśnięcie mojego paszportu. Czy mogę użyć systemu online, aby otrzymać pozostałą część mojego pozwolenia na mój nowy paszport?**
 Nie. Proszę nie ubiegać się o pozostałą część uprawnień online. Wnioski o saldo uprzednio udzielonych zezwoleń powinny być składane pocztą elektroniczną do urzędu rejestracji pod adresem burghquayregoffice@justice. e Nie będzie opłaty za saldo tego uprawnienia.

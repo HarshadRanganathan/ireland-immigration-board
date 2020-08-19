@@ -174,7 +174,13 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 Puoi inviare la tua richiesta via email a burghquayregoffice@justice.ie
 
-Ultimo Aggiornamento: 15-Ago-2020
+Quando si rivolge loro si prega di includere:
+* il tuo nome,
+* numero di riferimento della domanda online,
+* numero registrato di monitoraggio postale, e
+* i tuoi dati di contatto.
+
+Ultimo Aggiornamento: 19-Ago-2020
 
 #### **Il mio permesso è stato limitato a causa della scadenza del mio passaporto. Posso utilizzare il sistema online per rivendicare il resto del mio permesso sul mio nuovo passaporto?**
 No. Per favore non applicare per il resto del tuo permesso online. Le domande relative al saldo del permesso precedentemente concesso dovrebbero essere presentate via e-mail all'ufficio di registrazione a burghquayregoffice@justice. e Non ci sarà alcun costo per l'equilibrio di questo permesso.

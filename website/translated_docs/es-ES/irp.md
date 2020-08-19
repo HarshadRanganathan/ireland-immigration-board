@@ -174,7 +174,13 @@ Una vez que haya creado una aplicación, puede escanear cualquier documento adic
 
 Puede enviar su consulta por correo electrónico a burghquayregoffice@/etce.ie
 
-Última actualización: 15-ago-2020
+Al ponerse en contacto con ellos, por favor incluye:
+* tu nombre,
+* número de solicitud en línea,
+* número de seguimiento de post registrado, y
+* tus datos de contacto.
+
+Última actualización: 19-ago-2020
 
 #### **Mi permiso estaba restringido debido a la expiración de mi pasaporte. ¿Puedo utilizar el sistema en línea para reclamar el resto de mi permiso sobre mi nuevo pasaporte?**
 No. Por favor, no solicite el resto de su permiso en línea. Las solicitudes para el saldo del permiso previamente concedido deben enviarse por correo electrónico a la Oficina de Registro a burghquayregoffice@justice. e No habrá cargos por el saldo de este permiso.

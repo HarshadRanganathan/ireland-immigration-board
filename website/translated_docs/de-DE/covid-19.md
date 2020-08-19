@@ -28,6 +28,20 @@ Referenz: https://www.emirates.com/ie/german/help/flying-to-and-from-dubai/touri
 
 Zuletzt aktualisiert: 15-Aug-2020
 
+## Eithad
+
+#### **Brauchen wir einen negativen COVID-19 PCR-Testbericht, wenn wir von Eithad nach Irland reisen?**
+
+Vor dem Flug mit Etihad Airways ist ein COVID-19 PCR Test vorgeschrieben – Sie dürfen nur fliegen, wenn Sie ein negatives Testergebnis haben.
+
+Der Test muss maximal 96 Stunden vor der Abflugzeit in einer von der Regierung zugelassenen medizinischen Einrichtung durchgeführt werden.
+
+Kinder unter 12 Jahren und Menschen mit leichten und schweren Behinderungen sind von der COVID-19 PCR-Prüfung befreit. Dies kann je nach Bestimmungsort variieren – immer vor dem Flug überprüfen.
+
+Referenz: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guide
+
+Zuletzt aktualisiert: 19-Aug-2020
+
 ## Reisefreiheitszertifikat
 
 #### Wo bekomme ich ein Covid-19 Travel Clearance Zertifikat in Irland, um in ein Land zu fliegen oder in ein Land einzureisen?

@@ -174,7 +174,13 @@ Depois de criar um aplicativo, você pode digitalizar todos os documentos adicio
 
 Você pode enviar sua consulta por e-mail para burghquayregoffice@justice.ie
 
-Última Atualização: 15-Aug-2020
+Ao entrar em contato com eles, por favor, inclua:
+* seu nome,
+* número de referência do aplicativo online,
+* após o número de rastreamento e
+* seus detalhes de contato.
+
+Última Atualização: 19-Aug-2020
 
 #### **Minha permissão foi restringida devido ao vencimento do meu passaporte. Posso usar o sistema online para reivindicar o restante da minha permissão no meu novo passaporte?**
 Não. Por favor, não se inscreva para o restante da sua permissão online. Pedidos para o saldo da permissão previamente concedida devem ser submetidos por e-mail à Escritório de Registro em burghquayregoffice@justice. Não haverá cobrança para o saldo desta permissão.

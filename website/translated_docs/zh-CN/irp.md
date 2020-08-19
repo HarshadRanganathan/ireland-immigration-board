@@ -174,7 +174,13 @@ Reference - http://www.inis.gov.ie/en/INIS/Pages/online-reconvalal-applications-
 
 您可以通过电子邮件提交您的查询到 burghquayregoffice@justice.ie
 
-最后更新：2015 年 8 月 20 日
+联系他们时，请包括：
+* 您的姓名，
+* 在线应用程序参考编号
+* 注册帖子跟踪号码和
+* 您的联系人信息。
+
+最后更新时间：2020 年8月19日
 
 #### **由于护照过期，我的许可受到限制。 我可以使用在线系统申请我新护照的剩余许可吗？**
 否。 请不要在线申请剩余的权限。 此前批准的 余下的权限申请应通过电子邮件提交登记办公室，地址为 burghquayregoffice@justice。 e 此项许可的余额将不收费。

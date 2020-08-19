@@ -174,7 +174,13 @@ Zuletzt aktualisiert: 15-Aug-2020
 
 Sie können Ihre Anfrage per E-Mail an burghquayregoffice@justice.ie senden
 
-Zuletzt aktualisiert: 15-Aug-2020
+Wenn Sie mit ihnen in Verbindung treten, bitte einschließen:
+* dein Name
+* online Anwendungsreferenznummer
+* registrierte Post-Tracking-Nummer, und
+* Ihre Kontaktdaten.
+
+Zuletzt aktualisiert: 19-Aug-2020
 
 #### **Meine Erlaubnis wurde aufgrund des Auslaufs meines Reisepasses eingeschränkt. Kann ich mit dem Online-System den Rest meiner Einwilligung für meinen neuen Reisepass beantragen?**
 Nein. Bitte bewerben Sie sich nicht für den Rest Ihrer Erlaubnis online. Anträge auf das Guthaben der zuvor erteilten Erlaubnis sollten per E-Mail an die Registrierungsstelle unter burghquayregoffice@justice eingereicht werden. e Es wird keine Gebühr für den Saldo dieser Erlaubnis.

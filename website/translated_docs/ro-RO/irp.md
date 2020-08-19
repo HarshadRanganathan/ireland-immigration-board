@@ -174,7 +174,13 @@ Ultima actualizare: 15-Aug-2020
 
 Puteți trimite interogarea prin e-mail la burghquayregoffice@justice.ie
 
-Ultima actualizare: 15-Aug-2020
+La contactarea lor, vă rugăm să includeți:
+* numele tău,
+* numărul de referință al aplicației online,
+* număr înregistrat de urmărire a intrării și
+* datele dumneavoastră de contact.
+
+Ultima actualizare: 19-Aug-2020
 
 #### **Permisiunea mea a fost restricționată din cauza expirării pașaportului meu. Pot folosi sistemul online pentru a revendica restul permisiunii mele pe noul meu paşaport?**
 Nu. Vă rugăm să nu aplicați pentru restul permisiunilor dvs. online. Cererile pentru soldul al permisiunii acordate anterior ar trebui trimise prin e-mail Biroului de Înregistrare la burghquayregoffice@justitie. e Nu va exista nicio taxă pentru soldul acestei permisiuni.

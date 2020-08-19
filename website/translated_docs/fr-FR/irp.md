@@ -174,7 +174,13 @@ Dernière mise à jour: 15-août-2020
 
 Vous pouvez envoyer votre demande par e-mail à burghquayregoffice@justice.ie
 
-Dernière mise à jour: 15-août-2020
+Lorsque vous les contactez, veuillez inclure :
+* votre nom,
+* numéro de référence de candidature en ligne
+* numéro de suivi de publication enregistré, et
+* vos coordonnées.
+
+Dernière mise à jour: 19-août-2020
 
 #### **Mon permis a été restreint en raison de l’expiration de mon passeport. Puis-je utiliser le système en ligne pour demander le reste de ma permission sur mon nouveau passeport?**
 Non. Veuillez ne pas demander le reste de votre permission en ligne. Les demandes de solde de permission préalablement accordées doivent être soumises par courriel au Bureau d’inscription à burghquayregoffice@justice. e Il n'y aura pas de frais pour le solde de cette autorisation.
