@@ -149,9 +149,9 @@ Last Updated: 15-Aug-2020
 
 Send an email to burghquayregoffice@justice.ie stating your emergency.
 
-In case of no response directly approach Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
+All registration offices (Burgh Quay & non-Dublin area) are closed temporarily, to allow for revised public health guidance to be issued. 
 
-Last Updated: 15-Aug-2020
+Last Updated: 19-Aug-2020
 
 
 ### General
