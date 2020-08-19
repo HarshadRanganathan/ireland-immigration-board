@@ -174,18 +174,18 @@ Una vez que haya creado una aplicación, puede escanear cualquier documento adic
 
 Puede enviar su consulta por correo electrónico a burghquayregoffice@/etce.ie
 
-When contacting them please include:
-* your name,
-* online application reference number,
-* registered post tracking number, and
-* your contact details.
+Al ponerse en contacto con ellos, por favor incluye:
+* tu nombre,
+* número de solicitud en línea,
+* número de seguimiento de post registrado, y
+* tus datos de contacto.
 
 Última actualización: 19-ago-2020
 
 #### **Mi permiso estaba restringido debido a la expiración de mi pasaporte. ¿Puedo utilizar el sistema en línea para reclamar el resto de mi permiso sobre mi nuevo pasaporte?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+No. Por favor, no solicite el resto de su permiso en línea. Las solicitudes para el saldo del permiso previamente concedido deben enviarse por correo electrónico a la Oficina de Registro a burghquayregoffice@justice. e No habrá cargos por el saldo de este permiso.
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Referencia: http://www.inis.gov.ie/es/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 Última actualización: 15-ago-2020
 
@@ -193,22 +193,22 @@ Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-
 
 #### **He cambiado mi domicilio y dirección postal y necesito actualizarla en mi registro. ¿Cuál es el procedimiento?**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+Si su nueva dirección está fuera de Dublín, envíe un correo electrónico a gnib_dv@garda.ie
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+Si su nueva dirección está dentro de Dublín, envíe un correo electrónico a burghquayregoffice@/etce.ie
 
-Subject Line - Change of details
+Línea de asunto - Cambio de detalles
 
-In the email, specify below details:
-* Full Name
-* Registration Number
+En el correo electrónico, especifique los siguientes detalles:
+* Nombre completo
+* Número de registro
 * Nacionalidad
-* Date Of Birth
-* New Address
+* Fecha de nacimiento
+* Nueva dirección
 
-You will get an acknowledgement in 2-3 days.
+Recibirá un recibo en el plazo de 2 a 3 días.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+Referencia - http://www.inis.gov.ie/es/INIS/Pages/registration-update-details
 
 Última actualización: 15-ago-2020
 
@@ -216,5 +216,5 @@ Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 #### **¿Puedes sugerir algunas opciones de seguro de salud a precios asequibles disponibles en el país?**
 
-- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
-- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
+- https://www.studyandprotect.com/ (sello 1G) (200 - 250 EUR al año)
+- https://www.layahealthcare.ie/productsandservices/plan/esquema/re-protección (40 EUR por mes)
