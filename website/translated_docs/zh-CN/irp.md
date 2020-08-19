@@ -174,12 +174,18 @@ Reference - http://www.inis.gov.ie/en/INIS/Pages/online-reconvalal-applications-
 
 您可以通过电子邮件提交您的查询到 burghquayregoffice@justice.ie
 
-最后更新：2015 年 8 月 20 日
+When contacting them please include:
+* your name,
+* online application reference number,
+* registered post tracking number, and
+* your contact details.
+
+最后更新时间：2020 年8月19日
 
 #### **由于护照过期，我的许可受到限制。 我可以使用在线系统申请我新护照的剩余许可吗？**
-否。 请不要在线申请剩余的权限。 此前批准的 余下的权限申请应通过电子邮件提交登记办公室，地址为 burghquayregoffice@justice。 e 此项许可的余额将不收费。
+No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
 
-参考资料：http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf。
+Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 最后更新：2015 年 8 月 20 日
 
@@ -187,20 +193,20 @@ Reference - http://www.inis.gov.ie/en/INIS/Pages/online-reconvalal-applications-
 
 #### **我已更改了我的家庭/邮政地址，并需要在我的注册中更新它。 程序是什么？**
 
-如果您的新地址在都柏林之外，请向gnib_dv@gardaie 发送电子邮件
+If your new address is outside Dublin, send an email to gnib_dv@garda.ie
 
-如果您的新地址在都柏林，请发送电子邮件到 burghquayregoffice@justice.ie
+If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
 
-主题行 - 更改详细信息
+Subject Line - Change of details
 
-在电子邮件中，请指定以下详细信息：
-* 全名
-* 注册号
+In the email, specify below details:
+* Full Name
+* Registration Number
 * 国籍
-* 出生日期
-* 新地址
+* Date Of Birth
+* New Address
 
-你将在2-3天内得到确认。
+You will get an acknowledgement in 2-3 days.
 
 Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
@@ -210,5 +216,5 @@ Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 #### **你能否建议爱尔兰一些负担得起的健康保险备选方案？**
 
-- https://www.studyandprotect.com/ (Stamp 1G)(每年200-250欧元)
-- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protection (EUR 40 per month)
+- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
+- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
