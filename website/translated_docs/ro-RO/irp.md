@@ -174,18 +174,18 @@ Ultima actualizare: 15-Aug-2020
 
 Puteți trimite interogarea prin e-mail la burghquayregoffice@justice.ie
 
-When contacting them please include:
-* your name,
-* online application reference number,
-* registered post tracking number, and
-* your contact details.
+La contactarea lor, vă rugăm să includeți:
+* numele tău,
+* numărul de referință al aplicației online,
+* număr înregistrat de urmărire a intrării și
+* datele dumneavoastră de contact.
 
 Ultima actualizare: 19-Aug-2020
 
 #### **Permisiunea mea a fost restricționată din cauza expirării pașaportului meu. Pot folosi sistemul online pentru a revendica restul permisiunii mele pe noul meu paşaport?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+Nu. Vă rugăm să nu aplicați pentru restul permisiunilor dvs. online. Cererile pentru soldul al permisiunii acordate anterior ar trebui trimise prin e-mail Biroului de Înregistrare la burghquayregoffice@justitie. e Nu va exista nicio taxă pentru soldul acestei permisiuni.
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Referinţă: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 Ultima actualizare: 15-Aug-2020
 
@@ -193,22 +193,22 @@ Ultima actualizare: 15-Aug-2020
 
 #### **Mi-am schimbat adresa de acasă/poștală și trebuie să o actualizez în înregistrarea mea. Care este procedura?**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+Dacă noua dvs. adresă este în afara Dublin, trimiteți un e-mail la gnib_dv@garda.ie
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+Dacă noua dvs. adresă este în Dublin, trimiteți un e-mail la burghquayregoffice@justice.ie
 
-Subject Line - Change of details
+Subiect linie - Schimbarea detaliilor
 
-In the email, specify below details:
-* Full Name
-* Registration Number
+În email, specificați detaliile de mai jos:
+* Nume complet
+* Număr de înregistrare
 * Cetățenia
-* Date Of Birth
-* New Address
+* Data nașterii
+* Adresă nouă
 
-You will get an acknowledgement in 2-3 days.
+Veţi primi o confirmare în 2-3 zile.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+Referință - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 Ultima actualizare: 15-Aug-2020
 
@@ -216,5 +216,5 @@ Ultima actualizare: 15-Aug-2020
 
 #### **Puteți sugera câteva opțiuni accesibile de asigurare de sănătate disponibile în Irlanda?**
 
-- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
-- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
+- https://www.studyandprotect.com/ (Ștampila 1G) 200 EUR - 250 EUR pe an)
+- https://www.layahealthcare.ie/productsandservices/plan/schemă/Safre-protection (40 EUR pe lună)
