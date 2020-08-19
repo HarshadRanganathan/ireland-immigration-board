@@ -1,22 +1,22 @@
 ---
 id: transit-visa
-title: Transit Visa
-sidebar_label: Transit Visa
+title: تأشيرة المرور العابر
+sidebar_label: تأشيرة المرور العابر
 ---
 
-## Nationality
+## الجنسية
 
-### India
+### الهند
 
-#### **I will be travelling to Ireland with transit in Frankfurt. Will I require a transit visa?**
+#### **وسأسافر إلى أيرلندا مع المرور العابر في فرانكفورت. هل ستحتاج إلى تأشيرة مرور؟**
 
-Nationals of India transiting through Frankfurt (FRA) or Munich (MUC), arriving from a non-Schengen Member State with a confirmed onward ticket for a flight within 24 hours to a third country which is not a Schengen Member State. They must:
-- have a visa issued by Bulgaria, Canada, Croatia, Cyprus, Ireland (Rep.), Japan, Romania, USA or United Kingdom, and
-- stay in the international transit area of the airport, and
-- have documents required for their next destination.
+مواطنو الهند الذين يمرون عبر فرانكفورت أو ميونيخ، • الوصول من دولة غير عضو في اتفاق شنغن تحمل تذكرة مؤكدة بعد الرحلة الجوية في غضون 24 ساعة إلى بلد ثالث ليس من الدول الأعضاء في اتفاق شنغن. ويجب عليها:
+- ولديها تأشيرة صادرة عن أيرلندا (Rep.) وبلغاريا ورومانيا وقبرص وكرواتيا وكندا والمملكة المتحدة واليابان والولايات المتحدة.
+- البقاء في منطقة المرور العابر الدولية في المطار،
+- تحتوي على وثائق مطلوبة لوجهتها التالية.
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+المرجع - https://www.iatatravelcentre.com/passport-visa-Healtravel-document-requirements.htm
 
-Tags: Lufthansa, Germany
+العلامات: لوفتهانسا، ألمانيا
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
