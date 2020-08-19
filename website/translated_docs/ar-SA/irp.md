@@ -174,12 +174,18 @@ sidebar_label: IRP
 
 يمكنك إرسال استفسارك عن طريق البريد الإلكتروني إلى البرغكيريغوفيتش @justice.ie
 
-آخر تحديث: 15 آب/أغسطس 2020
+When contacting them please include:
+* your name,
+* online application reference number,
+* registered post tracking number, and
+* your contact details.
+
+آخر تحديث: 19 آب/أغسطس 2020
 
 #### **لقد تم تقييد إذني بسبب انتهاء صلاحية جواز سفري. هل يمكنني استخدام النظام على الإنترنت للمطالبة بما تبقى من إذني على جواز سفري الجديد؟**
-لا. يرجى عدم التقدم بطلب للحصول على بقية الصلاحيات الخاصة بك عبر الإنترنت. يجب إرسال طلبات الحصول على الرصيد من الإذن الذي سبق منحه عن طريق البريد الإلكتروني إلى مكتب التسجيل في burghquayregoffice@justice (هـ) لن تكون هناك رسوم مقابل رصيد هذا الإذن.
+No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
 
-المرجع: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf.
+Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 آخر تحديث: 15 آب/أغسطس 2020
 
@@ -187,22 +193,22 @@ sidebar_label: IRP
 
 #### **لقد غيرت عنوان منزلي/بريدي وتحتاج إلى تحديثه في تسجيلي. ما هو الإجراء؟**
 
-إذا كان عنوانك الجديد خارج دبلن، أرسل رسالة بريد إلكتروني إلى gnib_dv@garda.ie
+If your new address is outside Dublin, send an email to gnib_dv@garda.ie
 
-إذا كان عنوانك الجديد داخل دبلن، أرسل رسالة بريد إلكتروني إلى burghquayregoffice@justice.ie
+If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
 
-خط الموضوع - تغيير التفاصيل
+Subject Line - Change of details
 
-في البريد الإلكتروني، حدد التفاصيل أدناه:
-* الاسم الكامل
-* رقم التسجيل
+In the email, specify below details:
+* Full Name
+* Registration Number
 * الجنسية
-* تاريخ الميلاد
-* عنوان جديد
+* Date Of Birth
+* New Address
 
-سوف تحصل على إقرار خلال 2-3 أيام.
+You will get an acknowledgement in 2-3 days.
 
-المرجع http://www.inis.gov.ie/en/INIS/Pages/registration-update-التفاصيل.
+Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 آخر تحديث: 15 آب/أغسطس 2020
 
@@ -210,5 +216,5 @@ sidebar_label: IRP
 
 #### **هل يمكنك اقتراح بعض خيارات التأمين الصحي بأسعار معقولة المتاحة في آيرلندا؟**
 
-- https://www.studyandprotect.com/ (Stamp 1G) (200 - 250 يورو في السنة)
-- https://www.layahealth.ie/productsandservices/plan/scheme/assure-protection (EUR 40 في الشهر)
+- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
+- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
