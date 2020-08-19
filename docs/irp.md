@@ -184,7 +184,13 @@ Last Updated: 15-Aug-2020
 
 You may submit your query by email to burghquayregoffice@justice.ie
 
-Last Updated: 15-Aug-2020
+When contacting them please include:
+* your name,
+* online application reference number,
+* registered post tracking number, and
+* your contact details. 
+
+Last Updated: 19-Aug-2020
 
 #### **My permission was restricted due to the expiry of my passport. Can I use the online system to claim the remainder of my permission on my new passport?**
 No. Please do not apply for the remainder of your permission online. Applications for the balance
