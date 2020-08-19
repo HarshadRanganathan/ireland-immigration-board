@@ -1,22 +1,22 @@
 ---
 id: transit-visa
-title: Transit Visa
-sidebar_label: Transit Visa
+title: 过境签证：
+sidebar_label: 过境签证：
 ---
 
-## Nationality
+## 国籍
 
-### India
+### 印度
 
-#### **I will be travelling to Ireland with transit in Frankfurt. Will I require a transit visa?**
+#### **我将在法兰克福过境前往爱尔兰。 我是否需要过境签证？**
 
-Nationals of India transiting through Frankfurt (FRA) or Munich (MUC), arriving from a non-Schengen Member State with a confirmed onward ticket for a flight within 24 hours to a third country which is not a Schengen Member State. They must:
-- have a visa issued by Bulgaria, Canada, Croatia, Cyprus, Ireland (Rep.), Japan, Romania, USA or United Kingdom, and
-- stay in the international transit area of the airport, and
-- have documents required for their next destination.
+印度国民通过法兰克福过境或慕尼黑过境， - 从一个非申根成员国出发，并经证实可在24小时内飞往不是申根成员国的第三国的航班机票。 他们必须：
+- • 持有保加利亚、加拿大、克罗地亚、塞浦路斯、爱尔兰(共和国)、日本、罗马尼亚、美国或联合王国签发的签证，
+- - 在机场国际过境区逗留；
+- 拥有下一个目的地所需的文档。
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+参考 - https://www.iatavelcentre.com/pass-visa-health-travel-document-requirements.htm
 
 Tags: Lufthansa, Germany
 
-Last Updated: 15-Aug-2020
+最后更新：2015 年 8 月 20 日
