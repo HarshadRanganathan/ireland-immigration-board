@@ -1,214 +1,214 @@
 ---
 id: irp
-title: Irish Residence Permit
+title: Разрешение на проживание в Ирландии
 sidebar_label: IRP
 ---
 
-## First Time Registration
+## Первая регистрация
 
-### Appointment
+### Назначение
 
-#### **How do I get an appointment for first-time registration?**
+#### **Как я могу получить назначение на первую регистрацию?**
 
-The Dublin area Registration Office located in Burgh Quay will close temporarily, to allow for revised public health guidance to be issued. Further announcement in relation to the operation of the Registration Office will issue before the end of this week.
+Бюро по регистрации района Дублин, расположенное в Бурге Квей, временно прекратит свою деятельность, с тем чтобы можно было опубликовать пересмотренное руководство в области здравоохранения. Дополнительное объявление о функционировании Бюро регистрации будет опубликовано до конца этой недели.
 
-Please also note that all Registration Offices for non-Dublin residents operated by An Garda Síochána will also close temporarily, to allow for revised public health guidance to be issued.
+Имейте в виду, что все Регистрационные бюро для резидентов вне Дублина, которыми управляет Гарда Сиоха́на, также временно закрываются, для обеспечения возможности опубликования пересмотренных руководящих указаний в области здравоохранения.
 
-Any permission that was renewed by the notices of 20th March 2020, 13th May 2020 and 16th July 2020 which therefore has a new expiry date between 20th August 2020 and 20th September 2020 is automatically renewed for a further 1 month.
+Любое разрешение, которое было возобновлено нотами 20 марта 2020 года, С 13 мая 2020 года и 16 июля 2020 года, срок действия которого истекает с 20 августа 2020 по 20 сентября 2020 года, автоматически продлевается еще на один месяц.
 
-Last Updated: 19-Aug-2020
+Последнее обновление: 19 августа 2020
 
-### Payment
+### Оплата
 
-#### **Can I pay for the registration fees using cash?**
+#### **Могу ли я оплатить регистрационные сборы наличными?**
 
-No, only card payments are accepted.
+Нет, принимаются только платежи по карте.
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-#### **Can I pay for the registration fees using my forex card?**
+#### **Могу ли я оплатить регистрационные сборы с помощью иностранной карты?**
 
-Yes, you can use your forex card for the payment.
+Да, вы можете использовать вашу форекс карту для оплаты.
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-### Travel
+### Путешествия
 
-#### **I don’t need to register until I have been in the State for 90 days – what if I want to travel and return to Ireland before I register and receive my IRP card?**
+#### **Мне не нужно регистрироваться до тех пор, пока я не был в штате на 90 дней – что если я хочу путешествовать и вернуться в Ирландию, прежде чем зарегистрироваться и получить свою карту IRP?**
 
-If you know that you will be travelling within the first four months of your arrival in Ireland, you should apply for a multiple entry visa for your initial trip to Ireland. This will enable you to travel in and out of Ireland before you register and receive your IRP card.
+Если вы знаете, что вы будете путешествовать в течение первых четырех месяцев после вашего приезда в Ирландию, должны подать заявку на получение нескольких въездных виз для вашей первоначальной поездки в Ирландию. Это позволит вам отправиться в и из Ирландии перед регистрацией и получить вашу карту IRP.
 
-If you travelled to Ireland on a single entry visa and discover that you need to travel and return to Ireland before you get your IRP card, you can travel and apply for another entry visa from outside Ireland.
+Если вы путешествовали в Ирландию по одной въездной визе и обнаружили, что вам нужно путешествовать и возвращаться в Ирландию, прежде чем вы получите вашу карту IRP, Вы можете совершить поездку и подать заявление на другую въездную визу извне Ирландии.
 
-Reference - http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+См. http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
 
-#### **I have registered for IRP but haven't received my card yet. What if I want to travel and return to Ireland before I receive my IRP card?**
+#### **Я зарегистрировался на IRP, но еще не получил свою карту. Что делать, если я хочу путешествовать и возвращаться в Ирландию, прежде чем я получу карту IRP?**
 
-The Irish Residence Permit is issued to non-EEA nationals who have permission to reside in the State for more than 90 days.
+Ирландский документ о проживании выдается гражданам, не являющимся членами ЕАОС и имеющим разрешение на проживание в государстве более 90 дней.
 
-It can take some weeks to get a registration appointment, and up to 2 weeks for an IRP card to be produced following registration.
+Для регистрации на регистрацию может потребоваться несколько недель, а также до двух недель для выдачи IRP карточки после регистрации.
 
-Visa required nationals who intend to travel in and out of Ireland during the first four months of their planned stay should apply for a multiple entry visa, which will allow them to travel into Ireland multiple times in a given period before their IRP card is issued.
+Для получения многократной въездной визы граждане, которые намереваются выехать из Ирландии в течение первых четырех месяцев своего планируемого пребывания, должны подать заявление на получение многократной въездной визы, Это позволит им совершать поездки в Ирландию несколько раз в заданный период до выдачи их IRP карты.
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-## Renewal
+## Продлить
 
-### Appointment
+### Назначение
 
-#### **I need to renew my IRP. Where should I book my appointment?**
+#### **Мне нужно обновить IRP. Где я могу забронировать свое назначение?**
 
-The online renewal application portal can be found here: https://inisonline.jahs.ie/
+Портал обновления онлайн можно найти здесь: https://inisonline.jahs.ie/
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-### Payment
+### Оплата
 
-#### **I made a payment in the online application portal but didn't receive any confirmation email**
+#### **Я сделал платеж в онлайн-портале приложений, но не получил никакого письма с подтверждением**
 
-Please check you spam folder for the email. If you have checked your spam folder but have not received an email from us, please wait 7 working days for us to contact you.
+Пожалуйста, проверьте папку со спамом для электронной почты. Если вы проверили папку спама, но не получили от нас письмо, пожалуйста, подождите 7 рабочих дней для связи с Вами.
 
-If you have not heard from us by then, please contact the immigration unit (burghquayregoffice@justice.ie) responsible for processing the application form you want to submit.
+Если вы не слышали от нас, пожалуйста, свяжитесь с иммиграционным отделом (burghquayregoffice@justice. e) отвечает за обработку формы , которую вы хотите отправить.
 
-If you contact us by email, please include 'online form – issue' in the subject line of your email
+Если вы свяжитесь с нами по электронной почте, пожалуйста, укажите «онлайновая форма – выпуск» в теме вашей электронной почты
 
-Reference - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
+См. - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-#### **I'm not getting redirected to the payment page after form submission**
+#### **Я не перенаправляюсь на страницу оплаты после отправки формы**
 
-Try submitting a new form without saving it to get redirected to the payment page.
+Попробуйте отправить новую форму без сохранения для перенаправления на страницу оплаты.
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-### Application Submission
+### Отправка приложения
 
-In order to process your application after submitting the form in the online portal, you need to submit:
-* A copy of Application confirmation email;
-* Your original passport; and
-* Your current original IRP/GNIB Card
+Для того, чтобы Ваша заявка была обработана после отправки формы на портале, Вам нужно отправить:
+* Копия подтверждения заявки по электронной почте;
+* Ваш оригинальный паспорт; и
+* Ваша оригинальная карта IRP/GNIB
 
-YOU MUST CLEARLY PRINT THE STAMP NUMBER APPLIED FOR ON THE OUTSIDE OF YOUR ENVELOPE
+ВЫ ДОЛЖНЫ ОЧИСТИТЬ НОМЕР СТАМПОРТА ПРИГЛАШЕННЫЙ ДЛЯ ВЫСОКОЙ ОТ ВАШЕГО ОКРУЖАЮЩЕЙ СРЕДЫ
 
-Send by Registered Post to:<br/> **Permissions Renewal Unit<br/> ISD<br/> 13-14 Burgh Quay<br/> Dublin 2<br/> DO2 XK70**
+Отправить по регистрационному сообщению в:<br/> **Обновление блока<br/> ISD<br/> 13-14 Burgh Quay<br/> Dublin 2<br/> DO2 XK70**
 
-Do not submit your documents by post until you have received the application confirmation email.
+Не отправляйте свои документы по почте до тех пор, пока Вы не получите письмо с подтверждением заявки.
 
-Passports sent by ordinary post will not be processed.
+Паспорт, отправленный обычной записью, не будет обработан.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+См. http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-#### **My Spouse's permission is dependent on my renewal. Should we submit our application together?**
+#### **Разрешение моего супруга зависит от моего обновления. Нужно ли подать заявку вместе?**
 
-You need to submit two separate applications for yourself and your spouse in the online application portal.
+Вы должны подать два отдельных приложения для себя и своих супругов на онлайн-портале.
 
-In your application, indicate that your spouse's permission on you.
+В вашей заявке укажите, что у вашего супруга есть на вас разрешение.
 
-Finally, send the documents in two separate envelopes for processing.
+Наконец, отправьте документы в два отдельных конверта для обработки.
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-### Delivery
+### Доставка
 
-#### **How many days will it take to process my renewal application?**
+#### **Сколько дней займет обработка моего обновления приложения?**
 
-Processing times: 10 – 15 working days minimum
+Время обработки: минимум 10-15 рабочих дней
 
-If your application is successful – your permission will be renewed and your in-date passport will be stamped.  The new IRP card will issue to you separately within 10 – 15 working days
+Если Ваша заявка будет выполнена успешно, Ваше разрешение будет возобновлено и Ваш паспорт будет штампован.  Новая карта IRP выдаст вам отдельно в течение 10-15 рабочих дней
 
-Reference: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+Ссылка: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-#### **How will I receive my application once processed?**
+#### **Как я буду получать заявку после обработки?**
 
-The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post
+Штамп прав доступа будет помещен в предоставленный для регистрации паспорт и возвращен регистрационной почтой с IRP картой отправляемой отдельной экспресс-почтой
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
 
-### Travel
+### Путешествия
 
-#### **I had sent my Passport and IRP for renewal. Now, I have a family emergency and need to travel ASAP. Can I get my IRP renewed immediately?**
+#### **Я послал Паспорт и IRP для продления. Теперь у меня есть семейная чрезвычайная ситуация, и нужно путешествовать по ASAP. Могу ли я немедленно обновить свой IRP?**
 
-Send an email to burghquayregoffice@justice.ie stating your emergency.
+Отправьте письмо на burghquayregoffice@justice.ie с указанием вашей чрезвычайной ситуации.
 
-All registration offices (Burgh Quay & non-Dublin area) are closed temporarily, to allow for revised public health guidance to be issued.
+Все регистрационные бюро (Burgh Quay & неДублиная) временно закрыты, с тем чтобы можно было издать пересмотренный вариант руководства в области общественного здравоохранения.
 
-Last Updated: 19-Aug-2020
+Последнее обновление: 19 августа 2020
 
 
-### General
+### Общие положения
 
-#### **I had sent my Passport and IRP for renewal. Will they issue the new IRP with a start date from when we had applied online?**
+#### **Я послал Паспорт и IRP для продления. Будут ли они выдавать новый IRP с даты начала, с которого мы обратились в сети?**
 
-No, the start date will be from the processed day.
+Нет, дата начала будет начиная с текущего дня.
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-#### **What are the required documents for IRP renewal?**
+#### **Какие документы необходимы для обновления IRP?**
 
-Check Required Documents Reference Guide - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
+Проверьте необходимые документы справочное руководство - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-#### **Is there any guide for completing the application form in online portal?**
+#### **Есть ли инструкции по заполнению анкеты на портале?**
 
 Check Immigration Online Portal Guide – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-#### **What happens if I forget to upload the necessary documents as part of my application?**
+#### **Что произойдет, если я забуду загрузить необходимые документы в рамках моего приложения?**
 
-Once you have created an application, you may scan any additional supporting documents and resubmit.
+После создания приложения вы можете сканировать любые дополнительные вспомогательные документы и повторно отправить.
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-#### **How can I obtain an update on the status of my application?**
+#### **Как я могу получить обновленную информацию о статусе моего приложения?**
 
-You may submit your query by email to burghquayregoffice@justice.ie
+Вы можете отправить свой запрос по электронной почте burghquayregoffice@justice.ie
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-#### **My permission was restricted due to the expiry of my passport. Can I use the online system to claim the remainder of my permission on my new passport?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+#### **Мое разрешение было ограничено из-за истечения срока действия моего паспорта. Могу ли я использовать систему для получения моего разрешения на новый паспорт?**
+Нет. Пожалуйста, не подайте заявку на остаток вашего разрешения онлайн. Заявки на остаток средств разрешения, которые ранее были предоставлены, должны быть поданы по электронной почте в Регистрационное бюро burghquayregoffice@justice. e За остаток этого разрешения взиматься не будет.
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Ссылка: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-## Change Address
+## Изменить адрес
 
-#### **I have changed my home/postal address and need to update it in my registration. What is the procedure?**
+#### **Я изменил свой адрес дома/почты, и мне нужно обновить его при регистрации. Что такое процедура?**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+Если ваш новый адрес находится за пределами Дублина, отправьте письмо по адресу gnib_dv@garda.ie
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+Если ваш новый адрес находится в Дублине, отправьте письмо по адресу burghquayregoffice@justice.ie
 
-Subject Line - Change of details
+Тема Строка - Изменение деталей
 
-In the email, specify below details:
-* Full Name
-* Registration Number
-* Nationality
-* Date Of Birth
-* New Address
+В письме укажите ниже:
+* Полное имя
+* Регистрационный номер
+* Гражданство
+* Дата рождения
+* Новый адрес
 
-You will get an acknowledgement in 2-3 days.
+Вы получите подтверждение в течение 2-3 дней.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+См. http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
-Last Updated: 15-Aug-2020
+Последнее обновление: 15 августа 2020 года
 
-## Health Insurance
+## Медицинское страхование
 
-#### **Can you suggest some affordable health insurance options available in Ireland?**
+#### **Можете ли вы предложить недорогие варианты медицинского страхования, доступные в Ирландии?**
 
-- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
-- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
+- https://www.studyandprotect.com/ (печать 1G) (200 - 250 руб.
+- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (40 евро/месяц)
