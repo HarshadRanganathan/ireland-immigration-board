@@ -15,7 +15,7 @@ sidebar_label: Covid-19 テスト
 
 ## エミレーツ
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Emirates?**
+#### **エミレーツまでアイルランドからアイルランドに移動する場合は、COVID-19 PCRの否定的なテストレポートが必要ですか?**
 
 ドバイへの行き先を含むドバイに到着するすべてのお客様 飛行中に受け入れられるには、負のCOVID-19 PCRテスト証明書が必要です。
 
@@ -30,24 +30,24 @@ sidebar_label: Covid-19 テスト
 
 ## Eithad
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Eithad?**
+#### **Eithadによってアイルランドから/アイルランドへ旅行する場合、COVID-19 PCRの否定的なテストレポートが必要ですか?**
 
-It is mandatory to have a COVID-19 PCR test before you fly with Etihad Airways – you will only be permitted to fly if you have a negative test result.
+エティハド航空で飛行する前にCOVID-19 PCRテストを受けることが必須です - テスト結果がマイナスの場合にのみ飛行が許可されます。
 
-Your test must be carried out a maximum of 96 hours before your flight departure time at any government accredited medical facility.
+試験は、政府認定の医療施設で飛行機の出発時刻の最大96時間前までに行われなければなりません。
 
-Children under 12 and people with mild and severe disabilities are exempt from COVID-19 PCR testing. This may vary by destination – always check before you fly.
+12歳未満の小児および軽度および重度の障害を持つ人々は、COVID-19 PCR検査を免除されます。 これは目的地によって異なる場合があります - 飛行前に常にチェックしてください。
 
-Reference: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
+参考：https://www.ethad.com/ja-JP/travel-updates/all-destinations-travel-guides
 
 最終更新日: 2020年8月19日
 
-## Travel Clearance Certificate
+## 渡航クリアランス証明書
 
-#### Where can I get a Covid-19 Travel Clearance Certificate in Ireland to allow me to fly or to enter a country?
+#### アイルランドで飛行機や入国を許可するために、どこでCovid-19旅行クリアランス証明書を取得できますか?
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
 
-Tags: Covid-19 Negative PCR Test
+タグ: Covid-19 負のPCRテスト
 
 最終更新日: 2020年8月19日
