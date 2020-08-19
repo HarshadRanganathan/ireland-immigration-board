@@ -1,214 +1,214 @@
 ---
 id: irp
-title: Irish Residence Permit
+title: تصريح الإقامة الآيرلندي
 sidebar_label: IRP
 ---
 
-## First Time Registration
+## التسجيل للمرة الأولى
 
-### Appointment
+### تعيين
 
-#### **How do I get an appointment for first-time registration?**
+#### **كيف أحصل على موعد للتسجيل لأول مرة؟**
 
-The Dublin area Registration Office located in Burgh Quay will close temporarily, to allow for revised public health guidance to be issued. Further announcement in relation to the operation of the Registration Office will issue before the end of this week.
+وسيغلق مؤقتا مكتب تسجيل منطقة دبلن الموجود في بورغ كويي لإتاحة الفرصة لإصدار توجيهات منقحة في مجال الصحة العامة. وسيصدر إعلان آخر فيما يتعلق بتشغيل مكتب التسجيل قبل نهاية هذا الأسبوع.
 
-Please also note that all Registration Offices for non-Dublin residents operated by An Garda Síochána will also close temporarily, to allow for revised public health guidance to be issued.
+كما يرجى ملاحظة أن جميع مكاتب تسجيل المقيمين من غير دبلن التي تديرها قوة الشرطة ستغلق مؤقتاً، • السماح بإصدار توجيهات منقحة في مجال الصحة العامة.
 
-Any permission that was renewed by the notices of 20th March 2020, 13th May 2020 and 16th July 2020 which therefore has a new expiry date between 20th August 2020 and 20th September 2020 is automatically renewed for a further 1 month.
+أي إذن تم تجديده بالمذكرات المؤرخة 20 مارس 2020، 13 مايو 2020 و 16 يوليو 2020 التي لها بالتالي تاريخ انتهاء جديد بين 20 أغسطس 2020 و 20 أيلول/سبتمبر 2020 يتم تجديدها تلقائيا لمدة شهر آخر.
 
-Last Updated: 19-Aug-2020
+آخر تحديث: 19 آب/أغسطس 2020
 
-### Payment
+### الدفع
 
-#### **Can I pay for the registration fees using cash?**
+#### **هل يمكنني دفع رسوم التسجيل باستخدام النقد؟**
 
-No, only card payments are accepted.
+لا، يتم قبول دفعات البطاقة فقط.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-#### **Can I pay for the registration fees using my forex card?**
+#### **هل يمكنني دفع رسوم التسجيل باستخدام بطاقة الفوركس؟**
 
-Yes, you can use your forex card for the payment.
+نعم، يمكنك استخدام بطاقة الفوركس للدفع.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-### Travel
+### السفر
 
-#### **I don’t need to register until I have been in the State for 90 days – what if I want to travel and return to Ireland before I register and receive my IRP card?**
+#### **لا حاجة بي إلى التسجيل حتى كنت في الدولة لمدة تسعين يوماً ــ ماذا لو كنت راغبة في السفر والعودة إلى أيرلندا قبل أن أسجل وتتلقى بطاقة إعادة التوطين الخاصة بي؟**
 
-If you know that you will be travelling within the first four months of your arrival in Ireland, you should apply for a multiple entry visa for your initial trip to Ireland. This will enable you to travel in and out of Ireland before you register and receive your IRP card.
+إذا كنت تعلم أنك ستسافر في غضون الأشهر الأربعة الأولى من وصولك إلى أيرلندا، يجب عليك أن تتقدم بطلب تأشيرة دخول متعددة لرحلتك الأولى إلى أيرلندا. هذا سيمكنك من السفر في والخروج من أيرلندا قبل أن تقوم بالتسجيل وتلقي بطاقتك لآر بي آر.
 
-If you travelled to Ireland on a single entry visa and discover that you need to travel and return to Ireland before you get your IRP card, you can travel and apply for another entry visa from outside Ireland.
+إذا سافرت إلى آيرلندا بتأشيرة دخول واحدة واكتشفت أنك بحاجة إلى السفر والعودة إلى آيرلندا قبل أن تحصل على بطاقة إيران الخاصة بك، بإمكانك السفر والطلب للحصول على تأشيرة دخول أخرى من خارج أيرلندا.
 
-Reference - http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+المرجع http://www.inis.gov.ie/en/INIS/abolition-of-reentry-visa-faq.pdf/Files/abolition-of-reentry-visa-faq.pdf
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
 
-#### **I have registered for IRP but haven't received my card yet. What if I want to travel and return to Ireland before I receive my IRP card?**
+#### **لقد قمت بالتسجيل لآر بي ولكن لم أستلم بطاقتي حتى الآن. ماذا لو أردت السفر والعودة إلى آيرلندا قبل أن أتلقى بطاقة معهد إنعاش الأسر؟**
 
-The Irish Residence Permit is issued to non-EEA nationals who have permission to reside in the State for more than 90 days.
+ويصدر تصريح الإقامة الآيرلندي لغير مواطني المنطقة الاقتصادية الأوروبية الذين يحق لهم الإقامة في الدولة لأكثر من 90 يوما.
 
-It can take some weeks to get a registration appointment, and up to 2 weeks for an IRP card to be produced following registration.
+وقد يستغرق الأمر بضعة أسابيع للحصول على موعد للتسجيل، وأسبوعين كحد أقصى لإصدار بطاقة لمعهد حقوق الإنسان بعد التسجيل.
 
-Visa required nationals who intend to travel in and out of Ireland during the first four months of their planned stay should apply for a multiple entry visa, which will allow them to travel into Ireland multiple times in a given period before their IRP card is issued.
+أما التأشيرات المطلوبة من المواطنين الذين يعتزمون السفر إلى أيرلندا والخروج منها خلال الأشهر الأربعة الأولى من إقامتهم المقررة فينبغي أن يقدموا طلبات للحصول على تأشيرة دخول متعددة، وسيسمح لهم بالسفر إلى آيرلندا عدة مرات في فترة معينة قبل إصدار بطاقتهم الخاصة بالاستثمار الأجنبي المباشر.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-## Renewal
+## التجديد
 
-### Appointment
+### تعيين
 
-#### **I need to renew my IRP. Where should I book my appointment?**
+#### **أحتاج إلى تجديد معهد إنترناشيونات. أين يجب أن أحجز موعدي؟**
 
-The online renewal application portal can be found here: https://inisonline.jahs.ie/
+يمكن العثور على بوابة طلب التجديد عبر الإنترنت هنا: https://inisonline.jahs.ie/
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-### Payment
+### الدفع
 
-#### **I made a payment in the online application portal but didn't receive any confirmation email**
+#### **قمت بالدفع في بوابة التطبيق عبر الإنترنت ولكن لم أستلم أي بريد إلكتروني للتأكيد**
 
-Please check you spam folder for the email. If you have checked your spam folder but have not received an email from us, please wait 7 working days for us to contact you.
+الرجاء التحقق من مجلد البريد المزعج الخاص بك للبريد الإلكتروني. إذا كنت قد قمت بالتحقق من مجلد البريد المزعج الخاص بك ولكن لم تتلق رسالة بريد إلكتروني مننا، الرجاء الانتظار 7 أيام عمل حتى نتمكن من الاتصال بك.
 
-If you have not heard from us by then, please contact the immigration unit (burghquayregoffice@justice.ie) responsible for processing the application form you want to submit.
+وإذا لم تسمعوا منا في ذلك الوقت، فيرجى الاتصال بوحدة الهجرة (Burghquayregoffice@Justice . (هـ) مسؤول عن معالجة استمارة الطلب التي تريد تقديمها.
 
-If you contact us by email, please include 'online form – issue' in the subject line of your email
+إذا اتصلت بنا عن طريق البريد الإلكتروني، فيرجى إدراج "نموذج على الإنترنت - مشكلة" في سطر الموضوع من بريدك الإلكتروني
 
-Reference - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
+المرجع - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-#### **I'm not getting redirected to the payment page after form submission**
+#### **أنا لا أحصل على إعادة توجيهها إلى صفحة الدفع بعد تقديم النموذج**
 
-Try submitting a new form without saving it to get redirected to the payment page.
+حاول تقديم نموذج جديد دون حفظه للحصول على إعادة توجيهه إلى صفحة الدفع.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-### Application Submission
+### تقديم الطلب
 
-In order to process your application after submitting the form in the online portal, you need to submit:
-* A copy of Application confirmation email;
-* Your original passport; and
-* Your current original IRP/GNIB Card
+من أجل معالجة طلبك بعد إرسال الاستمارة في البوابة الإلكترونية، تحتاج إلى إرسالها:
+* نسخة من البريد الإلكتروني لتأكيد الطلب؛
+* جواز سفرك الأصلي؛
+* بطاقة IRP/GNIB الأصلية الحالية
 
-YOU MUST CLEARLY PRINT THE STAMP NUMBER APPLIED FOR ON THE OUTSIDE OF YOUR ENVELOPE
+لقد قمت بتشغيل قاعدة البيانات الخاصة بك في نهاية المطاف
 
-Send by Registered Post to:<br/> **Permissions Renewal Unit<br/> ISD<br/> 13-14 Burgh Quay<br/> Dublin 2<br/> DO2 XK70**
+إرسال بواسطة المنشور المسجل إلى:<br/> **وحدة تجديد الأذونات<br/> ISD<br/> 13-14 Quay<br/> دبلن 2<br/> DO2 XK70**
 
-Do not submit your documents by post until you have received the application confirmation email.
+لا تقم بإرسال مستنداتك بالبريد حتى تتلقى رسالة تأكيد الطلب بالبريد الإلكتروني.
 
-Passports sent by ordinary post will not be processed.
+ولن يتم تجهيز جوازات السفر المرسلة بالمركز العادي.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+المرجع http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-فقط
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-#### **My Spouse's permission is dependent on my renewal. Should we submit our application together?**
+#### **إذن زوجي يعتمد على تجديدي. هل يجب أن نقدم طلبنا معا؟**
 
-You need to submit two separate applications for yourself and your spouse in the online application portal.
+يتوجب عليك تقديم طلبين منفصلين لك ولزوجك/زوجتك في بوابة الطلب على الإنترنت.
 
-In your application, indicate that your spouse's permission on you.
+في طلبك، أبلغ عن إذن زوجك/زوجتك.
 
-Finally, send the documents in two separate envelopes for processing.
+وأخيرا، إرسال الوثائق في مظروفين منفصلين لتجهيزها.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-### Delivery
+### التوصيل
 
-#### **How many days will it take to process my renewal application?**
+#### **كم عدد الأيام التي سيستغرقها تجهيز طلب التجديد؟**
 
-Processing times: 10 – 15 working days minimum
+أوقات المعالجة: 10 - 15 يوم عمل كحد أدنى
 
-If your application is successful – your permission will be renewed and your in-date passport will be stamped.  The new IRP card will issue to you separately within 10 – 15 working days
+إذا كان طلبك ناجحاً - سيتم تجديد إذنك وسيتم ختم جواز سفرك في التاريخ.  بطاقة IRP الجديدة ستصدر لك بشكل منفصل في غضون 10 - 15 يوم عمل
 
-Reference: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+المرجع: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-فقط.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-#### **How will I receive my application once processed?**
+#### **كيف سأتلقى طلبي بمجرد معالجته؟**
 
-The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post
+وسيوضع ختم الإذن في جواز السفر الذي يقدم في التاريخ ويعيده البريد المسجل مع إرسال بطاقة إيراد آر آر آر آر آر آر آر آر آر آر آر آر آر بالبريد السريع المنفصل
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
 
-### Travel
+### السفر
 
-#### **I had sent my Passport and IRP for renewal. Now, I have a family emergency and need to travel ASAP. Can I get my IRP renewed immediately?**
+#### **وكنت قد أرسلت جواز سفري وبرنامج إنعاش العراق للتجديد. الآن، لدي عائلة طارئة وتحتاج للسفر إلى ASAP. هل يمكنني أن أجدد شركتي الداخلية فوراً؟**
 
-Send an email to burghquayregoffice@justice.ie stating your emergency.
+أرسل رسالة بالبريد الإلكتروني إلى برغكيريغوفيتش @justice.ie تعلن حالة الطوارئ الخاصة بك.
 
-All registration offices (Burgh Quay & non-Dublin area) are closed temporarily, to allow for revised public health guidance to be issued.
+يتم إغلاق جميع مكاتب التسجيل (Burgh Quay & non-Dublin) مؤقتا، للسماح بإصدار الإرشادات الصحية العامة المنقحة.
 
-Last Updated: 19-Aug-2020
+آخر تحديث: 19 آب/أغسطس 2020
 
 
-### General
+### عام
 
-#### **I had sent my Passport and IRP for renewal. Will they issue the new IRP with a start date from when we had applied online?**
+#### **وكنت قد أرسلت جواز سفري وبرنامج إنعاش العراق للتجديد. هل سيصدرون برنامج إنعاش المشاريع الجديد مع تاريخ بداية من تاريخ تطبيقنا على الإنترنت؟**
 
-No, the start date will be from the processed day.
+لا، تاريخ البدء سيكون من يوم المعالجة.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-#### **What are the required documents for IRP renewal?**
+#### **ما هي الوثائق المطلوبة لتجديد معهد إنعاش آسيا؟**
 
-Check Required Documents Reference Guide - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
+افحص الدليل المرجعي للوثائق المطلوبة - http://www.inis.gov.ie/en/INIS/Online-registration-required-documents-reference-guide[1].pdf/Files/Online-registration-required-documents-reference-guide[1].pdf
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-#### **Is there any guide for completing the application form in online portal?**
+#### **هل هناك أي دليل لإكمال استمارة الطلب في بوابة الإنترنت؟**
 
-Check Immigration Online Portal Guide – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
+تحقق من دليل بوابة الهجرة على الإنترنت - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-#### **What happens if I forget to upload the necessary documents as part of my application?**
+#### **ماذا يحدث إذا نسيت تحميل الوثائق اللازمة كجزء من تطبيقي؟**
 
-Once you have created an application, you may scan any additional supporting documents and resubmit.
+بمجرد إنشاء طلب، يمكنك مسح أي مستندات داعمة إضافية وإعادة إرسالها.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-#### **How can I obtain an update on the status of my application?**
+#### **كيف يمكنني الحصول على معلومات مستكملة عن حالة طلبي؟**
 
-You may submit your query by email to burghquayregoffice@justice.ie
+يمكنك إرسال استفسارك عن طريق البريد الإلكتروني إلى البرغكيريغوفيتش @justice.ie
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-#### **My permission was restricted due to the expiry of my passport. Can I use the online system to claim the remainder of my permission on my new passport?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+#### **لقد تم تقييد إذني بسبب انتهاء صلاحية جواز سفري. هل يمكنني استخدام النظام على الإنترنت للمطالبة بما تبقى من إذني على جواز سفري الجديد؟**
+لا. يرجى عدم التقدم بطلب للحصول على بقية الصلاحيات الخاصة بك عبر الإنترنت. يجب إرسال طلبات الحصول على الرصيد من الإذن الذي سبق منحه عن طريق البريد الإلكتروني إلى مكتب التسجيل في burghquayregoffice@justice (هـ) لن تكون هناك رسوم مقابل رصيد هذا الإذن.
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+المرجع: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-## Change Address
+## تغيير العنوان
 
-#### **I have changed my home/postal address and need to update it in my registration. What is the procedure?**
+#### **لقد غيرت عنوان منزلي/بريدي وتحتاج إلى تحديثه في تسجيلي. ما هو الإجراء؟**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+إذا كان عنوانك الجديد خارج دبلن، أرسل رسالة بريد إلكتروني إلى gnib_dv@garda.ie
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+إذا كان عنوانك الجديد داخل دبلن، أرسل رسالة بريد إلكتروني إلى burghquayregoffice@justice.ie
 
-Subject Line - Change of details
+خط الموضوع - تغيير التفاصيل
 
-In the email, specify below details:
-* Full Name
-* Registration Number
-* Nationality
-* Date Of Birth
-* New Address
+في البريد الإلكتروني، حدد التفاصيل أدناه:
+* الاسم الكامل
+* رقم التسجيل
+* الجنسية
+* تاريخ الميلاد
+* عنوان جديد
 
-You will get an acknowledgement in 2-3 days.
+سوف تحصل على إقرار خلال 2-3 أيام.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+المرجع http://www.inis.gov.ie/en/INIS/Pages/registration-update-التفاصيل.
 
-Last Updated: 15-Aug-2020
+آخر تحديث: 15 آب/أغسطس 2020
 
-## Health Insurance
+## التأمين الصحي
 
-#### **Can you suggest some affordable health insurance options available in Ireland?**
+#### **هل يمكنك اقتراح بعض خيارات التأمين الصحي بأسعار معقولة المتاحة في آيرلندا؟**
 
-- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
-- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
+- https://www.studyandprotect.com/ (Stamp 1G) (200 - 250 يورو في السنة)
+- https://www.layahealth.ie/productsandservices/plan/scheme/assure-protection (EUR 40 في الشهر)
