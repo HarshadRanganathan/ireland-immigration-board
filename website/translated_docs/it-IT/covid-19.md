@@ -15,7 +15,7 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 ## Emirati
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Emirates?**
+#### **Abbiamo bisogno di un rapporto negativo COVID-19 PCR se viaggiamo da/per l'Irlanda da Emirates?**
 
 Tutti i passeggeri che arrivano a Dubai da qualsiasi destinazione, compresi i passeggeri che si collegano a Dubai, deve avere un certificato negativo di prova COVID-19 PCR da accettare in volo.
 
@@ -30,24 +30,24 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 ## Eithad
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Eithad?**
+#### **Abbiamo bisogno di un rapporto negativo COVID-19 PCR se viaggiamo da/per l'Irlanda da Eithad?**
 
-It is mandatory to have a COVID-19 PCR test before you fly with Etihad Airways – you will only be permitted to fly if you have a negative test result.
+È obbligatorio avere un test PCR COVID-19 prima di volare con Etihad Airways – ti sarà permesso di volare solo se hai un risultato di test negativo.
 
-Your test must be carried out a maximum of 96 hours before your flight departure time at any government accredited medical facility.
+Il test deve essere effettuato al massimo 96 ore prima dell'orario di partenza del volo in qualsiasi struttura medica accreditata dal governo.
 
-Children under 12 and people with mild and severe disabilities are exempt from COVID-19 PCR testing. This may vary by destination – always check before you fly.
+I bambini di età inferiore a 12 anni e le persone con disabilità lievi e gravi sono esenti dai test PCR COVID-19. Questo può variare in base alla destinazione – sempre controllare prima di volare.
 
-Reference: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
+Riferimento: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guide
 
 Ultimo Aggiornamento: 19-Ago-2020
 
-## Travel Clearance Certificate
+## Certificato Di Liquidità Di Viaggio
 
-#### Where can I get a Covid-19 Travel Clearance Certificate in Ireland to allow me to fly or to enter a country?
+#### Dove posso ottenere un certificato di autorizzazione di viaggio Covid-19 in Irlanda per consentirmi di volare o entrare in un paese?
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificate (160 - 180) (Clinica: Dublino, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo e altre location https://www.tmb.ie/clinics)
 
-Tags: Covid-19 Negative PCR Test
+Tags: Covid-19 Negative Test Pcr
 
 Ultimo Aggiornamento: 19-Ago-2020
