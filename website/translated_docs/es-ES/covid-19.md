@@ -15,7 +15,7 @@ No, Lufthansa no tiene estos requisitos por el momento.
 
 ## Emiraos
 
-#### **¿Necesitamos un informe negativo de prueba COVID-19 PCR si viajamos a Irlanda por Emiratos?**
+#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Emirates?**
 
 Todos los pasajeros que llegan a Dubai desde cualquier destino, incluidos los pasajeros que se conectan a Dubai, deberá contar con un certificado de prueba COVID-19 PCR negativo para ser aceptado en el vuelo.
 
@@ -28,12 +28,26 @@ Referencia: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/to
 
 Última actualización: 15-ago-2020
 
-## Certificado de eliminación de viajes
+## Eithad
 
-#### ¿Dónde puedo obtener un Certificado de Expedición de Viaje Covid-19 en Irlanda que me permita volar o entrar en un país?
+#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Eithad?**
+
+It is mandatory to have a COVID-19 PCR test before you fly with Etihad Airways – you will only be permitted to fly if you have a negative test result.
+
+Your test must be carried out a maximum of 96 hours before your flight departure time at any government accredited medical facility.
+
+Children under 12 and people with mild and severe disabilities are exempt from COVID-19 PCR testing. This may vary by destination – always check before you fly.
+
+Reference: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
+
+Última actualización: 19-ago-2020
+
+## Travel Clearance Certificate
+
+#### Where can I get a Covid-19 Travel Clearance Certificate in Ireland to allow me to fly or to enter a country?
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo y más ubicaciones https://www.tmb.ie/clinics)
 
-Etiquetas: Prueba Covid-19 PCR Negativo
+Tags: Covid-19 Negative PCR Test
 
 Última actualización: 19-ago-2020
