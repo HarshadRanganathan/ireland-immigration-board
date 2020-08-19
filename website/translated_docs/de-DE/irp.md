@@ -174,18 +174,18 @@ Zuletzt aktualisiert: 15-Aug-2020
 
 Sie können Ihre Anfrage per E-Mail an burghquayregoffice@justice.ie senden
 
-When contacting them please include:
-* your name,
-* online application reference number,
-* registered post tracking number, and
-* your contact details.
+Wenn Sie mit ihnen in Verbindung treten, bitte einschließen:
+* dein Name
+* online Anwendungsreferenznummer
+* registrierte Post-Tracking-Nummer, und
+* Ihre Kontaktdaten.
 
 Zuletzt aktualisiert: 19-Aug-2020
 
 #### **Meine Erlaubnis wurde aufgrund des Auslaufs meines Reisepasses eingeschränkt. Kann ich mit dem Online-System den Rest meiner Einwilligung für meinen neuen Reisepass beantragen?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+Nein. Bitte bewerben Sie sich nicht für den Rest Ihrer Erlaubnis online. Anträge auf das Guthaben der zuvor erteilten Erlaubnis sollten per E-Mail an die Registrierungsstelle unter burghquayregoffice@justice eingereicht werden. e Es wird keine Gebühr für den Saldo dieser Erlaubnis.
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Referenz: http://www.inis.gov.ie/de/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 Zuletzt aktualisiert: 15-Aug-2020
 
@@ -193,22 +193,22 @@ Zuletzt aktualisiert: 15-Aug-2020
 
 #### **Ich habe meine Home/Postanschrift geändert und muss sie bei meiner Registrierung aktualisieren. Wie sieht das Verfahren aus?**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+Wenn Ihre neue Adresse außerhalb von Dublin liegt, senden Sie eine E-Mail an gnib_dv@garda.ie
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+Wenn Ihre neue Adresse in Dublin ist, senden Sie eine E-Mail an burghquayregoffice@justice.ie
 
-Subject Line - Change of details
+Betreffzeile - Änderung der Details
 
-In the email, specify below details:
-* Full Name
-* Registration Number
+Geben Sie in der E-Mail folgende Details an:
+* Voller Name
+* Registrierungsnummer
 * Nationalität
-* Date Of Birth
-* New Address
+* Geburtsdatum
+* Neue Adresse
 
-You will get an acknowledgement in 2-3 days.
+Sie erhalten eine Bestätigung innerhalb von 2-3 Tagen.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+Referenz - http://www.inis.gov.ie/de/INIS/Pages/registration-update-details
 
 Zuletzt aktualisiert: 15-Aug-2020
 
@@ -216,5 +216,5 @@ Zuletzt aktualisiert: 15-Aug-2020
 
 #### **Können Sie eine erschwingliche Krankenversicherung in Irland vorschlagen?**
 
-- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
-- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
+- https://www.studyandprotect.com/ (Stempel 1G) (EUR 200 - 250 pro Jahr)
+- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 pro Monat)
