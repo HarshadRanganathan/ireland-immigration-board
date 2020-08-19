@@ -1,39 +1,39 @@
 ---
-id: covid-19-test
-title: Covid-19 Test
-sidebar_label: Covid-19 Test
+id: cuvid-19-test
+title: Testul Covid-19
+sidebar_label: Testul Covid-19
 ---
 
 
 ## Lufthansa
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to Ireland by Lufthansa?**
+#### **Avem nevoie de un raport de test PCR negativ COVID-19 dacă călătorim în Irlanda de Lufthansa?**
 
-No, Lufthansa has no such requirements at the moment.
+Nu, Lufthansa nu are în prezent astfel de cerinţe.
 
-Last Updated: 15-Aug-2020
+Ultima actualizare: 15-Aug-2020
 
-## Emirates
+## Emirate
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to Ireland by Emirates?**
+#### **Avem nevoie de un raport de test PCR negativ COVID-19 dacă călătorim în Irlanda cu Emirats?**
 
-All passengers arriving in Dubai from any destination, including passengers connecting in Dubai, must have a negative COVID-19 PCR test certificate to be accepted on the flight.
+Toți pasagerii care sosesc în Dubai din orice destinație, inclusiv pasagerii care se deplasează în Dubai, trebuie să aibă un certificat de testare PCR negativ pentru a fi acceptat pe zbor.
 
-We recommend you bring a printed certificate, but digital ones are accepted in Dubai. It must be an official certificate - SMS confirmation messages are not accepted.
+Vă recomandăm să adăugați un certificat imprimat, dar cele digitale sunt acceptate în Dubai. Trebuie să fie un certificat oficial - Mesajele de confirmare SMS nu sunt acceptate.
 
-The test must be taken a maximum of 96 hours before departure. This excludes children under the age of 12 and passengers who have a moderate or severe disability.
+Testul trebuie efectuat cu maximum 96 de ore înainte de plecare. Aceasta exclude copiii cu vârsta sub 12 ani şi pasagerii cu handicap moderat sau sever.
 
 
-Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
+Referinţă: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travel to-dubai/
 
-Last Updated: 15-Aug-2020
+Ultima actualizare: 15-Aug-2020
 
-## Travel Clearance Certificate
+## Certificat de autorizare a călătoriilor
 
-#### Where can I get a Covid-19 Travel Clearance Certificate in Ireland to allow me to fly or to enter a country?
+#### Unde pot obține un certificat de autorizare a călătoriilor Covid-19 în Irlanda pentru a îmi permite să zbor sau să intru într-o țară?
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo şi mai multe locaţii https://www.tmb.ie/clinics)
 
-Tags: Covid-19 Negative PCR Test
+Etichete: Test PCR negativ
 
-Last Updated: 19-Aug-2020
+Ultima actualizare: 19-Aug-2020
