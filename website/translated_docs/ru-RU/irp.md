@@ -174,18 +174,18 @@ Check Immigration Online Portal Guide – http://www.inis.gov.ie/en/INIS/Immigra
 
 Вы можете отправить свой запрос по электронной почте burghquayregoffice@justice.ie
 
-When contacting them please include:
-* your name,
-* online application reference number,
-* registered post tracking number, and
-* your contact details.
+При обращении с ними пожалуйста включайте в себя:
+* ваше имя,
+* номер онлайн-приложения,
+* регистрационный номер отслеживания записей, и
+* ваши контактные данные.
 
 Последнее обновление: 19 августа 2020
 
 #### **Мое разрешение было ограничено из-за истечения срока действия моего паспорта. Могу ли я использовать систему для получения моего разрешения на новый паспорт?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+Нет. Пожалуйста, не подайте заявку на остаток вашего разрешения онлайн. Заявки на остаток средств разрешения, которые ранее были предоставлены, должны быть поданы по электронной почте в Регистрационное бюро burghquayregoffice@justice. e За остаток этого разрешения взиматься не будет.
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Ссылка: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 Последнее обновление: 15 августа 2020 года
 
@@ -193,22 +193,22 @@ Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-
 
 #### **Я изменил свой адрес дома/почты, и мне нужно обновить его при регистрации. Что такое процедура?**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+Если ваш новый адрес находится за пределами Дублина, отправьте письмо по адресу gnib_dv@garda.ie
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+Если ваш новый адрес находится в Дублине, отправьте письмо по адресу burghquayregoffice@justice.ie
 
-Subject Line - Change of details
+Тема Строка - Изменение деталей
 
-In the email, specify below details:
-* Full Name
-* Registration Number
+В письме укажите ниже:
+* Полное имя
+* Регистрационный номер
 * Гражданство
-* Date Of Birth
-* New Address
+* Дата рождения
+* Новый адрес
 
-You will get an acknowledgement in 2-3 days.
+Вы получите подтверждение в течение 2-3 дней.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+См. http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 Последнее обновление: 15 августа 2020 года
 
@@ -216,5 +216,5 @@ Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 #### **Можете ли вы предложить недорогие варианты медицинского страхования, доступные в Ирландии?**
 
-- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
-- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
+- https://www.studyandprotect.com/ (печать 1G) (200 - 250 руб.
+- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (40 евро/месяц)
