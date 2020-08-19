@@ -1,22 +1,22 @@
 ---
 id: transit-visa
-title: Transit Visa
-sidebar_label: Transit Visa
+title: Wiza tranzytowa
+sidebar_label: Wiza tranzytowa
 ---
 
-## Nationality
+## Obywatelstwo
 
-### India
+### Indie
 
-#### **I will be travelling to Ireland with transit in Frankfurt. Will I require a transit visa?**
+#### **Będę podróżował do Irlandii tranzytem we Frankfurcie. Czy będę potrzebował wizy tranzytowej?**
 
-Nationals of India transiting through Frankfurt (FRA) or Munich (MUC), arriving from a non-Schengen Member State with a confirmed onward ticket for a flight within 24 hours to a third country which is not a Schengen Member State. They must:
-- have a visa issued by Bulgaria, Canada, Croatia, Cyprus, Ireland (Rep.), Japan, Romania, USA or United Kingdom, and
-- stay in the international transit area of the airport, and
-- have documents required for their next destination.
+obywatele Indii przejeżdżający przez Frankfurt (FRA) lub Monachium (MUC), przybywa z państwa członkowskiego spoza strefy Schengen z potwierdzonym dalszym biletem na lot w ciągu 24 godzin do państwa trzeciego, które nie jest państwem członkowskim Schengen. Muszą one:
+- posiadać wizę wydaną przez Bułgarię, Kanadę, Chorwację, Cypr, Irlandię (Rep.), Japonię, Rumunię, USA lub Zjednoczone Królestwo; oraz
+- przebywać w strefie tranzytu międzynarodowego portu lotniczego, oraz
+- posiadać dokumenty wymagane do kolejnego miejsca przeznaczenia.
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+Odniesienie - https://www.iatatravelcentre.com/paszport-visa-health-travel-document-requirements.htm
 
-Tags: Lufthansa, Germany
+Tags: Lufthansa, Niemcy
 
-Last Updated: 15-Aug-2020
+Ostatnia aktualizacja: 15 sierpnia 2020 r.
