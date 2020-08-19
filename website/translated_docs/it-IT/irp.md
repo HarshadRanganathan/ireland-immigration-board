@@ -174,12 +174,18 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 Puoi inviare la tua richiesta via email a burghquayregoffice@justice.ie
 
-Ultimo Aggiornamento: 15-Ago-2020
+When contacting them please include:
+* your name,
+* online application reference number,
+* registered post tracking number, and
+* your contact details.
+
+Ultimo Aggiornamento: 19-Ago-2020
 
 #### **Il mio permesso è stato limitato a causa della scadenza del mio passaporto. Posso utilizzare il sistema online per rivendicare il resto del mio permesso sul mio nuovo passaporto?**
-No. Per favore non applicare per il resto del tuo permesso online. Le domande relative al saldo del permesso precedentemente concesso dovrebbero essere presentate via e-mail all'ufficio di registrazione a burghquayregoffice@justice. e Non ci sarà alcun costo per l'equilibrio di questo permesso.
+No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
 
-Riferimento: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 Ultimo Aggiornamento: 15-Ago-2020
 
@@ -187,22 +193,22 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 #### **Ho cambiato il mio indirizzo casa/postale e ho bisogno di aggiornarlo nella mia registrazione. Qual è la procedura?**
 
-Se il tuo nuovo indirizzo è fuori da Dublino, invia un'email a gnib_dv@garda.ie
+If your new address is outside Dublin, send an email to gnib_dv@garda.ie
 
-Se il tuo nuovo indirizzo è all'interno di Dublino, invia un'email a burghquayregoffice@justice.ie
+If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
 
-Oggetto - Modifica dei dettagli
+Subject Line - Change of details
 
-Nell'e-mail, specificare i seguenti dettagli:
-* Nome Completo
-* Numero Di Registrazione
+In the email, specify below details:
+* Full Name
+* Registration Number
 * Nazionalità
-* Data Di Nascita
-* Nuovo Indirizzo
+* Date Of Birth
+* New Address
 
-Otterrai un riconoscimento in 2-3 giorni.
+You will get an acknowledgement in 2-3 days.
 
-Riferimento - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 Ultimo Aggiornamento: 15-Ago-2020
 
@@ -210,5 +216,5 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 #### **Potete suggerire alcune opzioni di assicurazione sanitaria a prezzi accessibili disponibili in Irlanda?**
 
-- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 all'anno)
-- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 al mese)
+- https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
+- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
