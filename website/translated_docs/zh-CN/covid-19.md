@@ -15,7 +15,7 @@ sidebar_label: Covid-19测试
 
 ## 阿拉伯联合酋长国
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Emirates?**
+#### **如果我们从酋长国前往/离开爱尔兰，我们是否需要一份负COVID-19PCR测试报告？**
 
 从任何目的地抵达迪拜的所有旅客，包括连接迪拜的旅客， 必须有负COVID-19PCR测试证书才能在飞行中被接受。
 
@@ -30,24 +30,24 @@ sidebar_label: Covid-19测试
 
 ## Eithad
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Eithad?**
+#### **如果Eithad正在往返爱尔兰，我们是否需要一份负COVID-19PCR测试报告？**
 
-It is mandatory to have a COVID-19 PCR test before you fly with Etihad Airways – you will only be permitted to fly if you have a negative test result.
+您必须先进行COVID-19PCR测试才能使用Etihad Airways——只有当您有负测试结果时才允许飞行。
 
-Your test must be carried out a maximum of 96 hours before your flight departure time at any government accredited medical facility.
+您必须在任何政府认可的医疗设施飞行出发前进行最多96小时的检查。
 
-Children under 12 and people with mild and severe disabilities are exempt from COVID-19 PCR testing. This may vary by destination – always check before you fly.
+12岁以下的儿童和轻度和严重残疾的人可免除COVID-19PCR检验。 这可能因目标而异——在您飞行之前总是检查。
 
-Reference: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
+参考： https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guide
 
 最后更新时间：2020 年8月19日
 
-## Travel Clearance Certificate
+## 旅行结算证书
 
-#### Where can I get a Covid-19 Travel Clearance Certificate in Ireland to allow me to fly or to enter a country?
+#### 在爱尔兰，我在哪里能够获得Covid-19旅行结算证，以便我能够飞行或进入某个国家？
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificance-certification(EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
 
-Tags: Covid-19 Negative PCR Test
+标签：Covid-19 负PCR 测试
 
 最后更新时间：2020 年8月19日
