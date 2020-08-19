@@ -1,39 +1,39 @@
 ---
-id: covid-19-test
-title: Covid-19 Test
-sidebar_label: Covid-19 Test
+id: covid-19测试
+title: Covid-19测试
+sidebar_label: Covid-19测试
 ---
 
 
 ## Lufthansa
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to Ireland by Lufthansa?**
+#### **如果Lufthansa前往爱尔兰，我们是否需要一份否定COVID-19PCR测试报告？**
 
-No, Lufthansa has no such requirements at the moment.
+没有，Lufthansa目前没有这种要求。
 
-Last Updated: 15-Aug-2020
+最后更新：2015 年 8 月 20 日
 
-## Emirates
+## 阿拉伯联合酋长国
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to Ireland by Emirates?**
+#### **如果我们是由酋长国前往爱尔兰，我们是否需要一份COVID-19PCR测试报告？**
 
-All passengers arriving in Dubai from any destination, including passengers connecting in Dubai, must have a negative COVID-19 PCR test certificate to be accepted on the flight.
+从任何目的地抵达迪拜的所有旅客，包括连接迪拜的旅客， 必须有负COVID-19PCR测试证书才能在飞行中被接受。
 
-We recommend you bring a printed certificate, but digital ones are accepted in Dubai. It must be an official certificate - SMS confirmation messages are not accepted.
+我们推荐您提交一份打印证书，但是数字证书在迪拜被接受。 它必须是官方证书——不接受短信确认信息。
 
-The test must be taken a maximum of 96 hours before departure. This excludes children under the age of 12 and passengers who have a moderate or severe disability.
+在出发前必须进行最多96小时的测试。 这不包括12岁以下儿童和中度或严重残疾的乘客。
 
 
-Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
+参考：https://www.emirates.com/ie/english/help/flyingto-and-from-dubai/tourists-travelling-dubai/
 
-Last Updated: 15-Aug-2020
+最后更新：2015 年 8 月 20 日
 
-## Travel Clearance Certificate
+## 旅行结算证书
 
-#### Where can I get a Covid-19 Travel Clearance Certificate in Ireland to allow me to fly or to enter a country?
+#### 在爱尔兰，我在哪里能够获得Covid-19旅行结算证，以便我能够飞行或进入某个国家？
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificance-certification(EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
 
-Tags: Covid-19 Negative PCR Test
+标签：Covid-19 负PCR 测试
 
-Last Updated: 19-Aug-2020
+最后更新时间：2020 年8月19日
