@@ -15,7 +15,7 @@ sidebar_label: اختبار Covid-19
 
 ## الإمارات
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Emirates?**
+#### **هل نحتاج إلى تقرير تجريبي سلبي COVID-19 PCR إذا كنا نسفر إلى أيرلندا من جانب الإمارات العربية المتحدة؟**
 
 جميع المسافرين القادمين إلى دبي من أي جهة كانت، بمن فيهم المسافرون المرابطون في دبي، يجب أن تكون لديها شهادة اختبار سالبة COVID-19 PCR لكي تقبل في الرحلة.
 
@@ -30,24 +30,24 @@ sidebar_label: اختبار Covid-19
 
 ## Eithad
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Eithad?**
+#### **هل نحتاج إلى تقرير اختبار COVID-19 PCR سلبي إذا كنا نسفر إلى أيرلندا من قبل إيثاد؟**
 
-It is mandatory to have a COVID-19 PCR test before you fly with Etihad Airways – you will only be permitted to fly if you have a negative test result.
+من الإجباري إجراء اختبار PCR COVID-19 قبل أن تحلق مع خطوط إتيهاد الجوية – لن يسمح لك بالطيران إلا إذا كان لديك نتيجة اختبار سلبية.
 
-Your test must be carried out a maximum of 96 hours before your flight departure time at any government accredited medical facility.
+يجب إجراء الاختبار قبل 96 ساعة كحد أقصى من وقت مغادرتك في أي مرفق طبي معتمد حكومياً.
 
-Children under 12 and people with mild and severe disabilities are exempt from COVID-19 PCR testing. This may vary by destination – always check before you fly.
+ويُعفى الأطفال دون سن الثانية عشرة والأشخاص الذين يعانون من إعاقات خفيفة وشديدة من اختبار COVID-19. قد يختلف هذا باختلاف الوجهة - تحقق دائمًا قبل أن تطير.
 
-Reference: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
+المرجع: https://www.etihad.com/en-ie/travel-updates/all destinations-travel-guides
 
 آخر تحديث: 19 آب/أغسطس 2020
 
-## Travel Clearance Certificate
+## شهادة إجازة السفر
 
-#### Where can I get a Covid-19 Travel Clearance Certificate in Ireland to allow me to fly or to enter a country?
+#### أين يمكنني الحصول على شهادة تصريح سفر من طراز Covid-19 في أيرلندا للسماح لي بالطيران أو الدخول إلى بلد ما؟
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certific(EUR 160-180) (العيادات: دبلن، غالو، كارلو، كورك، كيلكيني، ووترفورد، ويكلو، سليغو، والمزيد من المواقع https://www.tmb.ie/clinics)
 
-Tags: Covid-19 Negative PCR Test
+العلامات: Covid-19 (اختبار PCR) السالب
 
 آخر تحديث: 19 آب/أغسطس 2020
