@@ -174,18 +174,18 @@ burghquayregoffice@justice.ieに緊急事態を伝えるメールを送信して
 
 問合せはメールで burghquayregoffice@justice.ie に送信できます。
 
-When contacting them please include:
-* your name,
-* online application reference number,
-* registered post tracking number, and
-* your contact details.
+連絡を取る際には以下を行ってください:
+* あなたの名前
+* オンライン申請参照番号
+* 登録された追跡番号と
+* 連絡先は?
 
 最終更新日: 2020年8月19日
 
 #### **パスポートの有効期限により許可が制限されました。 新しいパスポートの残りの許可を得るためにオンラインシステムを使用することはできますか?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+いいえ。 オンラインでの許可の残りは申請しないでください。 以前に付与された許可の残高 への申請は、 burghquayregoffice@just.に登録事務所に電子メールで提出する必要があります。 e この権限の残高は請求されません。
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+参考：http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 最終更新日: 2020年8月18日
 
@@ -193,22 +193,22 @@ Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-
 
 #### **自宅/住所を変更し、登録で更新する必要があります。 手順は何ですか?**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+新しいアドレスがダブリン以外の場合は、gnib_dv@garda.ie にメールを送信してください。
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+あなたの新しいアドレスがダブリン内にある場合は、burghquayregoffice@justice.ie にメールを送信してください
 
-Subject Line - Change of details
+件名 - 詳細の変更
 
-In the email, specify below details:
-* Full Name
-* Registration Number
+電子メールで、以下の詳細を指定します。
+* フルネーム
+* 登録番号
 * 国籍：
-* Date Of Birth
-* New Address
+* 誕生日
+* 新しいアドレス
 
-You will get an acknowledgement in 2-3 days.
+あなたは2-3日後に承認を受けるでしょう。
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+リファレンス - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 最終更新日: 2020年8月18日
 
@@ -217,4 +217,4 @@ Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 #### **アイルランドで利用可能ないくつかの手頃な健康保険オプションを提案できますか?**
 
 - https://www.studyandprotect.com/ (Stamp 1G) (EUR 200 - 250 per year)
-- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protect (EUR 40 per month)
+- https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protection(EUR 40 per month)
