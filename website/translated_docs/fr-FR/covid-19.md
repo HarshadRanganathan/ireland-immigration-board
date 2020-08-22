@@ -46,8 +46,10 @@ Dernière mise à jour: 19-août-2020
 
 #### Où puis-je obtenir un certificat d'autorisation de voyage Covid-19 en Irlande pour me permettre de voler ou d'entrer dans un pays?
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo et plus d'emplacements https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
 Étiquettes : Covid-19 Test PCR négatif
 
-Dernière mise à jour: 19-août-2020
+Last Updated: 22-Aug-2020
