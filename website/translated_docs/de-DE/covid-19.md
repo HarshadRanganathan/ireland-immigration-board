@@ -46,8 +46,10 @@ Zuletzt aktualisiert: 19-Aug-2020
 
 #### Wo bekomme ich ein Covid-19 Travel Clearance Zertifikat in Irland, um in ein Land zu fliegen oder in ein Land einzureisen?
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-zertifikat (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo und mehr Standorte https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
 Tags: Covid-19 Negativer PCR Test
 
-Zuletzt aktualisiert: 19-Aug-2020
+Last Updated: 22-Aug-2020
