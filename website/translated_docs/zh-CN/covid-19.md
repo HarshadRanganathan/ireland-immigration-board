@@ -46,8 +46,10 @@ sidebar_label: Covid-19测试
 
 #### 在爱尔兰，我在哪里能够获得Covid-19旅行结算证，以便我能够飞行或进入某个国家？
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certificance-certification(EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
 标签：Covid-19 负PCR 测试
 
-最后更新时间：2020 年8月19日
+Last Updated: 22-Aug-2020
