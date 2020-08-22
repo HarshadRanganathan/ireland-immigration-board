@@ -48,6 +48,8 @@ Last Updated: 19-Aug-2020
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
 
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
+
 Tags: Covid-19 Negative PCR Test
 
-Last Updated: 19-Aug-2020
+Last Updated: 22-Aug-2020
