@@ -46,8 +46,10 @@ Referencia: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-
 
 #### ¿Dónde puedo obtener un Certificado de Expedición de Viaje Covid-19 en Irlanda que me permita volar o entrar en un país?
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo y más ubicaciones https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
 Etiquetas: Prueba Covid-19 PCR Negativo
 
-Última actualización: 19-ago-2020
+Last Updated: 22-Aug-2020
