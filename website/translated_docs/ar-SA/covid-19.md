@@ -46,8 +46,10 @@ sidebar_label: اختبار Covid-19
 
 #### أين يمكنني الحصول على شهادة تصريح سفر من طراز Covid-19 في أيرلندا للسماح لي بالطيران أو الدخول إلى بلد ما؟
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certific(EUR 160-180) (العيادات: دبلن، غالو، كارلو، كورك، كيلكيني، ووترفورد، ويكلو، سليغو، والمزيد من المواقع https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
 العلامات: Covid-19 (اختبار PCR) السالب
 
-آخر تحديث: 19 آب/أغسطس 2020
+Last Updated: 22-Aug-2020
