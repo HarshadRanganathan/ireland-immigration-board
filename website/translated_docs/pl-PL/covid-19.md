@@ -46,8 +46,10 @@ Ostatnia aktualizacja: 19 sierpnia 2020 r.
 
 #### Gdzie mogę otrzymać świadectwo podróży w Irlandii dla osób podróżujących w celu umożliwienia mi latania lub wjazdu do kraju?
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (160–180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo i więcej lokalizacji https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
 Tagi: Covid-19 Negatywny test PCR
 
-Ostatnia aktualizacja: 19 sierpnia 2020 r.
+Last Updated: 22-Aug-2020
