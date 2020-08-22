@@ -46,8 +46,10 @@ Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tou
 
 #### Где я могу получить Covid-19 туристического сертификата в Ирландии, чтобы позволить мне летать или въезжать в страну?
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Клиники: Дублин, Галвей, Карлоут, Корк, Килкенни, Ватерфорд, Уиклоу, Слайго и другие места https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
 Теги: тег-19 отрицательный PCR тест
 
-Последнее обновление: 19 августа 2020
+Last Updated: 22-Aug-2020
