@@ -53,3 +53,15 @@ Last Updated: 19-Aug-2020
 Tags: Covid-19 Negative PCR Test
 
 Last Updated: 22-Aug-2020
+
+## Passenger Locator Form
+
+From Wednesday 26 August 2020, the COVID-19 Passenger Locator Form is changing to an online form. If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
+
+https://cvd19plf-prod1.powerappsportals.com/en-us/
+
+This form and any copies of it, and any updates that you send using the passengerlocatorform@plf.ie email address, will be destroyed 28 days after your arrival, unless the form is required for law enforcement purposes.
+
+Reference - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
+
+Last Updated: 23-Aug-2020
