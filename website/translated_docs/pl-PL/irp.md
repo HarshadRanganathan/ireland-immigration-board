@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **Jak dostać wizytę w celu pierwszej rejestracji?**
 
-Urząd rejestracji obszaru dublińskiego z siedzibą w Burghu Quay zamknie tymczasowo w celu umożliwienia wydania zmienionych wytycznych dotyczących zdrowia publicznego. Dalsze ogłoszenie dotyczące funkcjonowania Urzędu Rejestracyjnego zostanie wydane przed końcem tego tygodnia.
+Jeśli mieszkasz w Dublinie, wyślij e-mail na burghquayregoffice@justice.ie z prośbą o wizytę.
 
-Należy również zauważyć, że wszystkie urzędy rejestracyjne rezydentów spoza systemu dublińskiego, obsługiwane przez An Garda Siľna, zostaną czasowo zamknięte, umożliwienie wydania zmienionych wytycznych dotyczących zdrowia publicznego.
+Jeśli mieszkasz poza Dublinem, wyślij wiadomość e-mail do biura ogrodu w swoim okręgu, aby zorganizować spotkanie.
 
-Każde zezwolenie, które zostało przedłużone zawiadomieniem z dnia 20 marca 2020 r., 13 maja 2020 r. i 16 lipca 2020 r., które mają zatem nową datę wygaśnięcia między 20 sierpnia 2020 r. a 20 września 2020 r., automatycznie przedłuża się na kolejny miesiąc.
+| Hrabstwo                                                | Adres e-mail                                           |
+| ------------------------------------------------------- | ------------------------------------------------------ |
+| Ulica Anglesea                                          | CorkCity.Immigration@gara.ie                           |
+| Athlon                                                  | Athlone_DS@gara.ie                                     |
+| Aszbourne                                               | Ashbourne.Immigration@gara.ie                          |
+| Bailieboro                                              | Bailieboro.DS@garda.ie                                 |
+| Ballina                                                 | Mayo.Crime@gara.ie                                     |
+| Ballinasloe                                             | Rejestracje w NQRHQ, Renmore, Galway                   |
+| Ballymote                                               | Ballymote_DS@garda.ie                                  |
+| Ballyshannon                                            | Ballyshannon Immigration@gara.ie                       |
+| Sztaby, pręty i kształtowniki                           | Rejestracja ma miejsce w Biurze Rejestracyjnym Wicklow |
+| Bandon                                                  | Bandon_DS@gara.ie                                      |
+| Zablokuj                                                | Bantry_DS@gara.ie                                      |
+| Belmullet                                               | Mayo.Crime@gara.ie                                     |
+| Bray                                                    | Bray.Immigration@gara.ie                               |
+| Bunkrana                                                | Buncrana_DS@gara.ie                                    |
+| Kahir                                                   | Cahir.Immigration@gara.ie                              |
+| Karczochy                                               | Carrickmacross.Immigration@gara.ie                     |
+| Pasek Zamku                                             | Mayo.Crime@gara.ie                                     |
+| Cavan                                                   | Cavan_DS@gara.ie                                       |
+| Klauremorris                                            | Mayo.Crime@gara.ie                                     |
+| Klonakilty                                              | Clonakilty_DS@gara.ie                                  |
+| Klonmel                                                 | klonmel_ds@gara.ie                                     |
+| Drogheda                                                | Drogheda.Immigration@gara.ie                           |
+| Dundalk                                                 | Dundalk.ImmigrationUnit@gara.ie                        |
+| Fermoja                                                 | Fermoy_DS@gara.ie                                      |
+| Ennis                                                   | Ennis.ImmigrationUnit@gara.ie                          |
+| Galway NQRHQ                                            | Gaillimh.Immigration@gara.ie                           |
+| Granard                                                 | Granard.Immigration@gara.ie                            |
+| ulica Henryka                                           | Zarejestruj się@gara.ie                                |
+| Kells                                                   | Kells_DS@gara.ie                                       |
+| Kildare                                                 | [PLACEHOLDER] Kildare.DistrictOffice@garda.ie          |
+| Kilkenny / Carlow                                       | KilkennyCarlow.Immigration@gara.ie                     |
+| Killarney                                               | Killarney_DS@gara.ie                                   |
+| Letterkenny                                             | [PLACEHOLDER] Letterkenny.Immigration@garda.ie         |
+| Leitrim                                                 | Leitrim.Immigration@gara.ie                            |
+| Leixlip                                                 | Leixlip.Immigrationunit@Garda.ie                       |
+| Listowel                                                | Listowel_DS@gara.ie                                    |
+| Daleko                                                  | Dług.Immigration@gara.ie                               |
+| Makroom                                                 | Makroom.Immigration@gara.ie                            |
+| Łuskowy                                                 | Mallow.DistrictOffice@gara.ie                          |
+| Midleton                                                | Immigration@gara.ie                                    |
+| Łagodny                                                 | Milford.Immigration@gara.ie                            |
+| Monaghan                                                | Monaghan.OkręgiOffice@gara.ie                          |
+| Mullingar                                               | Mullingar.Immigration@gara.ie                          |
+| Naas                                                    | Naas.ImmigrationUnit@gara.ie                           |
+| Navan                                                   | Navan.Immigration@gara.ie                              |
+| Nenagh                                                  | Nenagh.DS@garda.ie                                     |
+| Newcastle Zachodni                                      | Newcastle_West_DS@gara.ie                            |
+| Nowe róży                                               | Nowe_Ross_DS@gara.ie                                 |
+| Portlaoise                                              | Portlaoise.Immigration@gara.ie                         |
+| Rzodkiew                                                | Roscommon.Immigration@gara.ie                          |
+| Sligo                                                   | Sligo.Immigration@gara.ie                              |
+| Turyngia                                                | SergeantsOffice@garda.ie                               |
+| Miasto Tipperary                                        | Tipperary.Immigration@gara.ie                          |
+| Tralee                                                  | Tralee.Immigration@gara.ie                             |
+| Przytnij                                                | Navan.Immigration@gara.ie                              |
+| Tuam                                                    | Rejestracje w NQRHQ, Renmore, Galway                   |
+| Tullamore                                               | [PLACEHOLDER] Tullamore.DistrictOffice@garda.ie        |
+| Wody Unii i wody międzynarodowe obszarów V, VI oraz VII | Waterford.ImmigrationUnit@gara.ie                      |
+| Port zachodni                                           | Mayo.Crime@gara.ie                                     |
+| Wexford                                                 | Rosslare.Immigration@gara.ie                           |
+| Wicklow                                                 | Wicklow.ImmigrationUnit@gara.ie                        |
 
-Ostatnia aktualizacja: 19 sierpnia 2020 r.
+Referencja - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+Ostatnia aktualizacja: 24 sierpnia 2020 r.
 
 ### Płatność
 
@@ -128,9 +193,11 @@ Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Jak otrzymam moją aplikację po jej przetworzeniu?**
 
-Pieczęć zezwolenia zostanie umieszczona w paszporcie w dniu przekazanym i zwrócona przez pocztę rejestrową, przy czym karta IRP zostanie wysłana osobnym listem ekspresowym.
+Pieczęć zezwolenia zostanie umieszczona w paszporcie w dniu przekazanym i zwrócona przez Pocztę Rejestrową, przy czym karta IRP zostanie wysłana osobną pocztą ekspresową.
 
-Ostatnia aktualizacja: 15 sierpnia 2020 r.
+Numer śledzenia zostanie udostępniony w wiadomości e-mail w celu sprawdzenia statusu dostawy paszportu.
+
+Ostatnia aktualizacja: 24 sierpnia 2020 r.
 
 
 ### Podróże
@@ -139,9 +206,9 @@ Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 Wyślij e-mail do burghquayregoffice@justice.ie z informacją o Twoim nagłym wypadku.
 
-Wszystkie urzędy rejestracji (strefa Burgh & poza strefą dublińską) zostają tymczasowo zamknięte, aby umożliwić wydawanie zmienionych wytycznych dotyczących zdrowia publicznego.
+W przypadku braku odpowiedzi należy bezpośrednio podejść do Biura Quay Burgh. Będziesz musiał przekonać strażników, aby mogli wejść do biura. Później możesz odebrać paszport do natychmiastowego podróży.
 
-Ostatnia aktualizacja: 19 sierpnia 2020 r.
+Ostatnia aktualizacja: 24 sierpnia 2020 r.
 
 
 ### Ogólny
