@@ -28,7 +28,7 @@ Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tou
 
 Последнее обновление: 15 августа 2020 года
 
-## Eithad
+## Etihad
 
 #### **Нужен ли нам негативный отчет о испытаниях COVID-19 PCR, если мы едем в Ирландию по Эйтаду или из Ирландии?**
 
