@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **كيف أحصل على موعد للتسجيل لأول مرة؟**
 
-وسيغلق مؤقتا مكتب تسجيل منطقة دبلن الموجود في بورغ كويي لإتاحة الفرصة لإصدار توجيهات منقحة في مجال الصحة العامة. وسيصدر إعلان آخر فيما يتعلق بتشغيل مكتب التسجيل قبل نهاية هذا الأسبوع.
+إذا كنت تسكن في دبلن، قم بإرسال بريد إلكتروني إلى برغكيريغاتيركسيني@justice.ie لطلب موعد.
 
-كما يرجى ملاحظة أن جميع مكاتب تسجيل المقيمين من غير دبلن التي تديرها قوة الشرطة ستغلق مؤقتاً، • السماح بإصدار توجيهات منقحة في مجال الصحة العامة.
+إذا كنت تسكن خارج دبلن، قم بإرسال بريد إلكتروني إلى مكتب الحديقة في مقاطعتك لترتيب موعد.
 
-أي إذن تم تجديده بالمذكرات المؤرخة 20 مارس 2020، 13 مايو 2020 و 16 يوليو 2020 التي لها بالتالي تاريخ انتهاء جديد بين 20 أغسطس 2020 و 20 أيلول/سبتمبر 2020 يتم تجديدها تلقائيا لمدة شهر آخر.
+| المقاطعة          | عنوان البريد الإلكتروني                           |
+| ----------------- | ------------------------------------------------- |
+| شارع انجليسيا     | CorkCity.Immigration@garda.ie                     |
+| أثلون             | Athlone_DS@garda.ie                               |
+| أشبورن            | Ashbourne.Immigration@garda.ie                    |
+| Bailieboro        | Bailieboro.DS@garda.ie                            |
+| Ballina           | مايو.Crime@garda.ie                               |
+| باليناسلو         | التسجيلات المقرر إجراؤها في NQRHQ، RenMor، Galway |
+| باليموت           | Ballymote_DS@garda.ie                             |
+| باليشانون         | Ballyshannon.Immigration@garda.ie                 |
+| الكلاينغ          | التسجيل المقرر إجراؤه في مكتب التسجيل Wicklow     |
+| Bandon            | Bandon_DS@garda.ie                                |
+| مصنع              | Bantry_DS@garda.ie                                |
+| Belmullet         | مايو.Crime@garda.ie                               |
+| Bray              | Bray.Immigration@garda.ie                         |
+| بانكرا            | Buncrana_DS@garda.ie                              |
+| ظهير              | هير.Immigration@garda.ie                          |
+| كاريكماسي         | Carrickmacross.Immigration@garda.ie               |
+| شريط القلاع       | مايو.Crime@garda.ie                               |
+| Cavan             | Cavan_DS@garda.ie                                 |
+| كلريموس           | مايو.Crime@garda.ie                               |
+| استنساخيتي        | Clonakilty_DS@garda.ie                            |
+| استنساخ           | clonmel_ds@garda.ie                               |
+| Drogheda          | Drogheda.Immigration@garda.ie                     |
+| Dundalk           | Dundalk.ImmigrationUnit@garda.ie                  |
+| فرموي             | Fermoy_DS@garda.ie                                |
+| Ennis             | Ennis.ImmigrationUnit@garda.ie                    |
+| مخبأ جالوي        | Gaillimh.Immigration@garda.ie                     |
+| غرانارد           | غرانارد.Immigration@garda.ie                      |
+| شارع هنري         | limerick.registration@garda.ie                    |
+| Kells             | Kells_DS@garda.ie                                 |
+| Kildare           | Kildare.DistrictOffice@garda.ie                   |
+| Kilkenny / Carlow | KilkennyCarlow.Immigration@garda.ie               |
+| كيلارني           | Killarney_DS@garda.ie                             |
+| Letterkenny       | Letterkenny.Immigration@garda.ie                  |
+| Leitrim           | Leitrim.Immigration@garda.ie                      |
+| Leixlip           | Leixlip.Immigrationunit@Garda.ie                  |
+| Listowel          | Listowel_DS@garda.ie                              |
+| لوفورد            | Longford.Immigration@garda.ie                     |
+| الكروم            | Macroom.Immigration@garda.ie                      |
+| خادوم             | Mallow.DistrictOffice@garda.ie                    |
+| Midleton          | Midleton.Immigration@garda.ie                     |
+| ميلفورد           | ميلفورد.Immigration@garda.ie                      |
+| Monaghan          | Monaghan.DistrictOffice@garda.ie                  |
+| Mullingar         | Mullingar.Immigration@garda.ie                    |
+| ناس               | ناراس.ImmigrationUnit@garda.ie                    |
+| Navan             | Navan.Immigration@garda.ie                        |
+| Nenagh            | Nenagh.DS@garda.ie                                |
+| نيوكاسل غربي      | Newcastle_West_DS@garda.ie                      |
+| ورود جديدة        | New_Ross_DS@garda.ie                            |
+| بورتلاويز         | Portlaoise.Immigration@garda.ie                   |
+| روزموني           | Roscommon.Immigration@garda.ie                    |
+| سليغو             | Sligo.Immigration@garda.ie                        |
+| الثروات           | الثعاب.SergeantsOffice@garda.ie                   |
+| مدينة تيبراري     | Tipperary.Immigration@garda.ie                    |
+| Tralee            | Tralee.Immigration@garda.ie                       |
+| تقليم             | Navan.Immigration@garda.ie                        |
+| Tuam              | التسجيلات المقرر إجراؤها في NQRHQ، RenMor، Galway |
+| Tullamore         | Tullamore.DistrictOffice@garda.ie                 |
+| ووترفورد          | Waterford.ImmigrationUnit@garda.ie                |
+| وستبورت           | مايو.Crime@garda.ie                               |
+| ويكسفورد          | Rosslare.Immigration@garda.ie                     |
+| الويكاو           | Wicklow.ImmigrationUnit@garda.ie                  |
 
-آخر تحديث: 19 آب/أغسطس 2020
+المرجع - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+آخر تحديث: 24 آب/أغسطس 2020
 
 ### الدفع
 
@@ -128,9 +193,11 @@ sidebar_label: IRP
 
 #### **كيف سأتلقى طلبي بمجرد معالجته؟**
 
-وسيوضع ختم الإذن في جواز السفر الذي يقدم في التاريخ ويعيده البريد المسجل مع إرسال بطاقة إيراد آر آر آر آر آر آر آر آر آر آر آر آر آر بالبريد السريع المنفصل
+وسيوضع ختم التصريح في جواز السفر المودع في التاريخ الذي يقدم فيه البريد المسجل ويعيده مع إرسال بطاقة إيراد آر آر آر آر آر آر آر آر آر آر آر بالبريد المنفصل.
 
-آخر تحديث: 15 آب/أغسطس 2020
+سيتم مشاركة رقم التتبع في البريد الإلكتروني للتحقق من حالة تسليم جواز السفر.
+
+آخر تحديث: 24 آب/أغسطس 2020
 
 
 ### السفر
@@ -139,9 +206,9 @@ sidebar_label: IRP
 
 أرسل رسالة بالبريد الإلكتروني إلى برغكيريغوفيتش @justice.ie تعلن حالة الطوارئ الخاصة بك.
 
-يتم إغلاق جميع مكاتب التسجيل (Burgh Quay & non-Dublin) مؤقتا، للسماح بإصدار الإرشادات الصحية العامة المنقحة.
+وفي حالة عدم وجود رد، تتصل مباشرة بمكتب بيرغ كويي. عليك أن تقنع الحراس بأن يكونوا قادرين على دخول المكتب. وبعد ذلك، يمكنك إعادة جواز سفرك على الفور.
 
-آخر تحديث: 19 آب/أغسطس 2020
+آخر تحديث: 24 آب/أغسطس 2020
 
 
 ### عام

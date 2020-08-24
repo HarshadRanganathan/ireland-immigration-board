@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **¿Cómo obtengo una cita para registrarme por primera vez?**
 
-La Oficina de Registro del área de Dublín ubicada en el muelle de Burgh cerrará temporalmente, con el fin de permitir la publicación de directrices revisadas sobre salud pública. Antes de que finalice esta semana, se emitirá un nuevo anuncio en relación con el funcionamiento de la Oficina de Registración.
+Si vives en Dublín, envía un correo electrónico a burghquayregoffice@.Ue.ie solicitando una cita.
 
-Tenga en cuenta también que todas las Oficinas de Registro de residentes no residentes en Dublín operadas por An Garda Síochána también cerrarán temporalmente, para permitir la publicación de directrices revisadas de salud pública.
+Si vives fuera de Dublín, envía un correo electrónico a la oficina de jardín en tu respectivo condado para concertar una cita.
 
-Permiso renovado por las notificaciones del 20 de marzo de 2020 El 13 de mayo de 2020 y el 16 de julio de 2020 que, por lo tanto, tiene una nueva fecha de caducidad entre el 20 de agosto de 2020 y el 20 de septiembre de 2020 se renueva automáticamente por un mes más.
+| Condado           | Dirección de email                                              |
+| ----------------- | --------------------------------------------------------------- |
+| Calle Anglesea    | CorkCity.Inmigration@garda.ie                                   |
+| Athlone           | Athlone_DS@garda.ie                                             |
+| Ashbourne         | Ashbourne.Immigration@garda.ie                                  |
+| Bailieboro        | Bailieboro.DS@garda.ie                                          |
+| Ballina           | Mayo.Crime@garda.ie                                             |
+| Balinasloo        | Registros para tener lugar en NQRHQ, Renmore, Galway            |
+| Ballymote         | Ballymote_DS@garda.ie                                           |
+| Ballyshannon      | Ballyshannon.Immigration@garda.ie                               |
+| Baltinglés        | Registros para tener lugar en la Oficina de Registro de Wicklow |
+| Bandon            | Bandon_DS@garda.ie                                              |
+| Bandera           | Bantry_DS@garda.ie                                              |
+| Belmullet         | Mayo.Crime@garda.ie                                             |
+| Bray              | Bray.Inmigración@garda.ie                                       |
+| Buncrana          | Buncrana DS@garda.ie                                            |
+| Cahir             | Cahir.Inmigración@garda.ie                                      |
+| Carrickmall       | Carrickmacross.Immigration@garda.ie                             |
+| Barra de castillo | Mayo.Crime@garda.ie                                             |
+| Cavan             | Cavan_DS@garda.ie                                               |
+| Claremorris       | Mayo.Crime@garda.ie                                             |
+| Clonakilty        | Clonakilty_DS@garda.ie                                          |
+| Clonmel           | clonmel_ds@garda.ie                                             |
+| Drogheda          | Drogheda.Immigration@garda.ie                                   |
+| Dundalk           | Unidad de inmigración @garda.es                                 |
+| Fermoy            | Fermoy_DS@garda.ie                                              |
+| Ennis             | Unidad de Inmigración@garda.ie                                  |
+| NQRHQ de Galway   | Gaillimh.Immigration@garda.ie                                   |
+| Granero           | Granard.Inmigración@garda.ie                                    |
+| Calle Henry       | limerick.registration@garda.ie                                  |
+| Kells             | Kells_S@garda.ie                                                |
+| Kildare           | Kildare.DistritoOffice@garda.ie                                 |
+| Kilkenny / Carlow | KilkennyCarlow.Immigration@garda.ie                             |
+| Killarney         | Killarney_DS@garda.ie                                           |
+| Letterkenny       | Letterkenny.Immigration@garda.ie                                |
+| Leitrim           | Leitrim.Inmigración@garda.ie                                    |
+| Leixlip           | Immigrationunit@Garda.ie                                        |
+| Listowel          | Listowel_DS@garda.ie                                            |
+| Longford          | Longford.Inmigración@garda.ie                                   |
+| Almacén           | Macroom.Immigración@garda.ie                                    |
+| Bufete            | Mallow.DistritoOffice@garda.ie                                  |
+| Midleton          | Midleton.Inmigración@garda.ie                                   |
+| Milford           | Milfor.Inmigración@garda.ie                                     |
+| Monaghan          | Monaghan.DistritoOffice@garda.ie                                |
+| Mullingar         | Mullingar.Inmigración@garda.ie                                  |
+| Naas              | Unidad de inmigración @garda.ie                                 |
+| Navan             | Navan.Inmigración@garda.ie                                      |
+| Nenagh            | Nenagh.DS@garda.ie                                              |
+| Newcastle Oeste   | Nuevo castillo_West_DS@garda.ie                               |
+| Rosa nueva        | Nuevo Ross_DS@garda.ie                                          |
+| Portlaoise        | Portlaoise.Immigration@garda.ie                                 |
+| Roscomún          | Roscommon.Inmigration@garda.ie                                  |
+| Sligo             | Sligo.Inmigración@garda.ie                                      |
+| Torneos           | Thurles.SergeantsOffice@garda.ie                                |
+| Ciudad Tipperary  | Tipperary.Immigration@garda.ie                                  |
+| Tralee            | Tralee.Immigration@garda.ie                                     |
+| Recortar          | Navan.Inmigración@garda.ie                                      |
+| Tuam              | Registros para tener lugar en NQRHQ, Renmore, Galway            |
+| Tullamore         | Tullamore.DistritoOffice@garda.ie                               |
+| Agua              | Waterford.Unit@garda.ie                                         |
+| Puerto Oeste      | Mayo.Crime@garda.ie                                             |
+| Wexford           | Rosslare.Inmigration@garda.ie                                   |
+| Wicklow           | Unidad de Inmigración@garda.ie                                  |
 
-Última actualización: 19-ago-2020
+Referencia - https://www.garda.ie/es/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+Última actualización: 24 de agosto de 2020
 
 ### Pago
 
@@ -128,9 +193,11 @@ Referencia: http://www.inis.gov.ie/es/INIS/Pages/online-renewal-applications-for
 
 #### **¿Cómo recibiré mi solicitud una vez procesada?**
 
-El sello de permisos se colocará en el pasaporte en fecha facilitado y devuelto por el Post Registrado con la tarjeta IRP enviada por correo exprés separado
+El sello de permisos se colocará en el pasaporte en fecha facilitado y devuelto por el Correo Registrado con la tarjeta IRP enviada por correo electrónico separado.
 
-Última actualización: 15-ago-2020
+Se compartirá un número de seguimiento en el correo electrónico para comprobar el estado de entrega de su pasaporte.
+
+Última actualización: 24 de agosto de 2020
 
 
 ### Viajes
@@ -139,9 +206,9 @@ El sello de permisos se colocará en el pasaporte en fecha facilitado y devuelto
 
 Envíe un correo electrónico a burghquayregoffice@.Ue.ie indicando su emergencia.
 
-Todas las oficinas de registro (Burgh Quay & zona que no es de Dublín) están cerradas temporalmente, para permitir la publicación de directrices revisadas de salud pública.
+En caso de que no haya respuesta, diríjase directamente a la oficina de Burgh Quay. Tendrás que convencer a los guardias para que puedan entrar en la oficina. Después, usted puede obtener su pasaporte de vuelta para el viaje inmediato.
 
-Última actualización: 19-ago-2020
+Última actualización: 24 de agosto de 2020
 
 
 ### General

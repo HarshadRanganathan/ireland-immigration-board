@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **Cum pot obține o programare pentru prima înregistrare?**
 
-Biroul de înregistrare a zonelor din Dublin situat în Burgh Quay se va închide temporar, pentru a permite emiterea de orientări revizuite privind sănătatea publică. Anunţul ulterior cu privire la funcţionarea Biroului de Înregistrare va fi emis înainte de sfârşitul acestei săptămâni.
+Dacă locuiți în Dublin, trimiteți un e-mail la burghquayregoffice@justice.ie solicitând o programare.
 
-De asemenea, vă rugăm să rețineți că toate birourile de înregistrare pentru rezidenții din afara sistemului Dublin, exploatate de o Garda Siīochawe, se vor închide, de asemenea, temporar, pentru a permite emiterea de orientări revizuite privind sănătatea publică.
+Dacă locuiți în afara Dublinului, trimiteți un e-mail biroului garda din județul dvs. pentru a vă pregăti pentru o programare.
 
-Orice permisiune care a fost reînnoită prin avizele din 20 martie 2020, 13 mai 2020 și 16 iulie 2020, care are, prin urmare, o nouă dată de expirare între 20 august 2020 și 20 septembrie 2020 este reînnoită automat pentru încă o lună.
+| Județ             | Adresa Email                                               |
+| ----------------- | ---------------------------------------------------------- |
+| Strada Anglesea   | CorkCity.Immigration@garda.ie                              |
+| Atleon            | Atlone_DS@garda.ie                                         |
+| Ashbourne         | Ashbourne.Immigration@garda.ie                             |
+| Bailieboro        | Bailieboro.DS@garda.ie                                     |
+| Ballina           | Mayo.Crime@garda.ie                                        |
+| Balinaza          | Înregistrările vor avea loc la NQRHQ, Renmore, Galway      |
+| Ballymote         | Ballymote_DS@garda.ie                                      |
+| Balan             | Ballyshannon.Immigration@garda.ie                          |
+| Baltinglass       | Înregistrările vor avea loc la Wicklow Registration Office |
+| Bandon            | Bandon_DS@garda.ie                                         |
+| Bandiție          | Bantry_DS@garda.ie                                         |
+| Belmullet         | Mayo.Crime@garda.ie                                        |
+| Bray              | Bray.Immigration@garda.ie                                  |
+| Buncrana          | Buncrana_DS@garda.ie                                       |
+| Cahir             | Cahir.Immigration@garda.ie                                 |
+| Carrickmover      | Carrickmacross.Immigration@garda.ie                        |
+| Castlebar         | Mayo.Crime@garda.ie                                        |
+| Cavan             | Cavan_DS@garda.ie                                          |
+| Claremorris       | Mayo.Crime@garda.ie                                        |
+| Clonakilty        | Clonakily_DS@garda.ie                                      |
+| Clonmel           | clonmel_ds@garda.ie                                        |
+| Drogheda          | Drogheda.Immigration@garda.ie                              |
+| Dundalk           | Dundalk.ImigrationUnit@garda.ie                            |
+| Fermoy            | Fermoy_DS@garda.ie                                         |
+| Ennis             | Ennis.ImmigrationUnit@garda.ie                             |
+| Galway NQRHQ      | Gaillimh.Immigration@garda.ie                              |
+| Granar            | Granard.Imigration@garda.ie                                |
+| Strada Henry      | limerick.registration@garda.ie                             |
+| Kells             | Kells_DS@garda.ie                                          |
+| Kildare           | Kildare.DistrictOffice@garda.ie                            |
+| Kilkenny / Carlow | KilkennyCarlow.Immigration@garda.ie                        |
+| Killarney         | Killarne_DS@garda.ie                                       |
+| Letterkenny       | Letterkenny.Immigration@garda.ie                           |
+| Leitrim           | Leitrim.Immigration@garda.ie                               |
+| Leixlip           | Leixlip.Imigrationunit@Garda.ie                            |
+| Listowel          | Listare_DS@garda.ie                                        |
+| Longford          | Longford.Immigration@garda.ie                              |
+| Macroom           | Macroom.Immigration@garda.ie                               |
+| Permis            | Mallow.DistrictOffice@garda.ie                             |
+| Midleton          | Midleton.Immigration@garda.ie                              |
+| Ușor              | Milford.Immigration@garda.ie                               |
+| Monaghan          | Monaghan.DistrictOffice@garda.ie                           |
+| Mullingar         | Mullingar.Immigration@garda.ie                             |
+| Naas              | Naas.ImmigrationUnit@garda.ie                              |
+| Navan             | Navan.Immigration@garda.ie                                 |
+| Nenagh            | Nenagh.DS@garda.ie                                         |
+| Newcastle Vest    | Newcastle_West_DS@garda.ie                               |
+| Trandafiri noi    | New_Ross_DS@garda.ie                                     |
+| Portlaoise        | Portlaoise.Immigration@garda.ie                            |
+| Rozon             | Roscommon.Immigration@garda.ie                             |
+| Gligo             | Sligo.Immigration@garda.ie                                 |
+| Ghete             | Thurles.SergeantsOffice@garda.ie                           |
+| Oraș Tipperary    | Tipperary.Immigration@garda.ie                             |
+| Tralee            | Tralee.Immigration@garda.ie                                |
+| Tăiați            | Navan.Immigration@garda.ie                                 |
+| Tuam              | Înregistrările vor avea loc la NQRHQ, Renmore, Galway      |
+| Tullamore         | Tullamore.DistrictOffice@garda.ie                          |
+| Waterford         | Waterford.ImmigrationUnit@garda.ie                         |
+| Vest              | Mayo.Crime@garda.ie                                        |
+| Wexford           | Rosslare.Immigration@garda.ie                              |
+| Wicklow           | Wicklow.ImmigrationUnit@garda.ie                           |
 
-Ultima actualizare: 19-Aug-2020
+Referință - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+Ultima actualizare: 24-Aug-2020
 
 ### Plată
 
@@ -128,9 +193,11 @@ Ultima actualizare: 15-Aug-2020
 
 #### **Cum voi primi cererea mea o dată procesată?**
 
-Ștampila de permisiune va fi plasată în pașaportul în curs furnizat și returnată de către Registered Post pe cardul IRP fiind trimis prin poștă expresă separată
+Ștampila de permisiune va fi plasată în pașaportul furnizat și returnat de către Registered Post pe cardul IRP fiind trimis prin poștă expresă separată.
 
-Ultima actualizare: 15-Aug-2020
+Un număr de urmărire va fi distribuit pe e-mail pentru verificarea stării de livrare a pașaportului.
+
+Ultima actualizare: 24-Aug-2020
 
 
 ### Călătorie
@@ -139,9 +206,9 @@ Ultima actualizare: 15-Aug-2020
 
 Trimiteți un e-mail la burghquayregoffice@justice.ie pentru a vă spune urgența.
 
-Toate birourile de înregistrare (Burgh Quay & zona non-Dublin) sunt închise temporar, pentru a permite emiterea de orientări revizuite privind sănătatea publică.
+În cazul în care nu se ia niciun răspuns, se va aborda direct Biroul Quay-ului Burgh. Va trebui să convingeți gardienii să poată intra în birou. După aceea, poți obține pașaportul înapoi pentru călătoriile imediate.
 
-Ultima actualizare: 19-Aug-2020
+Ultima actualizare: 24-Aug-2020
 
 
 ### Generalități

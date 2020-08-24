@@ -48,6 +48,20 @@ Referência: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo e mais localizações https://www.tmb.ie/clinics)
 
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
+
 Tags: Teste Covid-19 Negativo PCR
 
-Última Atualização: 19-Aug-2020
+Última Atualização: 22 -Aug-2020
+
+## Formulário Localizador de Passageiros
+
+A partir de quarta-feira, 26 de Agosto de 2020, o formulário COVID-19 localizador de passageiros está a mudar para um formulário online. Se chegarem à Irlanda a partir dessa data ou a partir dessa data, terão de preencher este formulário antes de chegarem ao Estado.
+
+https://cvd19plf-prod1.powerappsportals.com/en-us/
+
+Este formulário e as cópias que você enviar usando o passageiro erlocatorform@plf. e endereço de e-mail, será destruído 28 dias após a sua chegada, a menos que o formulário seja necessário para fins de aplicação da lei.
+
+Referência - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
+
+Última Atualização: 23-Aug-2020

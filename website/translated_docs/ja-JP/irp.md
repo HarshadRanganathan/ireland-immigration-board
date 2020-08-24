@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **初回登録の予約はどうすればいいですか?**
 
-Burgh-Quayにあるダブリン地域登録事務所は、改訂された公衆衛生指導の発行を可能にするため、一時的に閉鎖されます。 今週末までに、登録事務所の運営に関してさらなる発表が行われます。
+ダブリンに住んでいる場合は、burghquayregoffice@justice.ieに予約を要求するメールを送信してください。
 
-また、Garda Si'ocha'nが運営するダブリン以外の住民の登録事務所も一時的に閉鎖されますのでご注意ください。 改正された公衆衛生指針が公表されるようにしました
+あなたがダブリンの外に住んでいる場合は、あなたのそれぞれの郡のgarda事務所に電子メールを送信して、予定を手配してください。
 
-2020年3月20日の通知により更新された許可について したがって、2020年8月20日から2020年9月20日までの間に新しい有効期限を持つ2020年5月13日と7月16日は、さらに1ヶ月間自動的に更新されます。
+| 都道府県名             | メールアドレス                             |
+| ----------------- | ----------------------------------- |
+| Anglesea Street   | CorkCity.Immigration@garda.ie       |
+| Athlone           | Athlone_DS@garda.ie                 |
+| Ashbourne         | Ashbourne.Immigration@garda.ie      |
+| Bailieboro        | Bailieboro.DS@garda.ie              |
+| Ballina           | Mayo.Crime@garda.ie                 |
+| Balinasloe        | 登録はNQRHQ、Renmore、Galwayで行われます       |
+| Ballymote         | Ballymote_DS@garda.ie               |
+| Ballyshannon      | Ballyshannon.Immigration@garda.ie   |
+| Baltinglass       | Wicklow 登録事務所で行う登録                  |
+| Bandon            | Bandon_DS@garda.ie                  |
+| Bantry            | Bantry_DS@garda.ie                  |
+| Belmullet         | Mayo.Crime@garda.ie                 |
+| Bray              | Bray.Immigration@garda.ie           |
+| Buncrana          | Buncrana_DS@garda.ie                |
+| Cahir             | Cahir.Immigration@garda.ie          |
+| カーリックオーバー         | Carrickmacross.Immigration@garda.ie |
+| Castlebar         | Mayo.Crime@garda.ie                 |
+| Cavan             | Cavan_DS@garda.ie                   |
+| Claremorris       | Mayo.Crime@garda.ie                 |
+| Clonakilty        | Clonakilty_DS@garda.ie              |
+| Clonmel           | clonmel_ds@garda.ie                 |
+| Drogheda          | Drogheda.Immigration@garda.ie       |
+| Dundalk           | Dundalk.ImmigrationUnit@garda.ie    |
+| Fermoy            | Fermoy_DS@garda.ie                  |
+| Ennis             | Ennis.ImmigrationUnit@garda.ie      |
+| Galway NQRHQ      | Gaillimh.Immigration@garda.ie       |
+| Granard           | Granard.Immigration@garda.ie        |
+| ヘンリー・ストリート        | limerick.registration@garda.ie      |
+| Kells             | Kells_DS@garda.ie                   |
+| Kildare           | Kildare.DistrictOffice@garda.ie     |
+| Kilkenny / Carlow | KilkennyCarlow.Immigration@garda.ie |
+| キラーニー             | Killarney_DS@garda.ie               |
+| Letterkenny       | Letterkenny.Immigration@garda.ie    |
+| Leitrim           | Leitrim.Immigration@garda.ie        |
+| Leixlip           | Leixlip.Immigrationunit@Garda.ie    |
+| Listowel          | Listowel_DS@garda.ie                |
+| Longford          | Longford.Immigration@garda.ie       |
+| Macroom           | Macroom.Immigration@garda.ie        |
+| マロ                | Mallow.DistrictOffice@garda.ie      |
+| Midleton          | Midleton.Immigration@garda.ie       |
+| ミルフォード            | Milford.Immigration@garda.ie        |
+| Monaghan          | Monaghan.DistrictOffice@garda.ie    |
+| Mullingar         | Mullingar.Immigration@garda.ie      |
+| Naas              | Naas.ImmigrationUnit@garda.ie       |
+| Navan             | Navan.Immigration@garda.ie          |
+| Nenagh            | Nenagh.DS@garda.ie                  |
+| Newcastle West    | Newcastle_West_DS@garda.ie        |
+| 新しいロス             | New_Ross_DS@garda.ie              |
+| Portlaoise        | Portlaoise.Immigration@garda.ie     |
+| Roscommon         | Roscommon.Immigration@garda.ie      |
+| Sligo             | Sligo.Immigration@garda.ie          |
+| Thurles           | Thurls.SergeantsOffice@garda.ie     |
+| ティペラリーの町          | Tipperary.Immigration@garda.ie      |
+| Tralee            | Tralee.Immigration@garda.ie         |
+| 切り落とし             | Navan.Immigration@garda.ie          |
+| Tuam              | 登録はNQRHQ、Renmore、Galwayで行われます       |
+| Tullamore         | Tullamore.DistrictOffice@garda.ie   |
+| ウォーターフォード         | Waterford.ImmigrationUnit@garda.ie  |
+| ウェストポート           | Mayo.Crime@garda.ie                 |
+| ウェックスフォード         | Rosslare.Immigration@garda.ie       |
+| ウィックロー            | Wicklow.ImmigrationUnit@garda.ie    |
 
-最終更新日: 2020年8月19日
+Reference - https://www.garda.ie/ja/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+最終更新日: 2020年8月24日
 
 ### 支払い
 
@@ -128,9 +193,11 @@ Send by Registered Post to:<br/> **Permissions Renewal Unit<br/> ISD<br/> 13-14 
 
 #### **処理されたアプリケーションはどのように受信されますか?**
 
-許可スタンプは、登録された郵便局によって提供され返却された日付パスポートに入れられ、IRPカードが別途送付されます。
+許可スタンプは、登録された郵便局が別途郵便で送付するIRPカードとともに提出した日付パスポートに入れられ、返却されます。
 
-最終更新日: 2020年8月18日
+追跡番号は、パスポートの配送状況を確認するための電子メールで共有されます。
+
+最終更新日: 2020年8月24日
 
 
 ### 旅行
@@ -139,9 +206,9 @@ Send by Registered Post to:<br/> **Permissions Renewal Unit<br/> ISD<br/> 13-14 
 
 burghquayregoffice@justice.ieに緊急事態を伝えるメールを送信してください。
 
-すべての登録事務所(バーグキー & ダブリン地域以外)は一時的に閉鎖されており、改訂された公衆衛生指導が発行されるようになっています。
+応答がない場合は、直接Burghキーオフィスにアプローチします。 あなたはオフィスに入ることができるように警備員を説得する必要があります。 その後、すぐにパスポートを取り戻すことができます。
 
-最終更新日: 2020年8月19日
+最終更新日: 2020年8月24日
 
 
 ### 全般

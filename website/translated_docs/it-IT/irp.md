@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **Come posso ottenere un appuntamento per la prima iscrizione?**
 
-L'ufficio di registrazione dell'area di Dublino situato a Burgh Quay chiuderà temporaneamente, per consentire la pubblicazione di orientamenti riveduti in materia di sanità pubblica. Un ulteriore annuncio in relazione al funzionamento dell'ufficio di registrazione emetterà entro la fine di questa settimana.
+Se vivi a Dublino, invia una mail a burghquayregoffice@justice.ie chiedendo un appuntamento.
 
-Si prega inoltre di notare che tutti gli uffici di registrazione per i non residenti di Dublino gestiti da An Garda Si<unk> ocha<unk> na si chiuderanno anche temporaneamente, consentire la pubblicazione di orientamenti riveduti in materia di sanità pubblica.
+Se vivi fuori da Dublino, invia un'email all'ufficio garda della tua contea per organizzare un appuntamento.
 
-Qualsiasi autorizzazione rinnovata dagli avvisi del 20 marzo 2020, Il 13 maggio 2020 e il 16 luglio 2020, che ha quindi una nuova data di scadenza tra il 20 agosto 2020 e il 20 settembre 2020, vengono automaticamente rinnovati per un ulteriore mese di tempo.
+| Contea            | Indirizzo Email                                                 |
+| ----------------- | --------------------------------------------------------------- |
+| Via Anglesea      | CorkCity.Immigration@garda.ie                                   |
+| Athlone           | Athlone_DS@garda.ie                                             |
+| Ashbourne         | Ashbourne.Immigration@garda.ie                                  |
+| Bailieboro        | Bailieboro.DS@garda.ie                                          |
+| Ballina           | Mayo.Crime@garda.ie                                             |
+| Ballinasloe       | Le iscrizioni si svolgeranno presso NQRHQ, Renmore, Galway      |
+| Ballymote         | Ballymote_DS@garda.ie                                           |
+| Ballyshannon      | Ballyshannon.Immigration@garda.ie                               |
+| Baltinglass       | Registrazioni da effettuare presso Wicklow Registrazione Office |
+| Bandon            | Bandon_DS@garda.ie                                              |
+| Bantry            | Bantry_DS@garda.ie                                              |
+| Belmullet         | Mayo.Crime@garda.ie                                             |
+| Bray              | Bray.Immigration@garda.ie                                       |
+| Buncrana          | Buncrana_DS@garda.ie                                            |
+| Cahir             | Cahir.Immigration@garda.ie                                      |
+| Carrickmacross    | Carrickmacross.Immigration@garda.ie                             |
+| Castlebar         | Mayo.Crime@garda.ie                                             |
+| Cavan             | Cavan_DS@garda.ie                                               |
+| Claremorris       | Mayo.Crime@garda.ie                                             |
+| Clonakilty        | Clonakilty_DS@garda.ie                                          |
+| Clonmel           | clonmel_ds@garda.ie                                             |
+| Drogheda          | Drogheda.Immigration@garda.ie                                   |
+| Dundalk           | Dundalk.ImmigrationUnit@garda.ie                                |
+| Fermoy            | Fermoy_DS@garda.ie                                              |
+| Ennis             | Ennis.ImmigrationUnit@garda.ie                                  |
+| Galway NQRHQ      | Gaillimh.Immigration@garda.ie                                   |
+| Granard           | Granard.Immigration@garda.ie                                    |
+| Henry Street      | limerick.registration@garda.ie                                  |
+| Kells             | Kells_DS@garda.ie                                               |
+| Kildare           | Kildare.DistrictOffice@garda.ie                                 |
+| Kilkenny / Carlow | KilkennyCarlow.Immigration@garda.ie                             |
+| Killarney         | Killarney_DS@garda.ie                                           |
+| Letterkenny       | Letterkenny.Immigration@garda.ie                                |
+| Leitrim           | Leitrim.Immigration@garda.ie                                    |
+| Leixlip           | Leixlip.Immigrationunit@Garda.ie                                |
+| Listowel          | Listowel_DS@garda.ie                                            |
+| Longford          | Longford.Immigration@garda.ie                                   |
+| Macroom           | Macroom.Immigration@garda.ie                                    |
+| Moglie            | Mallow.DistrictOffice@garda.ie                                  |
+| Midleton          | Midleton.Immigration@garda.ie                                   |
+| Milford           | Milford.Immigration@garda.ie                                    |
+| Monaghan          | Monaghan.DistrictOffice@garda.ie                                |
+| Mullingar         | Mullingar.Immigration@garda.ie                                  |
+| Naas              | Naas.ImmigrationUnit@garda.ie                                   |
+| Navan             | Navan.Immigration@garda.ie                                      |
+| Nenagh            | Nenagh.DS@garda.ie                                              |
+| Newcastle Ovest   | Newcastle_West_DS@garda.ie                                    |
+| New Ross          | New_Ross_DS@garda.ie                                          |
+| Portlaoise        | Portlaoise.Immigration@garda.ie                                 |
+| Roscommon         | Roscommon.Immigration@garda.ie                                  |
+| Sligo             | Sligo.Immigration@garda.ie                                      |
+| Thurles           | Thurles.SergeantsOffice@garda.ie                                |
+| Tipperary Town    | Tipperary.Immigration@garda.ie                                  |
+| Tralee            | Tralee.Immigration@garda.ie                                     |
+| Taglia            | Navan.Immigration@garda.ie                                      |
+| Tuam              | Le iscrizioni si svolgeranno presso NQRHQ, Renmore, Galway      |
+| Tullamore         | Tullamore.DistrictOffice@garda.ie                               |
+| Waterford         | Waterford.ImmigrationUnit@garda.ie                              |
+| Westport          | Mayo.Crime@garda.ie                                             |
+| Wexford           | Rosslare.Immigration@garda.ie                                   |
+| Wicklow           | Wicklow.ImmigrationUnit@garda.ie                                |
 
-Ultimo Aggiornamento: 19-Ago-2020
+Riferimento - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+Ultimo Aggiornamento: 24-Ago-2020
 
 ### Pagamento
 
@@ -128,9 +193,11 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 #### **Come riceverò la mia domanda una volta elaborata?**
 
-Il timbro di autorizzazione sarà inserito nel passaporto in data fornito e restituito dal Post registrato con la carta IRP inviata per posta espressa separata
+Il timbro di autorizzazione sarà apposto nel passaporto in data fornito e restituito dal Post registrato con la carta IRP inviata per posta espressa separata.
 
-Ultimo Aggiornamento: 15-Ago-2020
+Un numero di tracciamento sarà condiviso in email per controllare lo stato della consegna del passaporto.
+
+Ultimo Aggiornamento: 24-Ago-2020
 
 
 ### Viaggi
@@ -139,9 +206,9 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 Invia un'email a burghquayregoffice@justice.ie indicando la tua emergenza.
 
-Tutti gli uffici di registrazione (Burgh Quay & non zona Dublino) sono chiusi temporaneamente, per consentire la revisione degli orientamenti in materia di sanità pubblica.
+In caso di mancata risposta, direttamente avvicinarsi Burgh Quay Office. Dovrete convincere le guardie per poter entrare in ufficio. In seguito, è possibile ottenere il passaporto indietro per un viaggio immediato.
 
-Ultimo Aggiornamento: 19-Ago-2020
+Ultimo Aggiornamento: 24-Ago-2020
 
 
 ### Generale

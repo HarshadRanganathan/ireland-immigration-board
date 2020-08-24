@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **Как я могу получить назначение на первую регистрацию?**
 
-Бюро по регистрации района Дублин, расположенное в Бурге Квей, временно прекратит свою деятельность, с тем чтобы можно было опубликовать пересмотренное руководство в области здравоохранения. Дополнительное объявление о функционировании Бюро регистрации будет опубликовано до конца этой недели.
+Если вы живете в Дублине, отправьте письмо на burghquayregoffice@justice.ie с просьбой о назначении на должность.
 
-Имейте в виду, что все Регистрационные бюро для резидентов вне Дублина, которыми управляет Гарда Сиоха́на, также временно закрываются, для обеспечения возможности опубликования пересмотренных руководящих указаний в области здравоохранения.
+Если вы живете за пределами Дублина, отправьте письмо в садовый офис в вашем округе для организации встречи.
 
-Любое разрешение, которое было возобновлено нотами 20 марта 2020 года, С 13 мая 2020 года и 16 июля 2020 года, срок действия которого истекает с 20 августа 2020 по 20 сентября 2020 года, автоматически продлевается еще на один месяц.
+| Округ               | Email Address                                                   |
+| ------------------- | --------------------------------------------------------------- |
+| Улица Угловая Улица | CorkCity.Immigration@garda.ie                                   |
+| Афлон               | Athlone_DS@garda.ie                                             |
+| Ашбурн              | Ashbourne.Immigration@garda.ie                                  |
+| Bailieboro          | Bailieboro.DS@garda.ie                                          |
+| Ballina             | Mayo.Crime@garda.ie                                             |
+| Баллинасло          | Регистрации, которые должны состояться в NQRHQ, Renmore, Galway |
+| Баллимот            | Ballymote_DS@garda.ie                                           |
+| Баллишеннон         | Ballyshannon.Immigration@garda.ie                               |
+| Baltinglass         | Регистрации в Регистрационном бюро Wicklow                      |
+| Bandon              | Bandon_DS@garda.ie                                              |
+| Бантридж            | Bantry_DS@garda.ie                                              |
+| Belmullet           | Mayo.Crime@garda.ie                                             |
+| Bray                | 6 Bray.Immigration@garden                                       |
+| Бункрана            | Buncrana_DS@garda.ie                                            |
+| Кахир               | Cahir.Immigration@garda.ie                                      |
+| Карриккмон          | Carrickmacross.Immigration@garda.ie                             |
+| Замковая панель     | Mayo.Crime@garda.ie                                             |
+| Cavan               | Cavan_DS@garda.ie                                               |
+| Клареморрис         | Mayo.Crime@garda.ie                                             |
+| Клонакилти          | Clonakilty_DS@garda.ie                                          |
+| Клонмель            | clonmel_ds@garda.ie                                             |
+| Drogheda            | Drogheda.Immigration@garda.ie                                   |
+| Dundalk             | Dundalk.ImmigrationUnit@garda.ie                                |
+| Ферми               | Fermoy_DS@garda.ie                                              |
+| Ennis               | Ennis.ImmigrationUnit@garda.ie                                  |
+| Голуэй NQRHQ        | Gaillimh.Immigration@garda.ie                                   |
+| Гранд               | Granard.Immigration@garda.ie                                    |
+| Улица Генри         | limerick.registration@garda.ie                                  |
+| Kells               | Kells_DS@garda.ie                                               |
+| Kildare             | Kildare.DistrictOffice@garda.ie                                 |
+| Kilkenny / Carlow   | KilkennyCarlow.Immigration@garda.ie                             |
+| Килларни            | Killarney_DS@garda.ie                                           |
+| Letterkenny         | Letterkenny.Immigration@garda.ie                                |
+| Leitrim             | Leitrim.Immigration@garda.ie                                    |
+| Leixlip             | Leixlip.Immigrationunit@Garda.ie                                |
+| Listowel            | Listowel_DS@garda.ie                                            |
+| Лонгфорд            | Longford.Immigration@garda.ie                                   |
+| Макмон              | Macroom.Immigration@garda.ie                                    |
+| Маллор              | Mallow.DistrictOffice@garda.ie                                  |
+| Midleton            | Мидлеттон.Иммиграция@garda.ie                                   |
+| Милфорд             | Milford.Immigration@garda.ie                                    |
+| Monaghan            | Monaghan.DistrictOffice@garda.ie                                |
+| Mullingar           | Mullingar.Immigration@garda.ie                                  |
+| Наас                | Naas.ImmigrationUnit@garda.ie                                   |
+| Navan               | Navan.Immigration@garda.ie                                      |
+| Nenagh              | Nenagh.DS@garda.ie                                              |
+| Западный Ньюкасл    | Newcastle_West_DS@garda.ie                                    |
+| Новый Роз           | New_Ross_DS@garda.ie                                          |
+| Портлайз            | Portlaoise.Immigration@garda.ie                                 |
+| Росарий             | Roscommon.Immigration@garda.ie                                  |
+| Слайго              | Sligo.Immigration@garda.ie                                      |
+| Тюрлы               | Thurles.SergeantsOffice@garda.ie                                |
+| Типперский город    | Tipperary.Immigration@garda.ie                                  |
+| Tralee              | Tralee.Immigration@garda.ie                                     |
+| Обрезать            | Navan.Immigration@garda.ie                                      |
+| Tuam                | Регистрации, которые должны состояться в NQRHQ, Renmore, Galway |
+| Tullamore           | Tullamore.DistrictOffice@garda.ie                               |
+| Уотерфорд           | Waterford.ImmigrationUnit@garda.ie                              |
+| Вестпорт            | Mayo.Crime@garda.ie                                             |
+| Вексфорд            | Rosslare.Immigration@garda.ie                                   |
+| Дикий               | Wicklow.ImmigrationUnit@garda.ie                                |
 
-Последнее обновление: 19 августа 2020
+Ссылка - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+Последнее обновление: 24 августа 2020 года
 
 ### Оплата
 
@@ -128,9 +193,11 @@ sidebar_label: IRP
 
 #### **Как я буду получать заявку после обработки?**
 
-Штамп прав доступа будет помещен в предоставленный для регистрации паспорт и возвращен регистрационной почтой с IRP картой отправляемой отдельной экспресс-почтой
+Штамп прав доступа будет помещен в предоставленный на дату паспорт и возвращен регистрационной почтой с IRP картой отправляемой отдельной экспресс-почтой.
 
-Последнее обновление: 15 августа 2020 года
+Для проверки статуса доставки паспорта в электронном письме будет предоставлен номер отслеживания.
+
+Последнее обновление: 24 августа 2020 года
 
 
 ### Путешествия
@@ -139,9 +206,9 @@ sidebar_label: IRP
 
 Отправьте письмо на burghquayregoffice@justice.ie с указанием вашей чрезвычайной ситуации.
 
-Все регистрационные бюро (Burgh Quay & неДублиная) временно закрыты, с тем чтобы можно было издать пересмотренный вариант руководства в области общественного здравоохранения.
+В случае отсутствия ответа непосредственно обращайтесь к Бергу Quay Office. Вы должны убедиться в том, что стража сможет войти в офис. После этого Вы сможете вернуть паспорт для немедленной поездки.
 
-Последнее обновление: 19 августа 2020
+Последнее обновление: 24 августа 2020 года
 
 
 ### Общие положения

@@ -48,6 +48,20 @@ Ostatnia aktualizacja: 19 sierpnia 2020 r.
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificate (160–180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo i więcej lokalizacji https://www.tmb.ie/clinics)
 
+* http://www.travelhealth.ie/CoronaVirusTesting/ (150) (Dawson St., Dublin)
+
 Tagi: Covid-19 Negatywny test PCR
 
-Ostatnia aktualizacja: 19 sierpnia 2020 r.
+Ostatnia aktualizacja: 22 sierpnia 2020 r.
+
+## Formularz lokalizatora pasażera
+
+Od środy 26 sierpnia 2020 r. formularz lokalizacji pasażerów COVID-19 zmienia się na formularz online. Jeżeli przybywa pan do Irlandii w dniu lub po tej dacie, należy wypełnić niniejszy formularz przed przybyciem do państwa.
+
+https://cvd19plf-prod1.powerappsportals.pl/pl/
+
+Ten formularz i wszelkie jego kopie oraz wszelkie aktualizacje, które wysyłasz za pomocą Passerlocatorform@plf. adres e-mail, zostanie zniszczony 28 dni po przybyciu, chyba że formularz jest wymagany do celów egzekwowania prawa.
+
+Odniesienie - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
+
+Ostatnia aktualizacja: 23 sierpnia 2020 r.
