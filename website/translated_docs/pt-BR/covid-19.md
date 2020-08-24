@@ -28,7 +28,7 @@ Referência: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/t
 
 Última Atualização: 15-Aug-2020
 
-## Eithad
+## Etihad
 
 #### **Será que precisamos de um relatório de teste COVID-19 negativo se estivermos a viajar para a Irlanda pela Eithad?**
 
