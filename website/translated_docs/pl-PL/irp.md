@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **Jak dostać wizytę w celu pierwszej rejestracji?**
 
-Urząd rejestracji obszaru dublińskiego z siedzibą w Burghu Quay zamknie tymczasowo w celu umożliwienia wydania zmienionych wytycznych dotyczących zdrowia publicznego. Dalsze ogłoszenie dotyczące funkcjonowania Urzędu Rejestracyjnego zostanie wydane przed końcem tego tygodnia.
+If you are living in Dublin, send an email to burghquayregoffice@justice.ie requesting for an appointment.
 
-Należy również zauważyć, że wszystkie urzędy rejestracyjne rezydentów spoza systemu dublińskiego, obsługiwane przez An Garda Siľna, zostaną czasowo zamknięte, umożliwienie wydania zmienionych wytycznych dotyczących zdrowia publicznego.
+If you are living outside Dublin, send an email to the garda office at your respective county to arrange for an appointment.
 
-Każde zezwolenie, które zostało przedłużone zawiadomieniem z dnia 20 marca 2020 r., 13 maja 2020 r. i 16 lipca 2020 r., które mają zatem nową datę wygaśnięcia między 20 sierpnia 2020 r. a 20 września 2020 r., automatycznie przedłuża się na kolejny miesiąc.
+| County            | Email Address                                              |
+| ----------------- | ---------------------------------------------------------- |
+| Anglesea Street   | CorkCity.Immigration@garda.ie                              |
+| Athlone           | Athlone_DS@garda.ie                                        |
+| Ashbourne         | Ashbourne.Immigration@garda.ie                             |
+| Bailieboro        | Bailieboro.DS@garda.ie                                     |
+| Ballina           | Mayo.Crime@garda.ie                                        |
+| Ballinasloe       | Registrations to take place at NQRHQ, Renmore, Galway      |
+| Ballymote         | Ballymote_DS@garda.ie                                      |
+| Ballyshannon      | Ballyshannon.Immigration@garda.ie                          |
+| Baltinglass       | Registrations to take place at Wicklow Registration Office |
+| Bandon            | Bandon_DS@garda.ie                                         |
+| Bantry            | Bantry_DS@garda.ie                                         |
+| Belmullet         | Mayo.Crime@garda.ie                                        |
+| Bray              | Bray.Immigration@garda.ie                                  |
+| Buncrana          | Buncrana_DS@garda.ie                                       |
+| Cahir             | Cahir.Immigration@garda.ie                                 |
+| Carrickmacross    | Carrickmacross.Immigration@garda.ie                        |
+| Castlebar         | Mayo.Crime@garda.ie                                        |
+| Cavan             | Cavan_DS@garda.ie                                          |
+| Claremorris       | Mayo.Crime@garda.ie                                        |
+| Clonakilty        | Clonakilty_DS@garda.ie                                     |
+| Clonmel           | clonmel_ds@garda.ie                                        |
+| Drogheda          | Drogheda.Immigration@garda.ie                              |
+| Dundalk           | Dundalk.ImmigrationUnit@garda.ie                           |
+| Fermoy            | Fermoy_DS@garda.ie                                         |
+| Ennis             | Ennis.ImmigrationUnit@garda.ie                             |
+| Galway NQRHQ      | Gaillimh.Immigration@garda.ie                              |
+| Granard           | Granard.Immigration@garda.ie                               |
+| Henry Street      | limerick.registration@garda.ie                             |
+| Kells             | Kells_DS@garda.ie                                          |
+| Kildare           | Kildare.DistrictOffice@garda.ie                            |
+| Kilkenny / Carlow | KilkennyCarlow.Immigration@garda.ie                        |
+| Killarney         | Killarney_DS@garda.ie                                      |
+| Letterkenny       | Letterkenny.Immigration@garda.ie                           |
+| Leitrim           | Leitrim.Immigration@garda.ie                               |
+| Leixlip           | Leixlip.Immigrationunit@Garda.ie                           |
+| Listowel          | Listowel_DS@garda.ie                                       |
+| Longford          | Longford.Immigration@garda.ie                              |
+| Macroom           | Macroom.Immigration@garda.ie                               |
+| Mallow            | Mallow.DistrictOffice@garda.ie                             |
+| Midleton          | Midleton.Immigration@garda.ie                              |
+| Milford           | Milford.Immigration@garda.ie                               |
+| Monaghan          | Monaghan.DistrictOffice@garda.ie                           |
+| Mullingar         | Mullingar.Immigration@garda.ie                             |
+| Naas              | Naas.ImmigrationUnit@garda.ie                              |
+| Navan             | Navan.Immigration@garda.ie                                 |
+| Nenagh            | Nenagh.DS@garda.ie                                         |
+| Newcastle West    | Newcastle_West_DS@garda.ie                               |
+| New Ross          | New_Ross_DS@garda.ie                                     |
+| Portlaoise        | Portlaoise.Immigration@garda.ie                            |
+| Roscommon         | Roscommon.Immigration@garda.ie                             |
+| Sligo             | Sligo.Immigration@garda.ie                                 |
+| Thurles           | Thurles.SergeantsOffice@garda.ie                           |
+| Tipperary Town    | Tipperary.Immigration@garda.ie                             |
+| Tralee            | Tralee.Immigration@garda.ie                                |
+| Trim              | Navan.Immigration@garda.ie                                 |
+| Tuam              | Registrations to take place at NQRHQ, Renmore, Galway      |
+| Tullamore         | Tullamore.DistrictOffice@garda.ie                          |
+| Waterford         | Waterford.ImmigrationUnit@garda.ie                         |
+| Westport          | Mayo.Crime@garda.ie                                        |
+| Wexford           | Rosslare.Immigration@garda.ie                              |
+| Wicklow           | Wicklow.ImmigrationUnit@garda.ie                           |
 
-Ostatnia aktualizacja: 19 sierpnia 2020 r.
+Reference - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+Last Updated: 24-Aug-2020
 
 ### Płatność
 
@@ -128,53 +193,55 @@ Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Jak otrzymam moją aplikację po jej przetworzeniu?**
 
-Pieczęć zezwolenia zostanie umieszczona w paszporcie w dniu przekazanym i zwrócona przez pocztę rejestrową, przy czym karta IRP zostanie wysłana osobnym listem ekspresowym.
+The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post.
 
-Ostatnia aktualizacja: 15 sierpnia 2020 r.
+A tracking number will be shared in email for checking your passport delivery status.
+
+Last Updated: 24-Aug-2020
 
 
 ### Podróże
 
 #### **Wysłałem mój paszport i IRP do odnowienia. Teraz mam sytuację nadzwyczajną w rodzinie i muszę podróżować w ASAP. Czy mogę natychmiast wznowić mój IRP?**
 
-Wyślij e-mail do burghquayregoffice@justice.ie z informacją o Twoim nagłym wypadku.
+Send an email to burghquayregoffice@justice.ie stating your emergency.
 
-Wszystkie urzędy rejestracji (strefa Burgh & poza strefą dublińską) zostają tymczasowo zamknięte, aby umożliwić wydawanie zmienionych wytycznych dotyczących zdrowia publicznego.
+In case of no response, directly approach Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
 
-Ostatnia aktualizacja: 19 sierpnia 2020 r.
+Last Updated: 24-Aug-2020
 
 
 ### Ogólny
 
 #### **Wysłałem mój paszport i IRP do odnowienia. Czy wydadzą nową IRP z datą rozpoczęcia stosowania przez nas online?**
 
-Nie, data rozpoczęcia będzie od przetworzonego dnia.
+No, the start date will be from the processed day.
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Jakie są dokumenty wymagane do przedłużenia IRP?**
 
-Sprawdź wymagany przewodnik referencyjny dokumentów - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
+Check Required Documents Reference Guide - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Czy w portalu internetowym znajdują się jakieś poradniki dotyczące wypełniania formularza wniosku?**
 
-Sprawdź Portal Imigracji online – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
+Check Immigration Online Portal Guide – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Co się stanie, jeśli zapomnę przesłać niezbędne dokumenty jako część mojej aplikacji?**
 
-Po utworzeniu aplikacji możesz zeskanować wszelkie dodatkowe dokumenty uzupełniające i ponownie przesłać.
+Once you have created an application, you may scan any additional supporting documents and resubmit.
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Jak mogę uzyskać aktualizację statusu mojej aplikacji?**
 
-Możesz przesłać zapytanie e-mailem na burghquayregoffice@justice.ie
+You may submit your query by email to burghquayregoffice@justice.ie
 
-Podczas kontaktowania się z nimi proszę zawierać:
+When contacting them please include:
 * Twoje imię i nazwisko,
 * numer referencyjny aplikacji online,
 * numer śledzenia postu zarejestrowanego, oraz
@@ -183,9 +250,9 @@ Podczas kontaktowania się z nimi proszę zawierać:
 Ostatnia aktualizacja: 19 sierpnia 2020 r.
 
 #### **Moje zezwolenie zostało ograniczone ze względu na wygaśnięcie mojego paszportu. Czy mogę użyć systemu online, aby otrzymać pozostałą część mojego pozwolenia na mój nowy paszport?**
-Nie. Proszę nie ubiegać się o pozostałą część uprawnień online. Wnioski o saldo uprzednio udzielonych zezwoleń powinny być składane pocztą elektroniczną do urzędu rejestracji pod adresem burghquayregoffice@justice. e Nie będzie opłaty za saldo tego uprawnienia.
+No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
 
-Źródło: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
@@ -193,22 +260,22 @@ Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Zmieniłem adres domowy/pocztowy i muszę go zaktualizować w mojej rejestracji. Jaka jest procedura?**
 
-Jeśli Twój nowy adres znajduje się poza systemem Dublin, wyślij e-mail na gnib_dv@garda.ie
+If your new address is outside Dublin, send an email to gnib_dv@garda.ie
 
-Jeśli Twój nowy adres znajduje się w Dublinie, wyślij e-mail na burghquayregoffice@justice.ie
+If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
 
-Temat - Zmiana szczegółów
+Subject Line - Change of details
 
-W wiadomości e-mail proszę podać szczegółowe informacje:
+In the email, specify below details:
 * Pełna nazwa
 * Numer rejestracyjny
 * Obywatelstwo
 * Data urodzenia
 * Nowy adres
 
-Otrzymasz potwierdzenie w ciągu 2-3 dni.
+You will get an acknowledgement in 2-3 days.
 
-Odniesienie - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
