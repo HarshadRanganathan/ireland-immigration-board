@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **How do I get an appointment for first-time registration?**
 
-The Dublin area Registration Office located in Burgh Quay will close temporarily, to allow for revised public health guidance to be issued. Further announcement in relation to the operation of the Registration Office will issue before the end of this week.
+If you are living in Dublin, send an email to burghquayregoffice@justice.ie requesting for an appointment.
 
-Please also note that all Registration Offices for non-Dublin residents operated by An Garda Síochána will also close temporarily, to allow for revised public health guidance to be issued.
+If you are living outside Dublin, send an email to the garda office at your respective county to arrange for an appointment.	
 
-Any permission that was renewed by the notices of 20th March 2020, 13th May 2020 and 16th July 2020 which therefore has a new expiry date between 20th August 2020 and 20th September 2020 is automatically renewed for a further 1 month.
+| County  | Email Address  | 	
+|---|---|	
+|Anglesea Street|	CorkCity.Immigration@garda.ie|	
+|Athlone|	Athlone_DS@garda.ie|	
+|Ashbourne|	Ashbourne.Immigration@garda.ie|	
+|Bailieboro|	Bailieboro.DS@garda.ie|	
+|Ballina|	Mayo.Crime@garda.ie|	
+|Ballinasloe|	Registrations to take place at NQRHQ, Renmore, Galway|	
+|Ballymote|	Ballymote_DS@garda.ie|	
+|Ballyshannon|	Ballyshannon.Immigration@garda.ie|	
+|Baltinglass|	Registrations to take place at Wicklow Registration Office|	
+|Bandon|	Bandon_DS@garda.ie|	
+|Bantry|	Bantry_DS@garda.ie|	
+|Belmullet|	Mayo.Crime@garda.ie|	
+|Bray|	Bray.Immigration@garda.ie|	
+|Buncrana|	Buncrana_DS@garda.ie|	
+|Cahir|	Cahir.Immigration@garda.ie|	
+|Carrickmacross|	Carrickmacross.Immigration@garda.ie|	
+|Castlebar|	Mayo.Crime@garda.ie|	
+|Cavan|	Cavan_DS@garda.ie|	
+|Claremorris|	Mayo.Crime@garda.ie|	
+|Clonakilty|	Clonakilty_DS@garda.ie|	
+|Clonmel|	clonmel_ds@garda.ie|	
+|Drogheda|	Drogheda.Immigration@garda.ie|	
+|Dundalk|	Dundalk.ImmigrationUnit@garda.ie|	
+|Fermoy|	Fermoy_DS@garda.ie|	
+|Ennis|	Ennis.ImmigrationUnit@garda.ie|	
+|Galway NQRHQ|	Gaillimh.Immigration@garda.ie|	
+|Granard|	Granard.Immigration@garda.ie|	
+|Henry Street|	limerick.registration@garda.ie|	
+|Kells|	Kells_DS@garda.ie|	
+|Kildare|	Kildare.DistrictOffice@garda.ie|	
+|Kilkenny / Carlow|	KilkennyCarlow.Immigration@garda.ie|	
+|Killarney|	Killarney_DS@garda.ie|	
+|Letterkenny|	Letterkenny.Immigration@garda.ie|	
+|Leitrim|	Leitrim.Immigration@garda.ie|	
+|Leixlip|	Leixlip.Immigrationunit@Garda.ie|	
+|Listowel|	Listowel_DS@garda.ie|	
+|Longford|	Longford.Immigration@garda.ie|	
+|Macroom|	Macroom.Immigration@garda.ie|	
+|Mallow|	Mallow.DistrictOffice@garda.ie|	
+|Midleton|	Midleton.Immigration@garda.ie|	
+|Milford|	Milford.Immigration@garda.ie|	
+|Monaghan|	Monaghan.DistrictOffice@garda.ie|	
+|Mullingar|	Mullingar.Immigration@garda.ie|	
+|Naas|	Naas.ImmigrationUnit@garda.ie|	
+|Navan|	Navan.Immigration@garda.ie|	
+|Nenagh|	Nenagh.DS@garda.ie|	
+|Newcastle West|	Newcastle_West_DS@garda.ie|	
+|New Ross|	New_Ross_DS@garda.ie|	
+|Portlaoise|	Portlaoise.Immigration@garda.ie|	
+|Roscommon|	Roscommon.Immigration@garda.ie|	
+|Sligo|	Sligo.Immigration@garda.ie|	
+|Thurles|	Thurles.SergeantsOffice@garda.ie|	
+|Tipperary Town|	Tipperary.Immigration@garda.ie|	
+|Tralee|	Tralee.Immigration@garda.ie|	
+|Trim|	Navan.Immigration@garda.ie|	
+|Tuam|	Registrations to take place at NQRHQ, Renmore, Galway|	
+|Tullamore|	Tullamore.DistrictOffice@garda.ie|	
+|Waterford|	Waterford.ImmigrationUnit@garda.ie|	
+|Westport|	Mayo.Crime@garda.ie|	
+|Wexford|	Rosslare.Immigration@garda.ie|	
+|Wicklow|	Wicklow.ImmigrationUnit@garda.ie|	
 
-Last Updated: 19-Aug-2020
+Reference - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html	
+
+
+Last Updated: 24-Aug-2020
 
 ### Payment
 
@@ -149,9 +214,9 @@ Last Updated: 15-Aug-2020
 
 Send an email to burghquayregoffice@justice.ie stating your emergency.
 
-All registration offices (Burgh Quay & non-Dublin area) are closed temporarily, to allow for revised public health guidance to be issued. 
+In case of no response, directly approach Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
 
-Last Updated: 19-Aug-2020
+Last Updated: 24-Aug-2020
 
 
 ### General
