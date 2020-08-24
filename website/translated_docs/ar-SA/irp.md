@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **كيف أحصل على موعد للتسجيل لأول مرة؟**
 
-وسيغلق مؤقتا مكتب تسجيل منطقة دبلن الموجود في بورغ كويي لإتاحة الفرصة لإصدار توجيهات منقحة في مجال الصحة العامة. وسيصدر إعلان آخر فيما يتعلق بتشغيل مكتب التسجيل قبل نهاية هذا الأسبوع.
+If you are living in Dublin, send an email to burghquayregoffice@justice.ie requesting for an appointment.
 
-كما يرجى ملاحظة أن جميع مكاتب تسجيل المقيمين من غير دبلن التي تديرها قوة الشرطة ستغلق مؤقتاً، • السماح بإصدار توجيهات منقحة في مجال الصحة العامة.
+If you are living outside Dublin, send an email to the garda office at your respective county to arrange for an appointment.
 
-أي إذن تم تجديده بالمذكرات المؤرخة 20 مارس 2020، 13 مايو 2020 و 16 يوليو 2020 التي لها بالتالي تاريخ انتهاء جديد بين 20 أغسطس 2020 و 20 أيلول/سبتمبر 2020 يتم تجديدها تلقائيا لمدة شهر آخر.
+| County            | Email Address                                              |
+| ----------------- | ---------------------------------------------------------- |
+| Anglesea Street   | CorkCity.Immigration@garda.ie                              |
+| Athlone           | Athlone_DS@garda.ie                                        |
+| Ashbourne         | Ashbourne.Immigration@garda.ie                             |
+| Bailieboro        | Bailieboro.DS@garda.ie                                     |
+| Ballina           | Mayo.Crime@garda.ie                                        |
+| Ballinasloe       | Registrations to take place at NQRHQ, Renmore, Galway      |
+| Ballymote         | Ballymote_DS@garda.ie                                      |
+| Ballyshannon      | Ballyshannon.Immigration@garda.ie                          |
+| Baltinglass       | Registrations to take place at Wicklow Registration Office |
+| Bandon            | Bandon_DS@garda.ie                                         |
+| Bantry            | Bantry_DS@garda.ie                                         |
+| Belmullet         | Mayo.Crime@garda.ie                                        |
+| Bray              | Bray.Immigration@garda.ie                                  |
+| Buncrana          | Buncrana_DS@garda.ie                                       |
+| Cahir             | Cahir.Immigration@garda.ie                                 |
+| Carrickmacross    | Carrickmacross.Immigration@garda.ie                        |
+| Castlebar         | Mayo.Crime@garda.ie                                        |
+| Cavan             | Cavan_DS@garda.ie                                          |
+| Claremorris       | Mayo.Crime@garda.ie                                        |
+| Clonakilty        | Clonakilty_DS@garda.ie                                     |
+| Clonmel           | clonmel_ds@garda.ie                                        |
+| Drogheda          | Drogheda.Immigration@garda.ie                              |
+| Dundalk           | Dundalk.ImmigrationUnit@garda.ie                           |
+| Fermoy            | Fermoy_DS@garda.ie                                         |
+| Ennis             | Ennis.ImmigrationUnit@garda.ie                             |
+| Galway NQRHQ      | Gaillimh.Immigration@garda.ie                              |
+| Granard           | Granard.Immigration@garda.ie                               |
+| Henry Street      | limerick.registration@garda.ie                             |
+| Kells             | Kells_DS@garda.ie                                          |
+| Kildare           | Kildare.DistrictOffice@garda.ie                            |
+| Kilkenny / Carlow | KilkennyCarlow.Immigration@garda.ie                        |
+| Killarney         | Killarney_DS@garda.ie                                      |
+| Letterkenny       | Letterkenny.Immigration@garda.ie                           |
+| Leitrim           | Leitrim.Immigration@garda.ie                               |
+| Leixlip           | Leixlip.Immigrationunit@Garda.ie                           |
+| Listowel          | Listowel_DS@garda.ie                                       |
+| Longford          | Longford.Immigration@garda.ie                              |
+| Macroom           | Macroom.Immigration@garda.ie                               |
+| Mallow            | Mallow.DistrictOffice@garda.ie                             |
+| Midleton          | Midleton.Immigration@garda.ie                              |
+| Milford           | Milford.Immigration@garda.ie                               |
+| Monaghan          | Monaghan.DistrictOffice@garda.ie                           |
+| Mullingar         | Mullingar.Immigration@garda.ie                             |
+| Naas              | Naas.ImmigrationUnit@garda.ie                              |
+| Navan             | Navan.Immigration@garda.ie                                 |
+| Nenagh            | Nenagh.DS@garda.ie                                         |
+| Newcastle West    | Newcastle_West_DS@garda.ie                               |
+| New Ross          | New_Ross_DS@garda.ie                                     |
+| Portlaoise        | Portlaoise.Immigration@garda.ie                            |
+| Roscommon         | Roscommon.Immigration@garda.ie                             |
+| Sligo             | Sligo.Immigration@garda.ie                                 |
+| Thurles           | Thurles.SergeantsOffice@garda.ie                           |
+| Tipperary Town    | Tipperary.Immigration@garda.ie                             |
+| Tralee            | Tralee.Immigration@garda.ie                                |
+| Trim              | Navan.Immigration@garda.ie                                 |
+| Tuam              | Registrations to take place at NQRHQ, Renmore, Galway      |
+| Tullamore         | Tullamore.DistrictOffice@garda.ie                          |
+| Waterford         | Waterford.ImmigrationUnit@garda.ie                         |
+| Westport          | Mayo.Crime@garda.ie                                        |
+| Wexford           | Rosslare.Immigration@garda.ie                              |
+| Wicklow           | Wicklow.ImmigrationUnit@garda.ie                           |
 
-آخر تحديث: 19 آب/أغسطس 2020
+Reference - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+Last Updated: 24-Aug-2020
 
 ### الدفع
 
@@ -128,53 +193,55 @@ sidebar_label: IRP
 
 #### **كيف سأتلقى طلبي بمجرد معالجته؟**
 
-وسيوضع ختم الإذن في جواز السفر الذي يقدم في التاريخ ويعيده البريد المسجل مع إرسال بطاقة إيراد آر آر آر آر آر آر آر آر آر آر آر آر آر بالبريد السريع المنفصل
+The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post.
 
-آخر تحديث: 15 آب/أغسطس 2020
+A tracking number will be shared in email for checking your passport delivery status.
+
+Last Updated: 24-Aug-2020
 
 
 ### السفر
 
 #### **وكنت قد أرسلت جواز سفري وبرنامج إنعاش العراق للتجديد. الآن، لدي عائلة طارئة وتحتاج للسفر إلى ASAP. هل يمكنني أن أجدد شركتي الداخلية فوراً؟**
 
-أرسل رسالة بالبريد الإلكتروني إلى برغكيريغوفيتش @justice.ie تعلن حالة الطوارئ الخاصة بك.
+Send an email to burghquayregoffice@justice.ie stating your emergency.
 
-يتم إغلاق جميع مكاتب التسجيل (Burgh Quay & non-Dublin) مؤقتا، للسماح بإصدار الإرشادات الصحية العامة المنقحة.
+In case of no response, directly approach Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
 
-آخر تحديث: 19 آب/أغسطس 2020
+Last Updated: 24-Aug-2020
 
 
 ### عام
 
 #### **وكنت قد أرسلت جواز سفري وبرنامج إنعاش العراق للتجديد. هل سيصدرون برنامج إنعاش المشاريع الجديد مع تاريخ بداية من تاريخ تطبيقنا على الإنترنت؟**
 
-لا، تاريخ البدء سيكون من يوم المعالجة.
+No, the start date will be from the processed day.
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 #### **ما هي الوثائق المطلوبة لتجديد معهد إنعاش آسيا؟**
 
-افحص الدليل المرجعي للوثائق المطلوبة - http://www.inis.gov.ie/en/INIS/Online-registration-required-documents-reference-guide[1].pdf/Files/Online-registration-required-documents-reference-guide[1].pdf
+Check Required Documents Reference Guide - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 #### **هل هناك أي دليل لإكمال استمارة الطلب في بوابة الإنترنت؟**
 
-تحقق من دليل بوابة الهجرة على الإنترنت - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
+Check Immigration Online Portal Guide – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 #### **ماذا يحدث إذا نسيت تحميل الوثائق اللازمة كجزء من تطبيقي؟**
 
-بمجرد إنشاء طلب، يمكنك مسح أي مستندات داعمة إضافية وإعادة إرسالها.
+Once you have created an application, you may scan any additional supporting documents and resubmit.
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 #### **كيف يمكنني الحصول على معلومات مستكملة عن حالة طلبي؟**
 
-يمكنك إرسال استفسارك عن طريق البريد الإلكتروني إلى البرغكيريغوفيتش @justice.ie
+You may submit your query by email to burghquayregoffice@justice.ie
 
-عند الاتصال بهم يرجى ما يلي:
+When contacting them please include:
 * اسمك،
 * الرقم المرجعي للتطبيق عبر الإنترنت،
 * رقم التتبع المسجل، و
@@ -183,9 +250,9 @@ sidebar_label: IRP
 آخر تحديث: 19 آب/أغسطس 2020
 
 #### **لقد تم تقييد إذني بسبب انتهاء صلاحية جواز سفري. هل يمكنني استخدام النظام على الإنترنت للمطالبة بما تبقى من إذني على جواز سفري الجديد؟**
-لا. يرجى عدم التقدم بطلب للحصول على بقية الصلاحيات الخاصة بك عبر الإنترنت. يجب إرسال طلبات الحصول على الرصيد من الإذن الذي سبق منحه عن طريق البريد الإلكتروني إلى مكتب التسجيل في burghquayregoffice@justice (هـ) لن تكون هناك رسوم مقابل رصيد هذا الإذن.
+No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
 
-المرجع: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf.
+Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 آخر تحديث: 15 آب/أغسطس 2020
 
@@ -193,22 +260,22 @@ sidebar_label: IRP
 
 #### **لقد غيرت عنوان منزلي/بريدي وتحتاج إلى تحديثه في تسجيلي. ما هو الإجراء؟**
 
-إذا كان عنوانك الجديد خارج دبلن، أرسل رسالة بريد إلكتروني إلى gnib_dv@garda.ie
+If your new address is outside Dublin, send an email to gnib_dv@garda.ie
 
-إذا كان عنوانك الجديد داخل دبلن، أرسل رسالة بريد إلكتروني إلى burghquayregoffice@justice.ie
+If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
 
-خط الموضوع - تغيير التفاصيل
+Subject Line - Change of details
 
-في البريد الإلكتروني، حدد التفاصيل أدناه:
+In the email, specify below details:
 * الاسم الكامل
 * رقم التسجيل
 * الجنسية
 * تاريخ الميلاد
 * عنوان جديد
 
-سوف تحصل على إقرار خلال 2-3 أيام.
+You will get an acknowledgement in 2-3 days.
 
-المرجع http://www.inis.gov.ie/en/INIS/Pages/registration-update-التفاصيل.
+Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 آخر تحديث: 15 آب/أغسطس 2020
 
