@@ -10,13 +10,78 @@ sidebar_label: IRP
 
 #### **Come posso ottenere un appuntamento per la prima iscrizione?**
 
-L'ufficio di registrazione dell'area di Dublino situato a Burgh Quay chiuderà temporaneamente, per consentire la pubblicazione di orientamenti riveduti in materia di sanità pubblica. Un ulteriore annuncio in relazione al funzionamento dell'ufficio di registrazione emetterà entro la fine di questa settimana.
+If you are living in Dublin, send an email to burghquayregoffice@justice.ie requesting for an appointment.
 
-Si prega inoltre di notare che tutti gli uffici di registrazione per i non residenti di Dublino gestiti da An Garda Si<unk> ocha<unk> na si chiuderanno anche temporaneamente, consentire la pubblicazione di orientamenti riveduti in materia di sanità pubblica.
+If you are living outside Dublin, send an email to the garda office at your respective county to arrange for an appointment.
 
-Qualsiasi autorizzazione rinnovata dagli avvisi del 20 marzo 2020, Il 13 maggio 2020 e il 16 luglio 2020, che ha quindi una nuova data di scadenza tra il 20 agosto 2020 e il 20 settembre 2020, vengono automaticamente rinnovati per un ulteriore mese di tempo.
+| County            | Email Address                                              |
+| ----------------- | ---------------------------------------------------------- |
+| Anglesea Street   | CorkCity.Immigration@garda.ie                              |
+| Athlone           | Athlone_DS@garda.ie                                        |
+| Ashbourne         | Ashbourne.Immigration@garda.ie                             |
+| Bailieboro        | Bailieboro.DS@garda.ie                                     |
+| Ballina           | Mayo.Crime@garda.ie                                        |
+| Ballinasloe       | Registrations to take place at NQRHQ, Renmore, Galway      |
+| Ballymote         | Ballymote_DS@garda.ie                                      |
+| Ballyshannon      | Ballyshannon.Immigration@garda.ie                          |
+| Baltinglass       | Registrations to take place at Wicklow Registration Office |
+| Bandon            | Bandon_DS@garda.ie                                         |
+| Bantry            | Bantry_DS@garda.ie                                         |
+| Belmullet         | Mayo.Crime@garda.ie                                        |
+| Bray              | Bray.Immigration@garda.ie                                  |
+| Buncrana          | Buncrana_DS@garda.ie                                       |
+| Cahir             | Cahir.Immigration@garda.ie                                 |
+| Carrickmacross    | Carrickmacross.Immigration@garda.ie                        |
+| Castlebar         | Mayo.Crime@garda.ie                                        |
+| Cavan             | Cavan_DS@garda.ie                                          |
+| Claremorris       | Mayo.Crime@garda.ie                                        |
+| Clonakilty        | Clonakilty_DS@garda.ie                                     |
+| Clonmel           | clonmel_ds@garda.ie                                        |
+| Drogheda          | Drogheda.Immigration@garda.ie                              |
+| Dundalk           | Dundalk.ImmigrationUnit@garda.ie                           |
+| Fermoy            | Fermoy_DS@garda.ie                                         |
+| Ennis             | Ennis.ImmigrationUnit@garda.ie                             |
+| Galway NQRHQ      | Gaillimh.Immigration@garda.ie                              |
+| Granard           | Granard.Immigration@garda.ie                               |
+| Henry Street      | limerick.registration@garda.ie                             |
+| Kells             | Kells_DS@garda.ie                                          |
+| Kildare           | Kildare.DistrictOffice@garda.ie                            |
+| Kilkenny / Carlow | KilkennyCarlow.Immigration@garda.ie                        |
+| Killarney         | Killarney_DS@garda.ie                                      |
+| Letterkenny       | Letterkenny.Immigration@garda.ie                           |
+| Leitrim           | Leitrim.Immigration@garda.ie                               |
+| Leixlip           | Leixlip.Immigrationunit@Garda.ie                           |
+| Listowel          | Listowel_DS@garda.ie                                       |
+| Longford          | Longford.Immigration@garda.ie                              |
+| Macroom           | Macroom.Immigration@garda.ie                               |
+| Mallow            | Mallow.DistrictOffice@garda.ie                             |
+| Midleton          | Midleton.Immigration@garda.ie                              |
+| Milford           | Milford.Immigration@garda.ie                               |
+| Monaghan          | Monaghan.DistrictOffice@garda.ie                           |
+| Mullingar         | Mullingar.Immigration@garda.ie                             |
+| Naas              | Naas.ImmigrationUnit@garda.ie                              |
+| Navan             | Navan.Immigration@garda.ie                                 |
+| Nenagh            | Nenagh.DS@garda.ie                                         |
+| Newcastle West    | Newcastle_West_DS@garda.ie                               |
+| New Ross          | New_Ross_DS@garda.ie                                     |
+| Portlaoise        | Portlaoise.Immigration@garda.ie                            |
+| Roscommon         | Roscommon.Immigration@garda.ie                             |
+| Sligo             | Sligo.Immigration@garda.ie                                 |
+| Thurles           | Thurles.SergeantsOffice@garda.ie                           |
+| Tipperary Town    | Tipperary.Immigration@garda.ie                             |
+| Tralee            | Tralee.Immigration@garda.ie                                |
+| Trim              | Navan.Immigration@garda.ie                                 |
+| Tuam              | Registrations to take place at NQRHQ, Renmore, Galway      |
+| Tullamore         | Tullamore.DistrictOffice@garda.ie                          |
+| Waterford         | Waterford.ImmigrationUnit@garda.ie                         |
+| Westport          | Mayo.Crime@garda.ie                                        |
+| Wexford           | Rosslare.Immigration@garda.ie                              |
+| Wicklow           | Wicklow.ImmigrationUnit@garda.ie                           |
 
-Ultimo Aggiornamento: 19-Ago-2020
+Reference - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
+
+
+Last Updated: 24-Aug-2020
 
 ### Pagamento
 
@@ -128,33 +193,35 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 #### **Come riceverò la mia domanda una volta elaborata?**
 
-Il timbro di autorizzazione sarà inserito nel passaporto in data fornito e restituito dal Post registrato con la carta IRP inviata per posta espressa separata
+The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post.
 
-Ultimo Aggiornamento: 15-Ago-2020
+A tracking number will be shared in email for checking your passport delivery status.
+
+Last Updated: 24-Aug-2020
 
 
 ### Viaggi
 
 #### **Avevo inviato il mio passaporto e IRP per il rinnovo. Ora, ho un'emergenza familiare e ho bisogno di viaggiare al più presto. Posso ottenere il mio IRP rinnovato immediatamente?**
 
-Invia un'email a burghquayregoffice@justice.ie indicando la tua emergenza.
+Send an email to burghquayregoffice@justice.ie stating your emergency.
 
-Tutti gli uffici di registrazione (Burgh Quay & non zona Dublino) sono chiusi temporaneamente, per consentire la revisione degli orientamenti in materia di sanità pubblica.
+In case of no response, directly approach Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
 
-Ultimo Aggiornamento: 19-Ago-2020
+Last Updated: 24-Aug-2020
 
 
 ### Generale
 
 #### **Avevo inviato il mio passaporto e IRP per il rinnovo. Emetteranno il nuovo IRP con una data di inizio da quando avevamo applicato online?**
 
-No, la data di inizio sarà dal giorno elaborato.
+No, the start date will be from the processed day.
 
 Ultimo Aggiornamento: 15-Ago-2020
 
 #### **Quali sono i documenti richiesti per il rinnovo dell'IRP?**
 
-Controlla la guida di riferimento dei documenti richiesti - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
+Check Required Documents Reference Guide - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
 
 Ultimo Aggiornamento: 15-Ago-2020
 
@@ -166,15 +233,15 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 #### **Cosa succede se dimentico di caricare i documenti necessari come parte della mia applicazione?**
 
-Una volta creata un'applicazione, è possibile eseguire la scansione di eventuali documenti di supporto aggiuntivi e ripresentare.
+Once you have created an application, you may scan any additional supporting documents and resubmit.
 
 Ultimo Aggiornamento: 15-Ago-2020
 
 #### **Come posso ottenere un aggiornamento sullo stato della mia applicazione?**
 
-Puoi inviare la tua richiesta via email a burghquayregoffice@justice.ie
+You may submit your query by email to burghquayregoffice@justice.ie
 
-Quando si rivolge loro si prega di includere:
+When contacting them please include:
 * il tuo nome,
 * numero di riferimento della domanda online,
 * numero registrato di monitoraggio postale, e
@@ -183,9 +250,9 @@ Quando si rivolge loro si prega di includere:
 Ultimo Aggiornamento: 19-Ago-2020
 
 #### **Il mio permesso è stato limitato a causa della scadenza del mio passaporto. Posso utilizzare il sistema online per rivendicare il resto del mio permesso sul mio nuovo passaporto?**
-No. Per favore non applicare per il resto del tuo permesso online. Le domande relative al saldo del permesso precedentemente concesso dovrebbero essere presentate via e-mail all'ufficio di registrazione a burghquayregoffice@justice. e Non ci sarà alcun costo per l'equilibrio di questo permesso.
+No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
 
-Riferimento: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 Ultimo Aggiornamento: 15-Ago-2020
 
@@ -193,22 +260,22 @@ Ultimo Aggiornamento: 15-Ago-2020
 
 #### **Ho cambiato il mio indirizzo casa/postale e ho bisogno di aggiornarlo nella mia registrazione. Qual è la procedura?**
 
-Se il tuo nuovo indirizzo è fuori da Dublino, invia un'email a gnib_dv@garda.ie
+If your new address is outside Dublin, send an email to gnib_dv@garda.ie
 
-Se il tuo nuovo indirizzo è all'interno di Dublino, invia un'email a burghquayregoffice@justice.ie
+If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
 
-Oggetto - Modifica dei dettagli
+Subject Line - Change of details
 
-Nell'e-mail, specificare i seguenti dettagli:
+In the email, specify below details:
 * Nome Completo
 * Numero Di Registrazione
 * Nazionalità
 * Data Di Nascita
 * Nuovo Indirizzo
 
-Otterrai un riconoscimento in 2-3 giorni.
+You will get an acknowledgement in 2-3 days.
 
-Riferimento - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 Ultimo Aggiornamento: 15-Ago-2020
 
