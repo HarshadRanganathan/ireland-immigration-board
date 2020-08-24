@@ -28,7 +28,7 @@ Referenz: https://www.emirates.com/ie/german/help/flying-to-and-from-dubai/touri
 
 Zuletzt aktualisiert: 15-Aug-2020
 
-## Eithad
+## Etihad
 
 #### **Brauchen wir einen negativen COVID-19 PCR-Testbericht, wenn wir von Eithad nach Irland reisen?**
 
