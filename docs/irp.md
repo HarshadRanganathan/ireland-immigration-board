@@ -203,9 +203,11 @@ Last Updated: 15-Aug-2020
 
 #### **How will I receive my application once processed?**
 
-The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post
+The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post.
 
-Last Updated: 15-Aug-2020
+A tracking number will be shared in email for checking your passport delivery status.
+
+Last Updated: 24-Aug-2020
 
 
 ### Travel
