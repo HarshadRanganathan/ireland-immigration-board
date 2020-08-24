@@ -48,6 +48,20 @@ sidebar_label: Covid-19测试
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificance-certification(EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
 
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., 都柏林)
+
 标签：Covid-19 负PCR 测试
 
-最后更新时间：2020 年8月19日
+最后更新：20年8月22日至2020
+
+## 旅客定位器表单
+
+从2020年8月26日星期三开始，COVID-19旅客定位表已改为在线表格。 如果你是在这一日期或该日期之后抵达爱尔兰，你必须在抵达爱尔兰之前填写这份表格。
+
+https://cvd19plf-prod1.powerappsportals.com/en-us/
+
+此表单和任何副本，以及您使用乘客形式@plf发送的任何更新。 e 电子邮件地址将在您到达后28天内销毁，除非为执法目的需要表格。
+
+http://www.gov.ie/en/publication/ab900-covid-19-doulder-locator-form/
+
+最后更新: 23-2020
