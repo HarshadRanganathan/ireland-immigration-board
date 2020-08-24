@@ -48,6 +48,20 @@ Ultima actualizare: 19-Aug-2020
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo şi mai multe locaţii https://www.tmb.ie/clinics)
 
+* http://www.travelhealth.ie/CoronaVirusTesting/ (150 EUR) (Dawson St., Dublin)
+
 Etichete: Test PCR negativ
 
-Ultima actualizare: 19-Aug-2020
+Ultima actualizare: 22-Aug-2020
+
+## Formular de localizare a pasagerilor
+
+Începând de miercuri, 26 august 2020, Formularul COVID-19 pentru localizarea pasagerilor se transformă în formular online. În cazul în care ajungeți în Irlanda la sau după această dată, trebuie să completați acest formular înainte de sosirea în stat.
+
+https://cvd19plf-prod1.powerappsportals.com/ro-ro
+
+Acest formular și orice copii ale acestuia, precum și orice actualizări pe care le trimiteți folosind pasagerlocatorform@plf. e adresa de e-mail, va fi distrusă după 28 de zile de la sosirea dvs., cu excepția cazului în care formularul este necesar în scopul aplicării legii.
+
+Referință - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
+
+Ultima actualizare: 23-Aug-2020
