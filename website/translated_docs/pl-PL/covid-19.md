@@ -28,7 +28,7 @@ Badanie należy przeprowadzić maksymalnie 96 godzin przed odjazdem. Nie obejmuj
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
-## Eithad
+## Etihad
 
 #### **Czy potrzebujemy ujemnego sprawozdania z testu PCR COVID-19, jeśli podróżujemy do Irlandii lub z Irlandii przez Eithad?**
 
