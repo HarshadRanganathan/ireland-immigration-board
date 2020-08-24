@@ -48,6 +48,20 @@ sidebar_label: Covid-19 テスト
 
 * https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
 
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
+
 タグ: Covid-19 負のPCRテスト
 
-最終更新日: 2020年8月19日
+最終更新日: 2020年8月22日
+
+## 旅客検索フォーム
+
+2020年8月26日(水)から、COVID-19旅客検索フォームがオンラインフォームに変更されました。 この日付の上または後にアイルランドに到着する場合は、州に到着する前にこのフォームに記入する必要があります。
+
+https://cvd19plf-prod1.powerappsports.com/en-us/
+
+このフォームおよびそのコピー、および acciderlocatorform@plf を使用して送信するアップデート。 電子メールアドレスは、到着後28日後に破棄されます 法執行機関の目的でフォームが必要でない限りはね
+
+Reference - https://www.gov.ie/ja/publication/ab900-covid-19-accessor-locator-form/
+
+最終更新日: 23-Aug-2020
