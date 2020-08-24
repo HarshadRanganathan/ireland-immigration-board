@@ -28,7 +28,7 @@ Référence : https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/
 
 Dernière mise à jour: 15-août-2020
 
-## Eithad
+## Etihad
 
 #### **Avons-nous besoin d'un rapport d'essai COVID-19 négatif sur les RPC si nous nous rendons en Irlande par Eithad?**
 
