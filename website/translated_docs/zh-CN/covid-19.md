@@ -28,7 +28,7 @@ sidebar_label: Covid-19测试
 
 最后更新：2015 年 8 月 20 日
 
-## Eithad
+## Etihad
 
 #### **如果Eithad正在往返爱尔兰，我们是否需要一份负COVID-19PCR测试报告？**
 
