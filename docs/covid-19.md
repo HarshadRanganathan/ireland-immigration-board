@@ -28,7 +28,7 @@ Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tou
 
 Last Updated: 15-Aug-2020
 
-## Eithad
+## Etihad
 
 #### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Eithad?**
 

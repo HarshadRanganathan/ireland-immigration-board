@@ -4,6 +4,9 @@
       "irp", 
       "visas"
     ],
+    "Permissions": [
+      "stamps"
+    ],
     "Travel": [
       "transit-visa",
       "covid-19-test"
