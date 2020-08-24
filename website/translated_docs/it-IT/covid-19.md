@@ -46,8 +46,22 @@ Ultimo Aggiornamento: 19-Ago-2020
 
 #### Dove posso ottenere un certificato di autorizzazione di viaggio Covid-19 in Irlanda per consentirmi di volare o entrare in un paese?
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (160 - 180) (Clinica: Dublino, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo e altre location https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
 Tags: Covid-19 Negative Test Pcr
 
-Ultimo Aggiornamento: 19-Ago-2020
+Last Updated: 22-Aug-2020
+
+## Passenger Locator Form
+
+From Wednesday 26 August 2020, the COVID-19 Passenger Locator Form is changing to an online form. If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
+
+https://cvd19plf-prod1.powerappsportals.com/en-us/
+
+This form and any copies of it, and any updates that you send using the passengerlocatorform@plf.ie email address, will be destroyed 28 days after your arrival, unless the form is required for law enforcement purposes.
+
+Reference - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
+
+Last Updated: 23-Aug-2020
