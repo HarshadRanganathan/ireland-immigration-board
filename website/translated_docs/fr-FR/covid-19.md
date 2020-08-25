@@ -56,7 +56,7 @@ Dernière mise à jour: 22-août-2020
 
 ## Formulaire de localisation des clients
 
-À partir du mercredi 26 août 2020, le formulaire de localisation des passagers COVID-19 passe à un formulaire en ligne. Si vous arrivez en Irlande à cette date ou après celle-ci, vous devez remplir ce formulaire avant d'arriver dans l'État.
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsportals.com/en-us/
 
@@ -64,4 +64,4 @@ Ce formulaire et toutes les copies de celui-ci, ainsi que toutes les mises à jo
 
 Référence - https://www.gov.ie/fr/publication/ab900-covid-19-passenger-locator-form/
 
-Dernière mise à jour: 23-août-2020
+Last Updated: 25-Aug-2020
