@@ -56,7 +56,7 @@ Zuletzt aktualisiert: 22-Aug-2020
 
 ## Formular für Passagiersuche
 
-Ab Mittwoch, dem 26. August 2020, wechselt das COVID-19 Flugpassenger Locator Formular zu einem Online-Formular. Wenn Sie zu oder nach diesem Datum nach Irland kommen, müssen Sie dieses Formular ausfüllen, bevor Sie in den Staat einreisen.
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsportals.com/de-us/
 
@@ -64,4 +64,4 @@ Dieses Formular und alle Kopien davon, und alle Updates, die Sie senden mit dem 
 
 Referenz - https://www.gov.ie/de/publication/ab900-covid-19-passenger-locator-form/
 
-Zuletzt aktualisiert: 23-Aug-2020
+Last Updated: 25-Aug-2020
