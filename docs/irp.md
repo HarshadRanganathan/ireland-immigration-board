@@ -108,7 +108,7 @@ and out of Ireland before you register and receive your IRP card.
 If you travelled to Ireland on a single entry visa and discover that you need to travel and return to
 Ireland before you get your IRP card, you can travel and apply for another entry visa from outside Ireland.
 
-Reference - http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+Reference: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
 
 Last Updated: 15-Aug-2020
 
@@ -121,7 +121,9 @@ It can take some weeks to get a registration appointment, and up to 2 weeks for 
 
 Visa required nationals who intend to travel in and out of Ireland during the first four months of their planned stay should apply for a multiple entry visa, which will allow them to travel into Ireland multiple times in a given period before their IRP card is issued.
 
-Last Updated: 15-Aug-2020
+Reference: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas
+
+Last Updated: 25-Aug-2020
 
 ## Renewal
 
@@ -209,16 +211,60 @@ A tracking number will be shared in email for checking your passport delivery st
 
 Last Updated: 24-Aug-2020
 
+#### **I have sent my Passport and IRP for renewal. I'm planning to shift my house soon ad haven't received my documents back. What should I do in this case to receive them at my new address?**
+
+You can get your mail redirected to your new home by setting up a redirection service at your local post office or applying online.
+
+You will need proof of identity and proof of address if you are applying at the post office.
+
+They accept driving licences, passports, employer photo ID or student photo ID from third level colleges as proof of identify.
+
+A utility bill, bank or building society statement, issued within the last five months and bearing the address mail is to be redirected from, will be accepted as proof of address.
+
+Reference: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+
+Last Updated: 25-Aug-2020
 
 ### Travel
 
 #### **I had sent my Passport and IRP for renewal. Now, I have a family emergency and need to travel ASAP. Can I get my IRP renewed immediately?**
 
+**Option 1:**
+
 Send an email to burghquayregoffice@justice.ie stating your emergency.
 
-In case of no response, directly approach Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
+In case of no response, directly approach the Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
 
-Last Updated: 24-Aug-2020
+**Option 2:**
+
+Travel Document
+
+If you require a Travel Document due to a genuine emergency which requires you to travel abroad, you should submit the [Travel Document Application Form](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) and send it to:
+
+```
+Travel Document Section
+Ministerial Decisions Unit
+Repatriation Division
+Irish Naturalisation and Immigration Service
+Department of Justice and Equality
+13-14 Burgh Quay
+Dublin 2
+D02 XK70
+```
+
+You should also email INISTravdoc@justice.ie to let them know that you have applied and to explain the reason for the urgency. 
+
+Applications will be considered urgent only if extraordinary circumstances apply – emergency medical treatment, death or serious illness of a family member. 
+
+You should provide proof of the need for prioritisation.
+
+References:
+
+http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
+
+http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
+
+Last Updated: 25-Aug-2020
 
 
 ### General
