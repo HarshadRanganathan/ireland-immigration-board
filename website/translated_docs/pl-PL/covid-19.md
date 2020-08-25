@@ -56,7 +56,7 @@ Ostatnia aktualizacja: 22 sierpnia 2020 r.
 
 ## Formularz lokalizatora pasażera
 
-Od środy 26 sierpnia 2020 r. formularz lokalizacji pasażerów COVID-19 zmienia się na formularz online. Jeżeli przybywa pan do Irlandii w dniu lub po tej dacie, należy wypełnić niniejszy formularz przed przybyciem do państwa.
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsportals.pl/pl/
 
@@ -64,4 +64,4 @@ Ten formularz i wszelkie jego kopie oraz wszelkie aktualizacje, które wysyłasz
 
 Odniesienie - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
-Ostatnia aktualizacja: 23 sierpnia 2020 r.
+Last Updated: 25-Aug-2020
