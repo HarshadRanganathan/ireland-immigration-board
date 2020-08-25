@@ -56,7 +56,7 @@ sidebar_label: اختبار Covid-19
 
 ## نموذج تحديد موقع المسافر
 
-ابتداء من يوم الأربعاء 26 آب/أغسطس 2020، أصبحت استمارة تحديد موقع المسافرين COVID-19 تتغير إلى استمارة على الإنترنت. إذا وصلت إلى أيرلندا في هذا التاريخ أو بعده، يجب عليك ملء هذا الاستمارة قبل وصولك إلى الولاية.
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsportals.com/en-us/
 
@@ -64,4 +64,4 @@ https://cvd19plf-prod1.powerappsportals.com/en-us/
 
 المرجع - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
-آخر تحديث: 23 آب/أغسطس 2020
+Last Updated: 25-Aug-2020
