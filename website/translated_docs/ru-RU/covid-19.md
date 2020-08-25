@@ -56,7 +56,7 @@ Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tou
 
 ## Форма поиска клиента
 
-В среду 26 августа 2020 года форма локатора пассажиров COVID-19 меняется на онлайн форму. Если вы прибываете в Ирландию в этот день или после него, вы должны заполнить эту форму до прибытия в страну.
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsportals.com/en-us/
 
@@ -64,4 +64,4 @@ https://cvd19plf-prod1.powerappsportals.com/en-us/
 
 Ссылка - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
-Последнее обновление: 23-августа 2020 года
+Last Updated: 25-Aug-2020
