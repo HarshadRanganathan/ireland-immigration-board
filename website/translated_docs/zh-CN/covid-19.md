@@ -56,7 +56,7 @@ sidebar_label: Covid-19测试
 
 ## 旅客定位器表单
 
-从2020年8月26日星期三开始，COVID-19旅客定位表已改为在线表格。 如果你是在这一日期或该日期之后抵达爱尔兰，你必须在抵达爱尔兰之前填写这份表格。
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsportals.com/en-us/
 
@@ -64,4 +64,4 @@ https://cvd19plf-prod1.powerappsportals.com/en-us/
 
 http://www.gov.ie/en/publication/ab900-covid-19-doulder-locator-form/
 
-最后更新: 23-2020
+Last Updated: 25-Aug-2020
