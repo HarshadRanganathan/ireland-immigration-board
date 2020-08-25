@@ -56,7 +56,7 @@ sidebar_label: Covid-19 テスト
 
 ## 旅客検索フォーム
 
-2020年8月26日(水)から、COVID-19旅客検索フォームがオンラインフォームに変更されました。 この日付の上または後にアイルランドに到着する場合は、州に到着する前にこのフォームに記入する必要があります。
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsports.com/en-us/
 
@@ -64,4 +64,4 @@ https://cvd19plf-prod1.powerappsports.com/en-us/
 
 Reference - https://www.gov.ie/ja/publication/ab900-covid-19-accessor-locator-form/
 
-最終更新日: 23-Aug-2020
+Last Updated: 25-Aug-2020
