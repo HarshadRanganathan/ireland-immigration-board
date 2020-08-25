@@ -105,7 +105,7 @@ Jeśli wiesz, że podróżujesz w ciągu pierwszych czterech miesięcy od przyby
 
 Jeśli podróżowałeś do Irlandii za pośrednictwem jednej wizy wjazdowej i odkryjesz, że musisz podróżować i wrócić do Irlandii przed otrzymaniem karty IRP, mogą Państwo podróżować i ubiegać się o inną wizę wjazdową spoza Irlandii.
 
-Odniesienie – http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+Reference: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
@@ -118,7 +118,9 @@ Zlecenie rejestracji może potrwać kilka tygodni, a do 2 tygodni, aby karta IRP
 
 Obywatele zobowiązani do wiz, którzy zamierzają podróżować do Irlandii i z niej w ciągu pierwszych czterech miesięcy planowanego pobytu powinni ubiegać się o wizę wielokrotnego wjazdu, które umożliwią im wielokrotne podróże do Irlandii w danym okresie przed wydaniem karty IRP.
 
-Ostatnia aktualizacja: 15 sierpnia 2020 r.
+Reference: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas
+
+Last Updated: 25-Aug-2020
 
 ## Odnowienie
 
@@ -126,7 +128,7 @@ Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Muszę odnowić moją IRP. Gdzie powinienem zarezerwować spotkanie?**
 
-Internetowy portal aplikacji odnawiających można znaleźć na stronie: https://inisonline.jahs.ie/
+The online renewal application portal can be found here: https://inisonline.jahs.ie/
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
@@ -134,48 +136,48 @@ Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Dokonałem płatności w portalu internetowym, ale nie otrzymałem e-maila z potwierdzeniem**
 
-Proszę sprawdzić folder spamu dla wiadomości e-mail. If you have checked your spam folder but have not received an email from us, please wait 7 working days for us to contact you.
+Please check you spam folder for the email. If you have checked your spam folder but have not received an email from us, please wait 7 working days for us to contact you.
 
-Jeśli do tego czasu nie usłyszeliście, prosimy o kontakt z jednostką imigracyjną (burghquayregoffice@justice. e) odpowiedzialny za przetwarzanie formularza aplikacji, który chcesz przesłać.
+If you have not heard from us by then, please contact the immigration unit (burghquayregoffice@justice.ie) responsible for processing the application form you want to submit.
 
-Jeśli skontaktujesz się z nami e-mailem, proszę zawrzeć "formularz online - problem" w temacie wiadomości e-mail
+If you contact us by email, please include 'online form – issue' in the subject line of your email
 
-Referencja - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b%5d.pdf
+Reference - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Nie jestem przekierowany na stronę płatności po przesłaniu formularza**
 
-Spróbuj przesłać nowy formularz bez zapisywania go, aby przekierować go na stronę płatności.
+Try submitting a new form without saving it to get redirected to the payment page.
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 ### Zgłoszenie wniosku
 
-Aby przetworzyć swoją aplikację po przesłaniu formularza na portalu internetowym, musisz przedłożyć:
+In order to process your application after submitting the form in the online portal, you need to submit:
 * kopia wiadomości e-mail z potwierdzeniem wniosku;
 * Twój oryginalny paszport; oraz
 * Twoja obecna oryginalna karta IRP/GNIB
 
-MUSISZ CZASOWO PRACUJ NUMERZ STAMP ZASTOSOWANY NA POZIOMIE TWOJEGO ROZWOJU
+YOU MUST CLEARLY PRINT THE STAMP NUMBER APPLIED FOR ON THE OUTSIDE OF YOUR ENVELOPE
 
-Wyślij wpisem zarejestrowanym do:<br/> **Odnowienie uprawnień<br/> ISD<br/> 13-14 Quay<br/> Dublin 2<br/> DO2 XK70**
+Send by Registered Post to:<br/> **Permissions Renewal Unit<br/> ISD<br/> 13-14 Burgh Quay<br/> Dublin 2<br/> DO2 XK70**
 
-Nie wysyłaj dokumentów pocztą, dopóki nie otrzymasz e-maila z potwierdzeniem aplikacji.
+Do not submit your documents by post until you have received the application confirmation email.
 
-Paszporty wysyłane zwykłym pocztą nie będą przetwarzane.
+Passports sent by ordinary post will not be processed.
 
-Odniesienie – http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+Reference - http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Zezwolenie mojego współmałżonka zależy od mojego odnowienia. Czy powinniśmy złożyć wniosek wspólnie?**
 
-Musisz złożyć dwa oddzielne wnioski dla siebie i dla współmałżonka na portalu internetowym.
+You need to submit two separate applications for yourself and your spouse in the online application portal.
 
-W swoim wniosku proszę wskazać, że współmałżonek uzyskał na to zgodę.
+In your application, indicate that your spouse's permission on you.
 
-Na koniec należy przesłać dokumenty w dwóch oddzielnych kopertach przeznaczonych do przetworzenia.
+Finally, send the documents in two separate envelopes for processing.
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
@@ -183,65 +185,109 @@ Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Ile dni zajmie rozpatrzenie mojej wniosku o odnowienie?**
 
-Czas przetwarzania: minimum 10–15 dni roboczych
+Processing times: 10 – 15 working days minimum
 
-Jeśli Twój wniosek zakończy się powodzeniem - Twoje zezwolenie zostanie odnowione, a Twój paszport w dacie zostanie opatrzony pieczęcią.  Nowa karta IRP zostanie wydana osobno w ciągu 10–15 dni roboczych
+If your application is successful – your permission will be renewed and your in-date passport will be stamped.  The new IRP card will issue to you separately within 10 – 15 working days
 
-Źródło: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+Reference: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 #### **Jak otrzymam moją aplikację po jej przetworzeniu?**
 
-Pieczęć zezwolenia zostanie umieszczona w paszporcie w dniu przekazanym i zwrócona przez Pocztę Rejestrową, przy czym karta IRP zostanie wysłana osobną pocztą ekspresową.
+The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post.
 
-Numer śledzenia zostanie udostępniony w wiadomości e-mail w celu sprawdzenia statusu dostawy paszportu.
+A tracking number will be shared in email for checking your passport delivery status.
 
 Ostatnia aktualizacja: 24 sierpnia 2020 r.
 
+#### **I have sent my Passport and IRP for renewal. I'm planning to shift my house soon ad haven't received my documents back. What should I do in this case to receive them at my new address?**
+
+You can get your mail redirected to your new home by setting up a redirection service at your local post office or applying online.
+
+You will need proof of identity and proof of address if you are applying at the post office.
+
+They accept driving licences, passports, employer photo ID or student photo ID from third level colleges as proof of identify.
+
+A utility bill, bank or building society statement, issued within the last five months and bearing the address mail is to be redirected from, will be accepted as proof of address.
+
+Reference: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+
+Last Updated: 25-Aug-2020
 
 ### Podróże
 
-#### **Wysłałem mój paszport i IRP do odnowienia. Teraz mam sytuację nadzwyczajną w rodzinie i muszę podróżować w ASAP. Czy mogę natychmiast wznowić mój IRP?**
+#### **Wysłałem mój paszport i IRP do odnowienia. Now, I have a family emergency and need to travel ASAP. Can I get my IRP renewed immediately?**
 
-Wyślij e-mail do burghquayregoffice@justice.ie z informacją o Twoim nagłym wypadku.
+**Option 1:**
 
-W przypadku braku odpowiedzi należy bezpośrednio podejść do Biura Quay Burgh. Będziesz musiał przekonać strażników, aby mogli wejść do biura. Później możesz odebrać paszport do natychmiastowego podróży.
+Send an email to burghquayregoffice@justice.ie stating your emergency.
 
-Ostatnia aktualizacja: 24 sierpnia 2020 r.
+In case of no response, directly approach the Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
+
+**Option 2:**
+
+Travel Document
+
+If you require a Travel Document due to a genuine emergency which requires you to travel abroad, you should submit the [Travel Document Application Form](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) and send it to:
+
+```
+Travel Document Section
+Ministerial Decisions Unit
+Repatriation Division
+Irish Naturalisation and Immigration Service
+Department of Justice and Equality
+13-14 Burgh Quay
+Dublin 2
+D02 XK70
+```
+
+You should also email INISTravdoc@justice.ie to let them know that you have applied and to explain the reason for the urgency.
+
+Applications will be considered urgent only if extraordinary circumstances apply – emergency medical treatment, death or serious illness of a family member.
+
+You should provide proof of the need for prioritisation.
+
+References:
+
+http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
+
+http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
+
+Last Updated: 25-Aug-2020
 
 
 ### Ogólny
 
-#### **Wysłałem mój paszport i IRP do odnowienia. Czy wydadzą nową IRP z datą rozpoczęcia stosowania przez nas online?**
+#### **Wysłałem mój paszport i IRP do odnowienia. Will they issue the new IRP with a start date from when we had applied online?**
 
-Nie, data rozpoczęcia będzie od przetworzonego dnia.
-
-Ostatnia aktualizacja: 15 sierpnia 2020 r.
-
-#### **Jakie są dokumenty wymagane do przedłużenia IRP?**
-
-Sprawdź wymagany przewodnik referencyjny dokumentów - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
+No, the start date will be from the processed day.
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
-#### **Czy w portalu internetowym znajdują się jakieś poradniki dotyczące wypełniania formularza wniosku?**
+#### **What are the required documents for IRP renewal?**
 
-Sprawdź Portal Imigracji online – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
-
-Ostatnia aktualizacja: 15 sierpnia 2020 r.
-
-#### **Co się stanie, jeśli zapomnę przesłać niezbędne dokumenty jako część mojej aplikacji?**
-
-Po utworzeniu aplikacji możesz zeskanować wszelkie dodatkowe dokumenty uzupełniające i ponownie przesłać.
+Check Required Documents Reference Guide - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
-#### **Jak mogę uzyskać aktualizację statusu mojej aplikacji?**
+#### **Is there any guide for completing the application form in online portal?**
 
-Możesz przesłać zapytanie e-mailem na burghquayregoffice@justice.ie
+Check Immigration Online Portal Guide – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
 
-Podczas kontaktowania się z nimi proszę zawierać:
+Ostatnia aktualizacja: 15 sierpnia 2020 r.
+
+#### **What happens if I forget to upload the necessary documents as part of my application?**
+
+Once you have created an application, you may scan any additional supporting documents and resubmit.
+
+Ostatnia aktualizacja: 15 sierpnia 2020 r.
+
+#### **How can I obtain an update on the status of my application?**
+
+You may submit your query by email to burghquayregoffice@justice.ie
+
+When contacting them please include:
 * Twoje imię i nazwisko,
 * numer referencyjny aplikacji online,
 * numer śledzenia postu zarejestrowanego, oraz
@@ -249,39 +295,39 @@ Podczas kontaktowania się z nimi proszę zawierać:
 
 Ostatnia aktualizacja: 19 sierpnia 2020 r.
 
-#### **Moje zezwolenie zostało ograniczone ze względu na wygaśnięcie mojego paszportu. Czy mogę użyć systemu online, aby otrzymać pozostałą część mojego pozwolenia na mój nowy paszport?**
-Nie. Proszę nie ubiegać się o pozostałą część uprawnień online. Wnioski o saldo uprzednio udzielonych zezwoleń powinny być składane pocztą elektroniczną do urzędu rejestracji pod adresem burghquayregoffice@justice. e Nie będzie opłaty za saldo tego uprawnienia.
+#### **My permission was restricted due to the expiry of my passport. Can I use the online system to claim the remainder of my permission on my new passport?**
+No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
 
-Źródło: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 ## Zmień adres
 
-#### **Zmieniłem adres domowy/pocztowy i muszę go zaktualizować w mojej rejestracji. Jaka jest procedura?**
+#### **I have changed my home/postal address and need to update it in my registration. What is the procedure?**
 
-Jeśli Twój nowy adres znajduje się poza systemem Dublin, wyślij e-mail na gnib_dv@garda.ie
+If your new address is outside Dublin, send an email to gnib_dv@garda.ie
 
-Jeśli Twój nowy adres znajduje się w Dublinie, wyślij e-mail na burghquayregoffice@justice.ie
+If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
 
-Temat - Zmiana szczegółów
+Subject Line - Change of details
 
-W wiadomości e-mail proszę podać szczegółowe informacje:
+In the email, specify below details:
 * Pełna nazwa
 * Numer rejestracyjny
 * Obywatelstwo
 * Data urodzenia
 * Nowy adres
 
-Otrzymasz potwierdzenie w ciągu 2-3 dni.
+You will get an acknowledgement in 2-3 days.
 
-Odniesienie - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
 ## Ubezpieczenie zdrowotne
 
-#### **Czy mogą Państwo zaproponować pewne niedrogie opcje ubezpieczenia zdrowotnego dostępne w Irlandii?**
+#### **Can you suggest some affordable health insurance options available in Ireland?**
 
 - https://www.studyandprotect.com/ (Stamp 1G) (200 - 250 EUR rocznie)
 - https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protection (40 EUR miesięcznie)
