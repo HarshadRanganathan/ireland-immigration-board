@@ -56,7 +56,7 @@ Ultimo Aggiornamento: 22-Ago-2020
 
 ## Modulo Localizzatore Passeggeri
 
-Da mercoledì 26 agosto 2020, il COVID-19 Passenger Locator Form sta cambiando in un modulo online. Se arrivate in Irlanda il o dopo tale data, dovete compilare questo modulo prima di arrivare nello Stato.
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsportals.com/en-us/
 
@@ -64,4 +64,4 @@ Questo modulo e tutte le copie di esso, e tutti gli aggiornamenti che si inviano
 
 Riferimento - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
-Ultimo Aggiornamento: 23-Ago-2020
+Last Updated: 25-Aug-2020
