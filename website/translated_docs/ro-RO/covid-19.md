@@ -56,7 +56,7 @@ Ultima actualizare: 22-Aug-2020
 
 ## Formular de localizare a pasagerilor
 
-Începând de miercuri, 26 august 2020, Formularul COVID-19 pentru localizarea pasagerilor se transformă în formular online. În cazul în care ajungeți în Irlanda la sau după această dată, trebuie să completați acest formular înainte de sosirea în stat.
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsportals.com/ro-ro
 
@@ -64,4 +64,4 @@ Acest formular și orice copii ale acestuia, precum și orice actualizări pe ca
 
 Referință - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
-Ultima actualizare: 23-Aug-2020
+Last Updated: 25-Aug-2020
