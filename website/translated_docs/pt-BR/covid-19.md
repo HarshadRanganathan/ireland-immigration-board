@@ -56,7 +56,7 @@ Tags: Teste Covid-19 Negativo PCR
 
 ## Formulário Localizador de Passageiros
 
-A partir de quarta-feira, 26 de Agosto de 2020, o formulário COVID-19 localizador de passageiros está a mudar para um formulário online. Se chegarem à Irlanda a partir dessa data ou a partir dessa data, terão de preencher este formulário antes de chegarem ao Estado.
+If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
 https://cvd19plf-prod1.powerappsportals.com/en-us/
 
@@ -64,4 +64,4 @@ Este formulário e as cópias que você enviar usando o passageiro erlocatorform
 
 Referência - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
-Última Atualização: 23-Aug-2020
+Last Updated: 25-Aug-2020
