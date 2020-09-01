@@ -4,29 +4,21 @@ title: Covid-19 Test
 sidebar_label: Covid-19 Test
 ---
 
-
-## Lufthansa
-
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to Ireland by Lufthansa?**
-
-No, Lufthansa has no such requirements at the moment.
-
-Last Updated: 15-Aug-2020
-
 ## Emirates
 
 #### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Emirates?**
 
-All passengers arriving in Dubai from any destination, including passengers connecting in Dubai, must have a negative COVID-19 PCR test certificate to be accepted on the flight. 
+All passengers travelling to or connecting through Dubai must have a negative COVID-19 PCR test certificate to be accepted on the flight. 
 
-We recommend you bring a printed certificate, but digital ones are accepted in Dubai. It must be an official certificate - SMS confirmation messages are not accepted. 
+The certificate must be for a polymerase chain reaction (PCR) swab test taken a maximum of 96 hours before departure. 
 
-The test must be taken a maximum of 96 hours before departure. This excludes children under the age of 12 and passengers who have a moderate or severe disability.
+Other test certificates including antibody tests and home testing kits are not accepted in Dubai. 
 
+Bring an official, printed certificate – SMS and digital certificates are not accepted. 
 
 Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
 
-Last Updated: 15-Aug-2020
+Last Updated: 01-Sep-2020
 
 ## Etihad
 
@@ -41,6 +33,20 @@ Children under 12 and people with mild and severe disabilities are exempt from C
 Reference: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
 
 Last Updated: 19-Aug-2020
+
+## Lufthansa
+
+#### **Do we need a negative COVID-19 PCR test report if we are travelling to Ireland by Lufthansa?**
+
+Wearing a mouth-nose-cover on board and at the airport is mandatory for everyone.
+
+We only accept an exception from the obligation to wear a mask on presentation of a validated negative PCR test result and a medical certificate on the corresponding Lufthansa Group form. 
+
+The test result must not be older than 48 hours prior to the start of the respective outbound and return flight. 
+
+Reference: https://www.lufthansa.com/xx/en/faq-mouth-nose-cover
+
+Last Updated: 01-Sep-2020
 
 ## Travel Clearance Certificate
 
