@@ -4,43 +4,49 @@ title: اختبار Covid-19
 sidebar_label: اختبار Covid-19
 ---
 
+## Emirates
 
-## Lufthansa
+#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Emirates?**
 
-#### **هل نحن بحاجة إلى تقرير تجريبي سلبي COVID-19 PCR إذا كنا نسفر إلى أيرلندا بواسطة لوفتهانسا؟**
+All passengers travelling to or connecting through Dubai must have a negative COVID-19 PCR test certificate to be accepted on the flight.
 
-لا، ليس لدى لوفتهانزا مثل هذه المتطلبات في الوقت الراهن.
+The certificate must be for a polymerase chain reaction (PCR) swab test taken a maximum of 96 hours before departure.
 
-آخر تحديث: 15 آب/أغسطس 2020
+Other test certificates including antibody tests and home testing kits are not accepted in Dubai.
 
-## الإمارات
+Bring an official, printed certificate – SMS and digital certificates are not accepted.
 
-#### **هل نحتاج إلى تقرير تجريبي سلبي COVID-19 PCR إذا كنا نسفر إلى أيرلندا من جانب الإمارات العربية المتحدة؟**
+Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
 
-جميع المسافرين القادمين إلى دبي من أي جهة كانت، بمن فيهم المسافرون المرابطون في دبي، يجب أن تكون لديها شهادة اختبار سالبة COVID-19 PCR لكي تقبل في الرحلة.
-
-ننصحك بإحضار شهادة مطبوعة، ولكن الشهادة الرقمية مقبولة في دبي. يجب أن تكون شهادة رسمية-رسائل تأكيد الرسائل القصيرة غير مقبولة.
-
-ويجب إجراء الاختبار قبل المغادرة ب 96 ساعة كحد أقصى. ويستثنى من ذلك الأطفال الذين تقل أعمارهم عن 12 سنة والركاب الذين يعانون من إعاقة متوسطة أو حادة.
-
-
-المرجع: https://www.emirates.com/ie/english/help/flying-to-and-from-duPay/tourists-travelling-to-duPay/
-
-آخر تحديث: 15 آب/أغسطس 2020
+Last Updated: 01-Sep-2020
 
 ## Etihad
 
-#### **هل نحتاج إلى تقرير اختبار COVID-19 PCR سلبي إذا كنا نسفر إلى أيرلندا من قبل إيثاد؟**
+#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Eithad?**
 
-من الإجباري إجراء اختبار PCR COVID-19 قبل أن تحلق مع خطوط إتيهاد الجوية – لن يسمح لك بالطيران إلا إذا كان لديك نتيجة اختبار سلبية.
+It is mandatory to have a COVID-19 PCR test before you fly with Etihad Airways – you will only be permitted to fly if you have a negative test result.
 
-يجب إجراء الاختبار قبل 96 ساعة كحد أقصى من وقت مغادرتك في أي مرفق طبي معتمد حكومياً.
+Your test must be carried out a maximum of 96 hours before your flight departure time at any government accredited medical facility.
 
-ويُعفى الأطفال دون سن الثانية عشرة والأشخاص الذين يعانون من إعاقات خفيفة وشديدة من اختبار COVID-19. قد يختلف هذا باختلاف الوجهة - تحقق دائمًا قبل أن تطير.
+Children under 12 and people with mild and severe disabilities are exempt from COVID-19 PCR testing. This may vary by destination – always check before you fly.
 
-المرجع: https://www.etihad.com/en-ie/travel-updates/all destinations-travel-guides
+Reference: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
 
 آخر تحديث: 19 آب/أغسطس 2020
+
+## Lufthansa
+
+#### **Do we need a negative COVID-19 PCR test report if we are travelling to Ireland by Lufthansa?**
+
+Wearing a mouth-nose-cover on board and at the airport is mandatory for everyone.
+
+We only accept an exception from the obligation to wear a mask on presentation of a validated negative PCR test result and a medical certificate on the corresponding Lufthansa Group form.
+
+The test result must not be older than 48 hours prior to the start of the respective outbound and return flight.
+
+Reference: https://www.lufthansa.com/xx/en/faq-mouth-nose-cover
+
+Last Updated: 01-Sep-2020
 
 ## شهادة إجازة السفر
 
@@ -50,9 +56,9 @@ sidebar_label: اختبار Covid-19
 
 * http://www.travelhealth.ie/CoronaVirusTesting/(EUR 150) (داوسون ستار، دبلن)
 
-العلامات: Covid-19 (اختبار PCR) السالب
+Tags: Covid-19 Negative PCR Test
 
-آخر تحديث: 22 آب/أغسطس 2020
+Last Updated: 22-Aug-2020
 
 ## نموذج تحديد موقع المسافر
 
@@ -60,8 +66,8 @@ If you are arriving into Ireland on or after this date, you have to complete thi
 
 https://cvd19plf-prod1.powerappsportals.com/en-us/
 
-هذه الاستمارة وأي نسخ منها، وأي تحديثات ترسلها باستخدام passengerlocatorform@plf. (هـ) سيتم تدمير عنوان البريد الإلكتروني بعد 28 يوما من وصولك، ما لم تكن الاستمارة مطلوبة لأغراض إنفاذ القانون.
+This form and any copies of it, and any updates that you send using the passengerlocatorform@plf.ie email address, will be destroyed 28 days after your arrival, unless the form is required for law enforcement purposes.
 
-المرجع - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
+Reference - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
 Last Updated: 25-Aug-2020
