@@ -4,43 +4,49 @@ title: Prueba Covid-19
 sidebar_label: Prueba Covid-19
 ---
 
+## Emirates
 
-## Lufthansa
+#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Emirates?**
 
-#### **¿Necesitamos un informe negativo de prueba COVID-19 PCR si viajamos a Irlanda por Lufthansa?**
+All passengers travelling to or connecting through Dubai must have a negative COVID-19 PCR test certificate to be accepted on the flight.
 
-No, Lufthansa no tiene estos requisitos por el momento.
+The certificate must be for a polymerase chain reaction (PCR) swab test taken a maximum of 96 hours before departure.
 
-Última actualización: 15-ago-2020
+Other test certificates including antibody tests and home testing kits are not accepted in Dubai.
 
-## Emiraos
+Bring an official, printed certificate – SMS and digital certificates are not accepted.
 
-#### **¿Necesitamos un informe negativo de prueba COVID-19 PCR si viajamos desde/hacia Irlanda por Emiratos?**
+Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
 
-Todos los pasajeros que llegan a Dubai desde cualquier destino, incluidos los pasajeros que se conectan a Dubai, deberá contar con un certificado de prueba COVID-19 PCR negativo para ser aceptado en el vuelo.
-
-Le recomendamos traer un certificado impreso, pero los digitales son aceptados en Dubai. Debe ser un certificado oficial - Los mensajes de confirmación de SMS no son aceptados.
-
-El ensayo deberá realizarse con un máximo de 96 horas antes de la salida. Esto excluye a los niños menores de 12 años y a los pasajeros que tienen una discapacidad moderada o grave.
-
-
-Referencia: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
-
-Última actualización: 15-ago-2020
+Last Updated: 01-Sep-2020
 
 ## Etihad
 
-#### **¿Necesitamos un informe negativo de prueba COVID-19 PCR si viajamos hacia o desde Irlanda por Eithad?**
+#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Eithad?**
 
-Es obligatorio realizar una prueba PCR COVID-19 antes de volar con Etihad Airways – sólo se le permitirá volar si tiene un resultado de prueba negativo.
+It is mandatory to have a COVID-19 PCR test before you fly with Etihad Airways – you will only be permitted to fly if you have a negative test result.
 
-Su prueba debe realizarse con un máximo de 96 horas de antelación a la hora de salida de su vuelo en cualquier instalación médica acreditada por el gobierno.
+Your test must be carried out a maximum of 96 hours before your flight departure time at any government accredited medical facility.
 
-Los niños menores de 12 años y las personas con discapacidades leves y graves están exentos de las pruebas PCR COVID-19. Esto puede variar según el destino – siempre consulte antes de volar.
+Children under 12 and people with mild and severe disabilities are exempt from COVID-19 PCR testing. This may vary by destination – always check before you fly.
 
-Referencia: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guías
+Reference: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
 
 Última actualización: 19-ago-2020
+
+## Lufthansa
+
+#### **Do we need a negative COVID-19 PCR test report if we are travelling to Ireland by Lufthansa?**
+
+Wearing a mouth-nose-cover on board and at the airport is mandatory for everyone.
+
+We only accept an exception from the obligation to wear a mask on presentation of a validated negative PCR test result and a medical certificate on the corresponding Lufthansa Group form.
+
+The test result must not be older than 48 hours prior to the start of the respective outbound and return flight.
+
+Reference: https://www.lufthansa.com/xx/en/faq-mouth-nose-cover
+
+Last Updated: 01-Sep-2020
 
 ## Certificado de eliminación de viajes
 
@@ -50,18 +56,18 @@ Referencia: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-
 
 * http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
-Etiquetas: Prueba Covid-19 PCR Negativo
+Tags: Covid-19 Negative PCR Test
 
-Última actualización: 22-ago-2020
+Last Updated: 22-Aug-2020
 
 ## Formulario de localización de pasajeros
 
 If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
 
-https://cvd19plf-prod1.powerappsportals.com/es/
+https://cvd19plf-prod1.powerappsportals.com/en-us/
 
-Este formulario y cualquier copia del mismo, así como cualquier actualización que envíe usando el passerlocatorform@plf. e dirección de correo electrónico, se destruirá 28 días después de su llegada, a menos que el formulario sea requerido para fines policiales.
+This form and any copies of it, and any updates that you send using the passengerlocatorform@plf.ie email address, will be destroyed 28 days after your arrival, unless the form is required for law enforcement purposes.
 
-Referencia - https://www.gov.ie/es/publication/ab900-covid-19-pasajer-locator-form/
+Reference - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
 Last Updated: 25-Aug-2020
