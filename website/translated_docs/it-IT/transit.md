@@ -15,30 +15,30 @@ Cittadini indiani in transito attraverso Francoforte (FRA) o Monaco di Baviera (
 - rimanere nella zona di transito internazionale dell'aeroporto, e
 - disporre dei documenti necessari per la prossima destinazione.
 
-If above conditions are satisfied, then a transit visa is not required.
+Se tali condizioni sono soddisfatte, non è necessario un visto di transito.
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+Riferimento - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
 
-Tags: Lufthansa, Germany
+Tag: Lufthansa, Germania
 
-Last Updated: 25-Aug-2020
+Ultimo Aggiornamento: 25-Ago-2020
 
-#### **I will be travelling to Ireland with transit in Heathrow. Avrò bisogno di un visto di transito?**
+#### **Mi recherò in Irlanda con il transito a Heathrow. Avrò bisogno di un visto di transito?**
 
-You might be eligible for ‘transit without visa’ if:
+Potresti essere idoneo per il “transito senza visto” se:
 
-* you arrive and depart by air
+* si arriva e partono per via aerea
 
-* have a confirmed onward flight that leaves on the day you arrive or before midnight on the day after you arrive
+* avere un volo confermato che parte dal giorno in cui si arriva o prima di mezzanotte il giorno dopo l’arrivo
 
-* have the right documents for your destination (for example a visa for that country)
+* avere i documenti giusti per la vostra destinazione (ad esempio un visto per quel paese)
 
-* (or) have an Irish biometric visa (marked ‘BC’ or ‘BC BIVS’ in the ‘Remarks’ section) and an onward flight ticket to the Republic of Ireland.
+* (o) disporre di un visto biometrico irlandese (contrassegnato con «BC» o «BC BIVS» nella sezione «Osservazioni») e di un biglietto aereo successivo per la Repubblica d'Irlanda.
 
-All visas and residence permits must be valid.
+Tutti i visti e i permessi di soggiorno devono essere validi.
 
-Reference - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
+Riferimento - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
 
 Tags: British Airways, Heathrow
 
-Last Updated: 25-Aug-2020
+Ultimo Aggiornamento: 25-Ago-2020
