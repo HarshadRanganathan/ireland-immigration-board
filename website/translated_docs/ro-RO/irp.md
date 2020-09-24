@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Cum pot obține o programare pentru prima înregistrare?**
 
-Dacă locuiți în Dublin, trimiteți un e-mail la burghquayregoffice@justice.ie solicitând o programare.
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 Dacă locuiți în afara Dublinului, trimiteți un e-mail biroului garda din județul dvs. pentru a vă pregăti pentru o programare.
 
@@ -81,7 +81,7 @@ Dacă locuiți în afara Dublinului, trimiteți un e-mail biroului garda din jud
 Referință - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Ultima actualizare: 24-Aug-2020
+Last Updated: 24-Sep-2020
 
 ### Plată
 
