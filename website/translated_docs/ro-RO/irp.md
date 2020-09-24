@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Cum pot obține o programare pentru prima înregistrare?**
 
-If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
+Dacă locuiești în Dublin, poți folosi sistemul online de programare https://burghquayregistrationoffice.inis.gov.ie/ pentru a obține o programare.
 
 Dacă locuiți în afara Dublinului, trimiteți un e-mail biroului garda din județul dvs. pentru a vă pregăti pentru o programare.
 
@@ -81,7 +81,7 @@ Dacă locuiți în afara Dublinului, trimiteți un e-mail biroului garda din jud
 Referință - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Last Updated: 24-Sep-2020
+Ultima actualizare: 24-Sep-2020
 
 ### Plată
 
@@ -105,7 +105,7 @@ Dacă ştiţi că veţi călători în primele patru luni de la sosirea în Irla
 
 Dacă ai călătorit în Irlanda cu o viză cu o singură intrare și descoperi că trebuie să călătorești și să te întorci în Irlanda înainte de a primi cardul tău IRP, puteți călători și solicita o altă viză de intrare din afara Irlandei.
 
-Reference: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+Referinţă: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
 
 Ultima actualizare: 15-Aug-2020
 
@@ -118,9 +118,9 @@ Obţinerea unei înregistrări poate dura câteva săptămâni şi până la 2 s
 
 Resortisanții care intenționează să călătorească în și din Irlanda în primele patru luni ale șederii lor planificate ar trebui să solicite o viză cu intrări multiple, care le va permite să călătorească în Irlanda de mai multe ori într-o perioadă dată înainte de eliberarea cardului lor IRP.
 
-Reference: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas
+Referinţă: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visa
 
-Last Updated: 25-Aug-2020
+Ultima actualizare: 25-Aug-2020
 
 ## Reînnoire
 
@@ -128,7 +128,7 @@ Last Updated: 25-Aug-2020
 
 #### **Trebuie să îmi reînnoiesc IRP. Unde ar trebui să-mi fac rost numirea?**
 
-The online renewal application portal can be found here: https://inisonline.jahs.ie/
+Portalul online pentru aplicația de reînnoire poate fi găsit aici: https://inisonline.jahs.ie/
 
 Ultima actualizare: 15-Aug-2020
 
@@ -136,48 +136,48 @@ Ultima actualizare: 15-Aug-2020
 
 #### **Am efectuat o plată în portalul de aplicații online, dar nu am primit niciun e-mail de confirmare**
 
-Please check you spam folder for the email. If you have checked your spam folder but have not received an email from us, please wait 7 working days for us to contact you.
+Vă rugăm să verificaţi dosarul spam pentru e-mail. Dacă aţi verificat dosarul spam dar nu aţi primit un e-mail de la noi, vă rugăm să aşteptaţi 7 zile lucrătoare pentru a vă contacta.
 
-If you have not heard from us by then, please contact the immigration unit (burghquayregoffice@justice.ie) responsible for processing the application form you want to submit.
+Dacă nu ne-ați auzit până atunci, vă rugăm să contactați unitatea de imigrare (burghquayregoffice@justitie). e) responsabil de procesarea formularului aplicației pe care doriți să îl trimiteți.
 
-If you contact us by email, please include 'online form – issue' in the subject line of your email
+Dacă ne contactați prin e-mail, vă rugăm să includeți „formularul online – problemă” în linia de subiect a e-mail-ului dvs.
 
-Reference - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
+Referință - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
 
 Ultima actualizare: 15-Aug-2020
 
 #### **Nu sunt redirecționat către pagina de plată după trimiterea formularului**
 
-Try submitting a new form without saving it to get redirected to the payment page.
+Încercați să trimiteți un nou formular fără a-l salva pentru a fi redirecționat către pagina de plată.
 
 Ultima actualizare: 15-Aug-2020
 
 ### Cerere de depunere
 
-In order to process your application after submitting the form in the online portal, you need to submit:
+Pentru a procesa cererea dvs. după trimiterea formularului în portalul online, trebuie să trimiteți:
 * o copie a e-mailului de confirmare a aplicației;
 * Paşaportul original şi
 * Cardul tău original de IRP/GNIB
 
-YOU MUST CLEARLY PRINT THE STAMP NUMBER APPLIED FOR ON THE OUTSIDE OF YOUR ENVELOPE
+TREBUIE SĂ PREŢI în mod clar NUMĂRUL DE STAMP APLICAT ÎN EXERCIŢIUL ENVELOPULUI DUMNEAVOASTRĂ
 
-Send by Registered Post to:<br/> **Permissions Renewal Unit<br/> ISD<br/> 13-14 Burgh Quay<br/> Dublin 2<br/> DO2 XK70**
+Trimite prin Post Înregistrat la:<br/> **Unitate Permisiuni Reînnoire<br/> ISD<br/> 13-14 Burgh Quay<br/> Dublin 2<br/> DO2 XK70**
 
-Do not submit your documents by post until you have received the application confirmation email.
+Nu trimiteți documentele dvs. prin poștă până când nu ați primit e-mailul de confirmare a aplicației.
 
-Passports sent by ordinary post will not be processed.
+Pașapoartele trimise prin poștă obișnuită nu vor fi procesate.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+Referință - http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
 
 Ultima actualizare: 15-Aug-2020
 
 #### **Permisiunea lui Spouse's depinde de reînnoirea mea. Ar trebui să ne prezentăm cererea împreună?**
 
-You need to submit two separate applications for yourself and your spouse in the online application portal.
+Trebuie să trimiteți două aplicații separate pentru dvs. și pentru soț/soție în portalul online al aplicației.
 
-In your application, indicate that your spouse's permission on you.
+În cererea ta, indicați că aveți permisiunea soțului/soției dvs.
 
-Finally, send the documents in two separate envelopes for processing.
+În cele din urmă, trimiteți documentele în două plicuri separate pentru prelucrare.
 
 Ultima actualizare: 15-Aug-2020
 
@@ -185,109 +185,109 @@ Ultima actualizare: 15-Aug-2020
 
 #### **Câte zile va dura pentru a procesa cererea mea de reînnoire?**
 
-Processing times: 10 – 15 working days minimum
+Timpul de procesare: minim 10 – 15 zile lucrătoare
 
-If your application is successful – your permission will be renewed and your in-date passport will be stamped.  The new IRP card will issue to you separately within 10 – 15 working days
+Dacă aplicația ta are succes - permisiunea ta va fi reînnoită și pașaportul tău actual va fi ștampilat.  Noul card IRP vă va elibera separat în termen de 10 – 15 zile lucrătoare
 
-Reference: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+Referință: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
 
 Ultima actualizare: 15-Aug-2020
 
 #### **Cum voi primi cererea mea o dată procesată?**
 
-The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post.
+Ștampila de permisiune va fi plasată în pașaportul furnizat și returnat de către Registered Post pe cardul IRP fiind trimis prin poștă expresă separată.
 
-A tracking number will be shared in email for checking your passport delivery status.
+Un număr de urmărire va fi distribuit pe e-mail pentru verificarea stării de livrare a pașaportului.
 
 Ultima actualizare: 24-Aug-2020
 
-#### **I have sent my Passport and IRP for renewal. I'm planning to shift my house soon ad haven't received my documents back. What should I do in this case to receive them at my new address?**
+#### **Mi-am trimis paşaportul şi IRP spre reînnoire. Plănuiesc să îmi schimb casa în curând nu mi-a primit documentele înapoi. Ce ar trebui să fac în acest caz pentru a le primi la noua mea adresă?**
 
-You can get your mail redirected to your new home by setting up a redirection service at your local post office or applying online.
+Poți redirecționa e-mailul către noul tău domiciliu prin configurarea unui serviciu de redirecționare la oficiul poștal local sau prin aplicarea acestuia online.
 
-You will need proof of identity and proof of address if you are applying at the post office.
+Veți avea nevoie de o dovadă de identitate și de o dovadă de adresă dacă aplicați la oficiul poștal.
 
-They accept driving licences, passports, employer photo ID or student photo ID from third level colleges as proof of identify.
+Aceştia acceptă permisele de conducere, paşapoartele, documentul de identitate al angajatorului sau documentul de identitate al studenţilor de la colegii de nivel terţ ca dovadă a identificării.
 
-A utility bill, bank or building society statement, issued within the last five months and bearing the address mail is to be redirected from, will be accepted as proof of address.
+o factură de utilități, o bancă sau un extras de societate de construcție, emis în ultimele cinci luni și purtând adresa poștală va fi redirecționată, va fi acceptată ca dovadă de adresă.
 
-Reference: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+Referinţă: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
 
-Last Updated: 25-Aug-2020
+Ultima actualizare: 25-Aug-2020
 
 ### Călătorie
 
-#### **Mi-am trimis paşaportul şi IRP spre reînnoire. Now, I have a family emergency and need to travel ASAP. Can I get my IRP renewed immediately?**
+#### **Mi-am trimis paşaportul şi IRP spre reînnoire. Acum, am o urgenţă familială şi trebuie să călătoresc ASAP. Pot să îmi reîntoarc IRP imediat?**
 
-**Option 1:**
+**Opțiunea 1:**
 
-Send an email to burghquayregoffice@justice.ie stating your emergency.
+Trimiteți un e-mail la burghquayregoffice@justice.ie pentru a vă spune urgența.
 
-In case of no response, directly approach the Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
+În cazul în care nu se primește niciun răspuns, se abordează direct Biroul pentru Quay-ul Burgh. Va trebui să convingeți gardienii să poată intra în birou. După aceea, poți obține pașaportul înapoi pentru călătoriile imediate.
 
-**Option 2:**
+**Opțiunea 2:**
 
-Travel Document
+Document de călătorie
 
-If you require a Travel Document due to a genuine emergency which requires you to travel abroad, you should submit the [Travel Document Application Form](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) and send it to:
+Dacă aveţi nevoie de un document de călătorie datorită unei urgenţe reale care vă impune să călătoriţi în străinătate, ar trebui să trimiteți [Formularul de aplicație pentru documente de călătorie](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) și să-l trimiteți la:
 
 ```
-Travel Document Section
-Ministerial Decisions Unit
-Repatriation Division
-Irish Naturalisation and Immigration Service
-Department of Justice and Equality
+Secţiunea pentru documente de călătorie
+Unitatea de decizii ministeriale
+Divizia
+Serviciul irlandez de Naturalizare şi Imigrare
+Departamentul Justiţiei şi Egalităţii
 13-14 Burgh Quay
 Dublin 2
 D02 XK70
 ```
 
-You should also email INISTravdoc@justice.ie to let them know that you have applied and to explain the reason for the urgency.
+De asemenea, ar trebui să trimiteți un e-mail la INISTravdoc@justice.ie pentru a-i informa că ați depus o cerere și pentru a explica motivul urgenței.
 
-Applications will be considered urgent only if extraordinary circumstances apply – emergency medical treatment, death or serious illness of a family member.
+Cererile vor fi considerate urgente numai în cazul în care se aplică circumstanțe extraordinare – tratament medical de urgență, deces sau boală gravă a unui membru al familiei.
 
-You should provide proof of the need for prioritisation.
+Ar trebui să faceţi dovada necesităţii de a stabili priorităţi.
 
-References:
+Referinţe:
 
 http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
 
-http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
+http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20fsau%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20fsau%20Completion%20July%202016.pdf
 
-Last Updated: 25-Aug-2020
+Ultima actualizare: 25-Aug-2020
 
 
 ### Generalități
 
-#### **Mi-am trimis paşaportul şi IRP spre reînnoire. Will they issue the new IRP with a start date from when we had applied online?**
+#### **Mi-am trimis paşaportul şi IRP spre reînnoire. Vor elibera acestea noua IRP cu o dată de început din momentul în care am aplicat online?**
 
-No, the start date will be from the processed day.
-
-Ultima actualizare: 15-Aug-2020
-
-#### **What are the required documents for IRP renewal?**
-
-Check Required Documents Reference Guide - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
+Nu, data de începere va fi din ziua procesată.
 
 Ultima actualizare: 15-Aug-2020
 
-#### **Is there any guide for completing the application form in online portal?**
+#### **Care sunt documentele necesare pentru reînnoirea IRP?**
+
+Verificați Ghidul de referință necesar al Documentelor - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
+
+Ultima actualizare: 15-Aug-2020
+
+#### **Există vreun ghid pentru completarea formularului de cerere pe portalul online?**
 
 Check Immigration Online Portal Guide – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
 
 Ultima actualizare: 15-Aug-2020
 
-#### **What happens if I forget to upload the necessary documents as part of my application?**
+#### **Ce se întâmplă dacă uit să încarc documentele necesare în cadrul cererii mele?**
 
-Once you have created an application, you may scan any additional supporting documents and resubmit.
+Odată ce ați creat o cerere, puteți scana orice documente justificative suplimentare și retrimite.
 
 Ultima actualizare: 15-Aug-2020
 
-#### **How can I obtain an update on the status of my application?**
+#### **Cum pot obține o actualizare privind starea aplicației mele?**
 
-You may submit your query by email to burghquayregoffice@justice.ie
+Puteți trimite interogarea prin e-mail la burghquayregoffice@justice.ie
 
-When contacting them please include:
+La contactarea lor, vă rugăm să includeți:
 * numele tău,
 * numărul de referință al aplicației online,
 * număr înregistrat de urmărire a intrării și
@@ -295,39 +295,39 @@ When contacting them please include:
 
 Ultima actualizare: 19-Aug-2020
 
-#### **My permission was restricted due to the expiry of my passport. Can I use the online system to claim the remainder of my permission on my new passport?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+#### **Permisiunea mea a fost restricționată din cauza expirării pașaportului meu. Pot folosi sistemul online pentru a revendica restul permisiunii mele pe noul meu paşaport?**
+Nu. Vă rugăm să nu aplicați pentru restul permisiunilor dvs. online. Cererile pentru soldul al permisiunii acordate anterior ar trebui trimise prin e-mail Biroului de Înregistrare la burghquayregoffice@justitie. e Nu va exista nicio taxă pentru soldul acestei permisiuni.
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+Referinţă: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
 
 Ultima actualizare: 15-Aug-2020
 
 ## Schimbă adresa
 
-#### **I have changed my home/postal address and need to update it in my registration. What is the procedure?**
+#### **Mi-am schimbat adresa de acasă/poștală și trebuie să o actualizez în înregistrarea mea. Care este procedura?**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+Dacă noua dvs. adresă este în afara Dublin, trimiteți un e-mail la gnib_dv@garda.ie
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+Dacă noua dvs. adresă este în Dublin, trimiteți un e-mail la burghquayregoffice@justice.ie
 
-Subject Line - Change of details
+Subiect linie - Schimbarea detaliilor
 
-In the email, specify below details:
+În email, specificați detaliile de mai jos:
 * Nume complet
 * Număr de înregistrare
 * Cetățenia
 * Data nașterii
 * Adresă nouă
 
-You will get an acknowledgement in 2-3 days.
+Veţi primi o confirmare în 2-3 zile.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+Referință - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 Ultima actualizare: 15-Aug-2020
 
 ## Asigurări de sănătate
 
-#### **Can you suggest some affordable health insurance options available in Ireland?**
+#### **Puteți sugera câteva opțiuni accesibile de asigurare de sănătate disponibile în Irlanda?**
 
 - https://www.studyandprotect.com/ (Ștampila 1G) 200 EUR - 250 EUR pe an)
 - https://www.layahealthcare.ie/productsandservices/plan/schemă/Safre-protection (40 EUR pe lună)
