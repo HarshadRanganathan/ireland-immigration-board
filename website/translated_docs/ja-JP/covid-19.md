@@ -4,49 +4,49 @@ title: Covid-19 テスト
 sidebar_label: Covid-19 テスト
 ---
 
-## Emirates
+## エミレーツ
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Emirates?**
+#### **エミレーツまでアイルランドからアイルランドに移動する場合は、COVID-19 PCRの否定的なテストレポートが必要ですか?**
 
-All passengers travelling to or connecting through Dubai must have a negative COVID-19 PCR test certificate to be accepted on the flight.
+ドバイ経由またはドバイ経由のすべての乗客は、飛行中に受け入れられるべき否定的なCOVID-19 PCRテスト証明書を持っていなければなりません。
 
-The certificate must be for a polymerase chain reaction (PCR) swab test taken a maximum of 96 hours before departure.
+証明書は、ポリメラーゼ連鎖反応(PCR)の綿棒テストの場合、出発まで最大96時間かかる必要があります。
 
-Other test certificates including antibody tests and home testing kits are not accepted in Dubai.
+ドバイでは、抗体検査や家庭検査キットなどの試験証明書は受け付けていません。
 
-Bring an official, printed certificate – SMS and digital certificates are not accepted.
+公式に印刷された証明書を持参してください - SMSとデジタル証明書は受け入れられません。
 
-Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
+参考：https://www.emirates.com/ie/jp/jp/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
 
-Last Updated: 01-Sep-2020
+最終更新日:2020年9月
 
 ## Etihad
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to/from Ireland by Eithad?**
+#### **Eithadによってアイルランドから/アイルランドへ旅行する場合、COVID-19 PCRの否定的なテストレポートが必要ですか?**
 
-It is mandatory to have a COVID-19 PCR test before you fly with Etihad Airways – you will only be permitted to fly if you have a negative test result.
+エティハド航空で飛行する前にCOVID-19 PCRテストを受けることが必須です - テスト結果がマイナスの場合にのみ飛行が許可されます。
 
-Your test must be carried out a maximum of 96 hours before your flight departure time at any government accredited medical facility.
+試験は、政府認定の医療施設で飛行機の出発時刻の最大96時間前までに行われなければなりません。
 
-Children under 12 and people with mild and severe disabilities are exempt from COVID-19 PCR testing. This may vary by destination – always check before you fly.
+12歳未満の小児および軽度および重度の障害を持つ人々は、COVID-19 PCR検査を免除されます。 これは目的地によって異なる場合があります - 飛行前に常にチェックしてください。
 
-Reference: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
+参考：https://www.ethad.com/ja-JP/travel-updates/all-destinations-travel-guides
 
 最終更新日: 2020年8月19日
 
 ## Lufthansa
 
-#### **Do we need a negative COVID-19 PCR test report if we are travelling to Ireland by Lufthansa?**
+#### **ルフトハンザでアイルランドに旅行する場合は、COVID-19 PCRの否定的なテストレポートが必要ですか?**
 
-Wearing a mouth-nose-cover on board and at the airport is mandatory for everyone.
+船上および空港で口鼻カバーを着用することはすべての人に義務付けられています。
 
-We only accept an exception from the obligation to wear a mask on presentation of a validated negative PCR test result and a medical certificate on the corresponding Lufthansa Group form.
+当社は、検証された陰性PCR検査結果と対応するルフトハンザグループのフォームに医療証明書を提示する際にマスクを着用する義務からの例外のみ受け入れます。
 
-The test result must not be older than 48 hours prior to the start of the respective outbound and return flight.
+テスト結果は、それぞれのアウトバウンドおよび戻りのフライトが開始される48時間前までにしてください。
 
-Reference: https://www.lufthansa.com/xx/en/faq-mouth-nose-cover
+参考：https://www.lufthansa.com/xx/en/faq-mouth-nose-cover
 
-Last Updated: 01-Sep-2020
+最終更新日:2020年9月
 
 ## 渡航クリアランス証明書
 
@@ -56,18 +56,18 @@ Last Updated: 01-Sep-2020
 
 * http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
 
-Tags: Covid-19 Negative PCR Test
+タグ: Covid-19 負のPCRテスト
 
-Last Updated: 22-Aug-2020
+最終更新日: 2020年8月22日
 
 ## 旅客検索フォーム
 
-If you are arriving into Ireland on or after this date, you have to complete this form in advance of arriving into the State.
+この日付の上または後にアイルランドに到着する場合は、州に到着する前にこのフォームに記入する必要があります。
 
-https://cvd19plf-prod1.powerappsportals.com/en-us/
+https://cvd19plf-prod1.powerappsports.com/en-us/
 
-This form and any copies of it, and any updates that you send using the passengerlocatorform@plf.ie email address, will be destroyed 28 days after your arrival, unless the form is required for law enforcement purposes.
+このフォームおよびそのコピー、および acciderlocatorform@plf を使用して送信するアップデート。 電子メールアドレスは、到着後28日後に破棄されます 法執行機関の目的でフォームが必要でない限りはね
 
-Reference - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
+Reference - https://www.gov.ie/ja/publication/ab900-covid-19-accessor-locator-form/
 
-Last Updated: 25-Aug-2020
+最終更新日:2020年8月25日(火)
