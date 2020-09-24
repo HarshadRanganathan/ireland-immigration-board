@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Como faço para obter uma consulta para registro pela primeira vez?**
 
-Se estiver a viver em Dublin, envie um e-mail para burghquayregoffice@justice.ie solicitando a nomeação.
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 Se estiver vivendo fora de Dublin, envie um e-mail para o escritório da garda no seu condado para organizar uma nomeação.
 
@@ -81,7 +81,7 @@ Se estiver vivendo fora de Dublin, envie um e-mail para o escritório da garda n
 Referência - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Última Atualização: 24-Aug-2020
+Last Updated: 24-Sep-2020
 
 ### Pagamento
 
