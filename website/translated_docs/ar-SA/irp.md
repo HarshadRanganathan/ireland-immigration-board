@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **كيف أحصل على موعد للتسجيل لأول مرة؟**
 
-إذا كنت تسكن في دبلن، قم بإرسال بريد إلكتروني إلى برغكيريغاتيركسيني@justice.ie لطلب موعد.
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 إذا كنت تسكن خارج دبلن، قم بإرسال بريد إلكتروني إلى مكتب الحديقة في مقاطعتك لترتيب موعد.
 
@@ -81,7 +81,7 @@ sidebar_label: IRP
 المرجع - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-آخر تحديث: 24 آب/أغسطس 2020
+Last Updated: 24-Sep-2020
 
 ### الدفع
 
