@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **初回登録の予約はどうすればいいですか?**
 
-ダブリンに住んでいる場合は、burghquayregoffice@justice.ieに予約を要求するメールを送信してください。
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 あなたがダブリンの外に住んでいる場合は、あなたのそれぞれの郡のgarda事務所に電子メールを送信して、予定を手配してください。
 
@@ -81,7 +81,7 @@ sidebar_label: IRP
 Reference - https://www.garda.ie/ja/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-最終更新日: 2020年8月24日
+Last Updated: 24-Sep-2020
 
 ### 支払い
 
