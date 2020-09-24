@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **كيف أحصل على موعد للتسجيل لأول مرة؟**
 
-If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
+إذا كنت تسكن في دبلن، فبإمكانك أن تحجز موعدًا على شبكة الإنترنت https://burghquayregistrationoffice.inis.gov.ie/ للحصول على موعد.
 
 إذا كنت تسكن خارج دبلن، قم بإرسال بريد إلكتروني إلى مكتب الحديقة في مقاطعتك لترتيب موعد.
 
@@ -81,7 +81,7 @@ If you are living in Dublin, you can use the online appointment system https://b
 المرجع - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Last Updated: 24-Sep-2020
+آخر تحديث: 24-Sep-2020
 
 ### الدفع
 
@@ -105,7 +105,7 @@ Last Updated: 24-Sep-2020
 
 إذا سافرت إلى آيرلندا بتأشيرة دخول واحدة واكتشفت أنك بحاجة إلى السفر والعودة إلى آيرلندا قبل أن تحصل على بطاقة إيران الخاصة بك، بإمكانك السفر والطلب للحصول على تأشيرة دخول أخرى من خارج أيرلندا.
 
-Reference: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+() المرجع: http://www.inis.gov.ie/en/INIS/abolition-of-reentry-visa-faq.pdf/Files/abolition-of-reentry-visa-faq.pdf.
 
 آخر تحديث: 15 آب/أغسطس 2020
 
@@ -118,9 +118,9 @@ Reference: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Fil
 
 أما التأشيرات المطلوبة من المواطنين الذين يعتزمون السفر إلى أيرلندا والخروج منها خلال الأشهر الأربعة الأولى من إقامتهم المقررة فينبغي أن يقدموا طلبات للحصول على تأشيرة دخول متعددة، وسيسمح لهم بالسفر إلى آيرلندا عدة مرات في فترة معينة قبل إصدار بطاقتهم الخاصة بالاستثمار الأجنبي المباشر.
 
-Reference: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas
+المرجع: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-reentry-visas
 
-Last Updated: 25-Aug-2020
+آخر تحديث: 25 آب/أغسطس 2020
 
 ## التجديد
 
@@ -128,7 +128,7 @@ Last Updated: 25-Aug-2020
 
 #### **أحتاج إلى تجديد معهد إنترناشيونات. أين يجب أن أحجز موعدي؟**
 
-The online renewal application portal can be found here: https://inisonline.jahs.ie/
+يمكن العثور على بوابة طلب التجديد عبر الإنترنت هنا: https://inisonline.jahs.ie/
 
 آخر تحديث: 15 آب/أغسطس 2020
 
@@ -136,48 +136,48 @@ The online renewal application portal can be found here: https://inisonline.jahs
 
 #### **قمت بالدفع في بوابة التطبيق عبر الإنترنت ولكن لم أستلم أي بريد إلكتروني للتأكيد**
 
-Please check you spam folder for the email. If you have checked your spam folder but have not received an email from us, please wait 7 working days for us to contact you.
+الرجاء التحقق من مجلد البريد المزعج الخاص بك للبريد الإلكتروني. إذا كنت قد قمت بالتحقق من مجلد البريد المزعج الخاص بك ولكن لم تتلق رسالة بريد إلكتروني مننا، الرجاء الانتظار 7 أيام عمل حتى نتمكن من الاتصال بك.
 
-If you have not heard from us by then, please contact the immigration unit (burghquayregoffice@justice.ie) responsible for processing the application form you want to submit.
+وإذا لم تسمعوا منا في ذلك الوقت، فيرجى الاتصال بوحدة الهجرة (Burghquayregoffice@Justice . (هـ) مسؤول عن معالجة استمارة الطلب التي تريد تقديمها.
 
-If you contact us by email, please include 'online form – issue' in the subject line of your email
+إذا اتصلت بنا عن طريق البريد الإلكتروني، فيرجى إدراج "نموذج على الإنترنت - مشكلة" في سطر الموضوع من بريدك الإلكتروني
 
-Reference - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
+المرجع - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 #### **أنا لا أحصل على إعادة توجيهها إلى صفحة الدفع بعد تقديم النموذج**
 
-Try submitting a new form without saving it to get redirected to the payment page.
+حاول تقديم نموذج جديد دون حفظه للحصول على إعادة توجيهه إلى صفحة الدفع.
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 ### تقديم الطلب
 
-In order to process your application after submitting the form in the online portal, you need to submit:
+من أجل معالجة طلبك بعد إرسال الاستمارة في البوابة الإلكترونية، تحتاج إلى إرسالها:
 * نسخة من البريد الإلكتروني لتأكيد الطلب؛
 * جواز سفرك الأصلي؛
 * بطاقة IRP/GNIB الأصلية الحالية
 
-YOU MUST CLEARLY PRINT THE STAMP NUMBER APPLIED FOR ON THE OUTSIDE OF YOUR ENVELOPE
+لقد قمت بتشغيل قاعدة البيانات الخاصة بك في نهاية المطاف
 
-Send by Registered Post to:<br/> **Permissions Renewal Unit<br/> ISD<br/> 13-14 Burgh Quay<br/> Dublin 2<br/> DO2 XK70**
+إرسال بواسطة المنشور المسجل إلى:<br/> **وحدة تجديد الأذونات<br/> ISD<br/> 13-14 Quay<br/> دبلن 2<br/> DO2 XK70**
 
-Do not submit your documents by post until you have received the application confirmation email.
+لا تقم بإرسال مستنداتك بالبريد حتى تتلقى رسالة تأكيد الطلب بالبريد الإلكتروني.
 
-Passports sent by ordinary post will not be processed.
+ولن يتم تجهيز جوازات السفر المرسلة بالمركز العادي.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+المرجع http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-فقط
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 #### **إذن زوجي يعتمد على تجديدي. هل يجب أن نقدم طلبنا معا؟**
 
-You need to submit two separate applications for yourself and your spouse in the online application portal.
+يتوجب عليك تقديم طلبين منفصلين لك ولزوجك/زوجتك في بوابة الطلب على الإنترنت.
 
-In your application, indicate that your spouse's permission on you.
+في طلبك، أبلغ عن إذن زوجك/زوجتك.
 
-Finally, send the documents in two separate envelopes for processing.
+وأخيرا، إرسال الوثائق في مظروفين منفصلين لتجهيزها.
 
 آخر تحديث: 15 آب/أغسطس 2020
 
@@ -185,109 +185,109 @@ Finally, send the documents in two separate envelopes for processing.
 
 #### **كم عدد الأيام التي سيستغرقها تجهيز طلب التجديد؟**
 
-Processing times: 10 – 15 working days minimum
+أوقات المعالجة: 10 - 15 يوم عمل كحد أدنى
 
-If your application is successful – your permission will be renewed and your in-date passport will be stamped.  The new IRP card will issue to you separately within 10 – 15 working days
+إذا كان طلبك ناجحاً - سيتم تجديد إذنك وسيتم ختم جواز سفرك في التاريخ.  بطاقة IRP الجديدة ستصدر لك بشكل منفصل في غضون 10 - 15 يوم عمل
 
-Reference: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+المرجع: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-فقط.
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 #### **كيف سأتلقى طلبي بمجرد معالجته؟**
 
-The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post.
+وسيوضع ختم التصريح في جواز السفر المودع في التاريخ الذي يقدم فيه البريد المسجل ويعيده مع إرسال بطاقة إيراد آر آر آر آر آر آر آر آر آر آر آر بالبريد المنفصل.
 
-A tracking number will be shared in email for checking your passport delivery status.
+سيتم مشاركة رقم التتبع في البريد الإلكتروني للتحقق من حالة تسليم جواز السفر.
 
 آخر تحديث: 24 آب/أغسطس 2020
 
-#### **I have sent my Passport and IRP for renewal. I'm planning to shift my house soon ad haven't received my documents back. What should I do in this case to receive them at my new address?**
+#### **وقد أرسلتُ جواز سفري ومعهد إنعاش العراق للتجديد. أنا أخطط لتغيير منزلي قريباً لم يستلم مستنداتي مرة أخرى. ماذا يجب أن أفعل في هذه الحالة لاستقبالهم في عنواني الجديد؟**
 
-You can get your mail redirected to your new home by setting up a redirection service at your local post office or applying online.
+يمكنك إعادة توجيه بريدك الإلكتروني إلى منزلك الجديد عن طريق إعداد خدمة إعادة التوجيه في مكتب البريد المحلي الخاص بك أو تقديم الطلب عبر الإنترنت.
 
-You will need proof of identity and proof of address if you are applying at the post office.
+تحتاج إلى إثبات الهوية الشخصية وإثبات العنوان إذا كنت تتقدم بالطلب في مكتب البريد.
 
-They accept driving licences, passports, employer photo ID or student photo ID from third level colleges as proof of identify.
+وهم يقبلون رخص القيادة أو جوازات السفر أو بطاقة هوية صاحب العمل أو صورة التلميذ من معاهد الدرجة الثالثة كدليل على هويتهم.
 
-A utility bill, bank or building society statement, issued within the last five months and bearing the address mail is to be redirected from, will be accepted as proof of address.
+فاتورة المنفعة، بيان البنك أو مجتمع المبنى، يصدر في غضون الأشهر الخمسة الماضية ويعاد توجيه البريد الإلكتروني إلى العنوان كدليل على العنوان.
 
-Reference: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+المرجع: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
 
-Last Updated: 25-Aug-2020
+آخر تحديث: 25 آب/أغسطس 2020
 
 ### السفر
 
-#### **وكنت قد أرسلت جواز سفري وبرنامج إنعاش العراق للتجديد. Now, I have a family emergency and need to travel ASAP. Can I get my IRP renewed immediately?**
+#### **وكنت قد أرسلت جواز سفري وبرنامج إنعاش العراق للتجديد. الآن، لدي عائلة طارئة وتحتاج للسفر إلى ASAP. هل يمكنني أن أجدد شركتي الداخلية فوراً؟**
 
-**Option 1:**
+**الخيار 1:**
 
-Send an email to burghquayregoffice@justice.ie stating your emergency.
+أرسل رسالة بالبريد الإلكتروني إلى برغكيريغوفيتش @justice.ie تعلن حالة الطوارئ الخاصة بك.
 
-In case of no response, directly approach the Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
+وفي حالة عدم وجود رد، تتصل مباشرة بمكتب بيرغ كويي. عليك أن تقنع الحراس بأن يكونوا قادرين على دخول المكتب. وبعد ذلك، يمكنك إعادة جواز سفرك على الفور.
 
-**Option 2:**
+**الخيار 2:**
 
-Travel Document
+وثيقة السفر
 
-If you require a Travel Document due to a genuine emergency which requires you to travel abroad, you should submit the [Travel Document Application Form](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) and send it to:
+إذا كنت بحاجة إلى وثيقة سفر بسبب حالة طوارئ حقيقية، والتي يتوجب عليك السفر إلى الخارج، يجب عليك إرسال [استمارة طلب وثيقة السفر](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) وإرسالها إلى:
 
 ```
-Travel Document Section
-Ministerial Decisions Unit
-Repatriation Division
-Irish Naturalisation and Immigration Service
-Department of Justice and Equality
-13-14 Burgh Quay
-Dublin 2
+قسم وثائق السفر
+وحدة القرارات الوزارية
+شعبة الإعادة إلى الوطن
+دائرة التجنس والهجرة الآيرلندية
+وزارة العدل والمساواة
+13-14 بورغ
+دبلن 2
 D02 XK70
 ```
 
-You should also email INISTravdoc@justice.ie to let them know that you have applied and to explain the reason for the urgency.
+يجب عليك أيضا إرسال البريد الإلكتروني INISTravdoc@justice.ie لإبلاغهم بأنك تقدمت بطلب وشرح سبب الاستعجال.
 
-Applications will be considered urgent only if extraordinary circumstances apply – emergency medical treatment, death or serious illness of a family member.
+ولا تعتبر الطلبات عاجلة إلا إذا كانت هناك ظروف استثنائية - العلاج الطبي الطارئ أو الوفاة أو مرض خطير لأحد أفراد الأسرة.
 
-You should provide proof of the need for prioritisation.
+وينبغي أن تقدم دليلا على الحاجة إلى تحديد الأولويات.
 
-References:
+المراجع:
 
 http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
 
-http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
+http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20fأو%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
 
-Last Updated: 25-Aug-2020
+آخر تحديث: 25 آب/أغسطس 2020
 
 
 ### عام
 
-#### **وكنت قد أرسلت جواز سفري وبرنامج إنعاش العراق للتجديد. Will they issue the new IRP with a start date from when we had applied online?**
+#### **وكنت قد أرسلت جواز سفري وبرنامج إنعاش العراق للتجديد. هل سيصدرون برنامج إنعاش المشاريع الجديد مع تاريخ بداية من تاريخ تطبيقنا على الإنترنت؟**
 
-No, the start date will be from the processed day.
-
-آخر تحديث: 15 آب/أغسطس 2020
-
-#### **What are the required documents for IRP renewal?**
-
-Check Required Documents Reference Guide - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
+لا، تاريخ البدء سيكون من يوم المعالجة.
 
 آخر تحديث: 15 آب/أغسطس 2020
 
-#### **Is there any guide for completing the application form in online portal?**
+#### **ما هي الوثائق المطلوبة لتجديد معهد إنعاش آسيا؟**
 
-Check Immigration Online Portal Guide – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
-
-آخر تحديث: 15 آب/أغسطس 2020
-
-#### **What happens if I forget to upload the necessary documents as part of my application?**
-
-Once you have created an application, you may scan any additional supporting documents and resubmit.
+افحص الدليل المرجعي للوثائق المطلوبة - http://www.inis.gov.ie/en/INIS/Online-registration-required-documents-reference-guide[1].pdf/Files/Online-registration-required-documents-reference-guide[1].pdf
 
 آخر تحديث: 15 آب/أغسطس 2020
 
-#### **How can I obtain an update on the status of my application?**
+#### **هل هناك أي دليل لإكمال استمارة الطلب في بوابة الإنترنت؟**
 
-You may submit your query by email to burghquayregoffice@justice.ie
+تحقق من دليل بوابة الهجرة على الإنترنت - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
 
-When contacting them please include:
+آخر تحديث: 15 آب/أغسطس 2020
+
+#### **ماذا يحدث إذا نسيت تحميل الوثائق اللازمة كجزء من تطبيقي؟**
+
+بمجرد إنشاء طلب، يمكنك مسح أي مستندات داعمة إضافية وإعادة إرسالها.
+
+آخر تحديث: 15 آب/أغسطس 2020
+
+#### **كيف يمكنني الحصول على معلومات مستكملة عن حالة طلبي؟**
+
+يمكنك إرسال استفسارك عن طريق البريد الإلكتروني إلى البرغكيريغوفيتش @justice.ie
+
+عند الاتصال بهم يرجى ما يلي:
 * اسمك،
 * الرقم المرجعي للتطبيق عبر الإنترنت،
 * رقم التتبع المسجل، و
@@ -295,39 +295,39 @@ When contacting them please include:
 
 آخر تحديث: 19 آب/أغسطس 2020
 
-#### **My permission was restricted due to the expiry of my passport. Can I use the online system to claim the remainder of my permission on my new passport?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+#### **لقد تم تقييد إذني بسبب انتهاء صلاحية جواز سفري. هل يمكنني استخدام النظام على الإنترنت للمطالبة بما تبقى من إذني على جواز سفري الجديد؟**
+لا. يرجى عدم التقدم بطلب للحصول على بقية الصلاحيات الخاصة بك عبر الإنترنت. يجب إرسال طلبات الحصول على الرصيد من الإذن الذي سبق منحه عن طريق البريد الإلكتروني إلى مكتب التسجيل في burghquayregoffice@justice (هـ) لن تكون هناك رسوم مقابل رصيد هذا الإذن.
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+المرجع: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf.
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 ## تغيير العنوان
 
-#### **I have changed my home/postal address and need to update it in my registration. What is the procedure?**
+#### **لقد غيرت عنوان منزلي/بريدي وتحتاج إلى تحديثه في تسجيلي. ما هو الإجراء؟**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+إذا كان عنوانك الجديد خارج دبلن، أرسل رسالة بريد إلكتروني إلى gnib_dv@garda.ie
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+إذا كان عنوانك الجديد داخل دبلن، أرسل رسالة بريد إلكتروني إلى burghquayregoffice@justice.ie
 
-Subject Line - Change of details
+خط الموضوع - تغيير التفاصيل
 
-In the email, specify below details:
+في البريد الإلكتروني، حدد التفاصيل أدناه:
 * الاسم الكامل
 * رقم التسجيل
 * الجنسية
 * تاريخ الميلاد
 * عنوان جديد
 
-You will get an acknowledgement in 2-3 days.
+سوف تحصل على إقرار خلال 2-3 أيام.
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
+المرجع http://www.inis.gov.ie/en/INIS/Pages/registration-update-التفاصيل.
 
 آخر تحديث: 15 آب/أغسطس 2020
 
 ## التأمين الصحي
 
-#### **Can you suggest some affordable health insurance options available in Ireland?**
+#### **هل يمكنك اقتراح بعض خيارات التأمين الصحي بأسعار معقولة المتاحة في آيرلندا؟**
 
 - https://www.studyandprotect.com/ (Stamp 1G) (200 - 250 يورو في السنة)
 - https://www.layahealth.ie/productsandservices/plan/scheme/assure-protection (EUR 40 في الشهر)
