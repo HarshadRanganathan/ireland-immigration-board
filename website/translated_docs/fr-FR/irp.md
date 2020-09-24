@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Comment puis-je obtenir un rendez-vous pour une inscription pour la première fois?**
 
-Si vous habitez à Dublin, envoyez un e-mail à burghquayregoffice@justice.ie pour demander un rendez-vous.
+Si vous habitez à Dublin, vous pouvez utiliser le système de rendez-vous en ligne https://burghquayregistrationoffice.inis.gov.ie/ pour obtenir un rendez-vous.
 
 Si vous habitez en dehors de Dublin, envoyez un courriel au bureau du garda de votre comté respectif pour prendre rendez-vous.
 
@@ -81,7 +81,7 @@ Si vous habitez en dehors de Dublin, envoyez un courriel au bureau du garda de v
 Référence - https://www.garda.ie/fr/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Dernière mise à jour: 24-août-2020
+Dernière mise à jour : 24-Sep-2020
 
 ### Paiement
 
@@ -105,7 +105,7 @@ Si vous savez que vous voyagerez dans les quatre premiers mois de votre arrivée
 
 Si vous avez voyagé en Irlande avec un visa d'entrée unique et que vous avez besoin de voyager et de retourner en Irlande avant d'obtenir votre carte IRP Vous pouvez voyager et demander un autre visa d'entrée en dehors de l'Irlande.
 
-Référence - http://www.inis.gov.ie/fr/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+Référence : http://www.inis.gov.ie/fr/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
 
 Dernière mise à jour: 15-août-2020
 
@@ -118,7 +118,9 @@ Il peut prendre quelques semaines pour obtenir un rendez-vous d'inscription, et 
 
 Le visa requis pour les ressortissants qui ont l'intention de voyager en Irlande et hors d'Irlande au cours des quatre premiers mois de leur séjour prévu devrait demander un visa d'entrée multiple, qui leur permettra de voyager en Irlande à plusieurs reprises dans une période donnée avant que leur carte IRP ne soit émise.
 
-Dernière mise à jour: 15-août-2020
+Référence : http://www.inis.gov.ie/fr/INIS/Pages/abolition-of-adult-re-entry-visas
+
+Dernière mise à jour: 25-août-2020
 
 ## Renouvellement
 
@@ -199,16 +201,60 @@ Un numéro de suivi sera partagé par courriel pour vérifier le statut de livra
 
 Dernière mise à jour: 24-août-2020
 
+#### **J'ai envoyé mon passeport et mon IRP à des fins de renouvellement. Je prévois de changer de maison bientôt mon annonce n'a pas reçu mes documents en retour. Que dois-je faire dans ce cas pour les recevoir à ma nouvelle adresse?**
+
+Vous pouvez recevoir votre courrier redirigé vers votre nouvelle maison en mettant en place un service de redirection à votre bureau de poste local ou en faisant une demande en ligne.
+
+Si vous faites votre demande à la poste, vous aurez besoin d’une preuve d’identité et d’un justificatif de domicile.
+
+Ils acceptent comme preuve d’identité le permis de conduire, le passeport, la pièce d’identité avec photo d’employeur ou la pièce d’identité avec photo d’étudiant des collèges de niveau supérieur.
+
+Une facture de services publics, une déclaration de banque ou une déclaration de la société, émis au cours des cinq derniers mois et portant l'adresse postale doit être redirigée, sera accepté comme justificatif de domicile.
+
+Référence : https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+
+Dernière mise à jour: 25-août-2020
 
 ### Voyage
 
 #### **J'avais envoyé mon passeport et mon IRP à des fins de renouvellement. Maintenant, j'ai une urgence familiale et j'ai besoin de voyager le plus rapidement possible. Puis-je renouveler mon IRP immédiatement ?**
 
+**Option 1 :**
+
 Envoyez un courriel à burghquayregoffice@justice.ie indiquant votre urgence.
 
-En cas d’absence de réponse, contactez directement Burgh Quay Office. Vous devrez convaincre les gardes de pouvoir entrer dans le bureau. Ensuite, vous pourrez récupérer votre passeport pour un voyage immédiat.
+En cas d’absence de réponse, contactez directement le bureau de Burgh Quay. Vous devrez convaincre les gardes de pouvoir entrer dans le bureau. Ensuite, vous pourrez récupérer votre passeport pour un voyage immédiat.
 
-Dernière mise à jour: 24-août-2020
+**Option 2 :**
+
+Document de voyage
+
+Si vous avez besoin d'un document de voyage en raison d'une véritable urgence qui vous oblige à voyager à l'étranger, vous devez soumettre le [formulaire de demande de documents de voyage](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) et l'envoyer à :
+
+```
+Section de documents de voyage
+Unité ministérielle des décisions
+Division du rapatriement
+Service irlandais de la naturalisation et de l'immigration
+Département de la justice et de l'égalité
+13-14 Burgh Quay
+Dublin 2
+D02 XK70
+```
+
+Vous devriez également envoyer un courriel à INISTravdoc@justice.ie pour leur faire savoir que vous avez postulé et expliquer la raison de l'urgence.
+
+Les demandes ne seront considérées comme urgentes que si des circonstances extraordinaires s’appliquent – un traitement médical d’urgence, un décès ou une maladie grave d’un membre de la famille.
+
+Vous devriez apporter la preuve de la nécessité d'établir des priorités.
+
+Références:
+
+http://www.inis.gov.ie/fr/inis/pages/application_pour_a_travel_document
+
+http://www.inis.gov.ie/fr/INIS/Voyage%20Document%20Guide%20fou%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20fou%20Completion%20July%202016.pdf
+
+Dernière mise à jour: 25-août-2020
 
 
 ### Généraux

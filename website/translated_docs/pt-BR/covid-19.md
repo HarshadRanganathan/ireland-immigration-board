@@ -4,31 +4,23 @@ title: Teste Covid-19
 sidebar_label: Teste Covid-19
 ---
 
-
-## Lufthansa
-
-#### **Será que precisamos de um relatório de teste COVID-19 negativo se viajarmos para a Irlanda de Lufthansa?**
-
-Não, a Lufthansa não tem neste momento essas exigências.
-
-Última Atualização: 15-Aug-2020
-
 ## Emirados
 
 #### **Será que precisamos de um relatório de teste COVID-19 negativo se viajarmos para a Irlanda de Emirates?**
 
-Todos os passageiros que chegam ao Dubai de qualquer destino, incluindo os passageiros que se conectam no Dubai, tem de ter um certificado de teste COVID-19 negativo para ser aceite no voo.
+Todos os passageiros que viajam para o Dubai ou se conectam através do Dubai devem ter um certificado de teste COVID-19 negativo para ser aceite no voo.
 
-Recomendamos que você traga um certificado impresso, mas os digitais são aceitos no Dubai. Deve ser um certificado oficial - mensagens de confirmação de SMS não são aceitas.
+O certificado deve ser para um teste de swab em cadeia polimerase (PCR) com o máximo de 96 horas antes da partida.
 
-O teste deve ter um máximo de 96 horas antes da partida. Isto exclui as crianças com menos de 12 anos e os passageiros que têm uma deficiência moderada ou grave.
+Outros certificados de teste, incluindo testes anticorpo e kits de teste domésticos não são aceitos no Dubai.
 
+Traga um certificado oficial, impresso – certificados SMS e digitais não são aceitos.
 
 Referência: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
 
-Última Atualização: 15-Aug-2020
+Última atualização: 01-Sep-2020
 
-## Eithad
+## Etihad
 
 #### **Será que precisamos de um relatório de teste COVID-19 negativo se estivermos a viajar para a Irlanda pela Eithad?**
 
@@ -41,6 +33,20 @@ As crianças com menos de 12 anos e as pessoas com deficiências graves e suaves
 Referência: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guias
 
 Última Atualização: 19-Aug-2020
+
+## Lufthansa
+
+#### **Será que precisamos de um relatório de teste COVID-19 negativo se viajarmos para a Irlanda de Lufthansa?**
+
+Para todos é obrigatório usar uma capa de nariz a bordo e nos aeroportos.
+
+Aceitamos apenas uma excepção à obrigação de vestir uma máscara com base na apresentação de um resultado de teste negativo sobre o PCR validado e de um certificado médico no formulário correspondente da Lufthansa Group (Grupo da Lufthansa).
+
+O resultado dos testes não deve ser mais antigo do que 48 horas antes do início do respectivo voo de saída e retorno.
+
+Referência: https://www.lufthansa.com/xx/en/faq-mouth-nose-cover
+
+Última atualização: 01-Sep-2020
 
 ## Certificado de Compensação
 
@@ -56,7 +62,7 @@ Tags: Teste Covid-19 Negativo PCR
 
 ## Formulário Localizador de Passageiros
 
-A partir de quarta-feira, 26 de Agosto de 2020, o formulário COVID-19 localizador de passageiros está a mudar para um formulário online. Se chegarem à Irlanda a partir dessa data ou a partir dessa data, terão de preencher este formulário antes de chegarem ao Estado.
+Se chegarem à Irlanda a partir dessa data ou a partir dessa data, terão de preencher este formulário antes de chegarem ao Estado.
 
 https://cvd19plf-prod1.powerappsportals.com/en-us/
 
@@ -64,4 +70,4 @@ Este formulário e as cópias que você enviar usando o passageiro erlocatorform
 
 Referência - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
-Última Atualização: 23-Aug-2020
+Última Atualização: 25-Aug-2020

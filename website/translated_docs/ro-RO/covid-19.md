@@ -4,31 +4,23 @@ title: Testul Covid-19
 sidebar_label: Testul Covid-19
 ---
 
-
-## Lufthansa
-
-#### **Avem nevoie de un raport de test PCR negativ COVID-19 dacă călătorim în Irlanda de Lufthansa?**
-
-Nu, Lufthansa nu are în prezent astfel de cerinţe.
-
-Ultima actualizare: 15-Aug-2020
-
 ## Emirate
 
 #### **Avem nevoie de un raport de test PCR negativ COVID-19 dacă călătorim către/din Irlanda de către Emirats?**
 
-Toți pasagerii care sosesc în Dubai din orice destinație, inclusiv pasagerii care se deplasează în Dubai, trebuie să aibă un certificat de testare PCR negativ pentru a fi acceptat pe zbor.
+Toți pasagerii care călătoresc sau se conectează prin Dubai trebuie să aibă un certificat de testare PCR negativ pentru a fi acceptați pe zbor.
 
-Vă recomandăm să adăugați un certificat imprimat, dar cele digitale sunt acceptate în Dubai. Trebuie să fie un certificat oficial - Mesajele de confirmare SMS nu sunt acceptate.
+Certificatul trebuie să conţină un test de swab cu reacţie în lanţ de polimerizare (PCR) efectuat cu maximum 96 de ore înainte de plecare.
 
-Testul trebuie efectuat cu maximum 96 de ore înainte de plecare. Aceasta exclude copiii cu vârsta sub 12 ani şi pasagerii cu handicap moderat sau sever.
+Alte certificate de testare, inclusiv testele de anticorpi şi kiturile de testare la domiciliu, nu sunt acceptate în Dubai.
 
+Aduceți un certificat oficial, tipărit – certificatele SMS și digitale nu sunt acceptate.
 
 Referinţă: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travel to-dubai/
 
-Ultima actualizare: 15-Aug-2020
+Ultima actualizare: 01-Sep-2020
 
-## Eithad
+## Etihad
 
 #### **Avem nevoie de un raport de test PCR negativ COVID-19 dacă călătorim la/din Irlanda de către Eithad?**
 
@@ -41,6 +33,20 @@ Copiii cu vârsta sub 12 ani şi persoanele cu dizabilităţi uşoare şi severe
 Referințe: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
 
 Ultima actualizare: 19-Aug-2020
+
+## Lufthansa
+
+#### **Avem nevoie de un raport de test PCR negativ COVID-19 dacă călătorim în Irlanda de Lufthansa?**
+
+Purtarea la bord a unui capac pentru nas şi în aeroport este obligatorie pentru toată lumea.
+
+Acceptăm doar o excepţie de la obligaţia de a purta o mască la prezentarea unui rezultat validat negativ al testului PCR şi a unui certificat medical pe formularul corespunzător din Grupul Lufthansa.
+
+Rezultatul testului nu trebuie să fie mai vechi de 48 de ore înainte de începerea zborului de ieşire şi de întoarcere.
+
+Referințe: https://www.lufthansa.com/xx/en/faq-mouth-nose-cover
+
+Ultima actualizare: 01-Sep-2020
 
 ## Certificat de autorizare a călătoriilor
 
@@ -56,7 +62,7 @@ Ultima actualizare: 22-Aug-2020
 
 ## Formular de localizare a pasagerilor
 
-Începând de miercuri, 26 august 2020, Formularul COVID-19 pentru localizarea pasagerilor se transformă în formular online. În cazul în care ajungeți în Irlanda la sau după această dată, trebuie să completați acest formular înainte de sosirea în stat.
+În cazul în care ajungeți în Irlanda la sau după această dată, trebuie să completați acest formular înainte de sosirea în stat.
 
 https://cvd19plf-prod1.powerappsportals.com/ro-ro
 
@@ -64,4 +70,4 @@ Acest formular și orice copii ale acestuia, precum și orice actualizări pe ca
 
 Referință - https://www.gov.ie/en/publication/ab900-covid-19-passenger-locator-form/
 
-Ultima actualizare: 23-Aug-2020
+Ultima actualizare: 25-Aug-2020

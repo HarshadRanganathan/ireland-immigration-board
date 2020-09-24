@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Cum pot obține o programare pentru prima înregistrare?**
 
-Dacă locuiți în Dublin, trimiteți un e-mail la burghquayregoffice@justice.ie solicitând o programare.
+Dacă locuiești în Dublin, poți folosi sistemul online de programare https://burghquayregistrationoffice.inis.gov.ie/ pentru a obține o programare.
 
 Dacă locuiți în afara Dublinului, trimiteți un e-mail biroului garda din județul dvs. pentru a vă pregăti pentru o programare.
 
@@ -81,7 +81,7 @@ Dacă locuiți în afara Dublinului, trimiteți un e-mail biroului garda din jud
 Referință - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Ultima actualizare: 24-Aug-2020
+Ultima actualizare: 24-Sep-2020
 
 ### Plată
 
@@ -105,7 +105,7 @@ Dacă ştiţi că veţi călători în primele patru luni de la sosirea în Irla
 
 Dacă ai călătorit în Irlanda cu o viză cu o singură intrare și descoperi că trebuie să călătorești și să te întorci în Irlanda înainte de a primi cardul tău IRP, puteți călători și solicita o altă viză de intrare din afara Irlandei.
 
-Referință - http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+Referinţă: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
 
 Ultima actualizare: 15-Aug-2020
 
@@ -118,7 +118,9 @@ Obţinerea unei înregistrări poate dura câteva săptămâni şi până la 2 s
 
 Resortisanții care intenționează să călătorească în și din Irlanda în primele patru luni ale șederii lor planificate ar trebui să solicite o viză cu intrări multiple, care le va permite să călătorească în Irlanda de mai multe ori într-o perioadă dată înainte de eliberarea cardului lor IRP.
 
-Ultima actualizare: 15-Aug-2020
+Referinţă: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visa
+
+Ultima actualizare: 25-Aug-2020
 
 ## Reînnoire
 
@@ -199,16 +201,60 @@ Un număr de urmărire va fi distribuit pe e-mail pentru verificarea stării de 
 
 Ultima actualizare: 24-Aug-2020
 
+#### **Mi-am trimis paşaportul şi IRP spre reînnoire. Plănuiesc să îmi schimb casa în curând nu mi-a primit documentele înapoi. Ce ar trebui să fac în acest caz pentru a le primi la noua mea adresă?**
+
+Poți redirecționa e-mailul către noul tău domiciliu prin configurarea unui serviciu de redirecționare la oficiul poștal local sau prin aplicarea acestuia online.
+
+Veți avea nevoie de o dovadă de identitate și de o dovadă de adresă dacă aplicați la oficiul poștal.
+
+Aceştia acceptă permisele de conducere, paşapoartele, documentul de identitate al angajatorului sau documentul de identitate al studenţilor de la colegii de nivel terţ ca dovadă a identificării.
+
+o factură de utilități, o bancă sau un extras de societate de construcție, emis în ultimele cinci luni și purtând adresa poștală va fi redirecționată, va fi acceptată ca dovadă de adresă.
+
+Referinţă: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+
+Ultima actualizare: 25-Aug-2020
 
 ### Călătorie
 
 #### **Mi-am trimis paşaportul şi IRP spre reînnoire. Acum, am o urgenţă familială şi trebuie să călătoresc ASAP. Pot să îmi reîntoarc IRP imediat?**
 
+**Opțiunea 1:**
+
 Trimiteți un e-mail la burghquayregoffice@justice.ie pentru a vă spune urgența.
 
-În cazul în care nu se ia niciun răspuns, se va aborda direct Biroul Quay-ului Burgh. Va trebui să convingeți gardienii să poată intra în birou. După aceea, poți obține pașaportul înapoi pentru călătoriile imediate.
+În cazul în care nu se primește niciun răspuns, se abordează direct Biroul pentru Quay-ul Burgh. Va trebui să convingeți gardienii să poată intra în birou. După aceea, poți obține pașaportul înapoi pentru călătoriile imediate.
 
-Ultima actualizare: 24-Aug-2020
+**Opțiunea 2:**
+
+Document de călătorie
+
+Dacă aveţi nevoie de un document de călătorie datorită unei urgenţe reale care vă impune să călătoriţi în străinătate, ar trebui să trimiteți [Formularul de aplicație pentru documente de călătorie](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) și să-l trimiteți la:
+
+```
+Secţiunea pentru documente de călătorie
+Unitatea de decizii ministeriale
+Divizia
+Serviciul irlandez de Naturalizare şi Imigrare
+Departamentul Justiţiei şi Egalităţii
+13-14 Burgh Quay
+Dublin 2
+D02 XK70
+```
+
+De asemenea, ar trebui să trimiteți un e-mail la INISTravdoc@justice.ie pentru a-i informa că ați depus o cerere și pentru a explica motivul urgenței.
+
+Cererile vor fi considerate urgente numai în cazul în care se aplică circumstanțe extraordinare – tratament medical de urgență, deces sau boală gravă a unui membru al familiei.
+
+Ar trebui să faceţi dovada necesităţii de a stabili priorităţi.
+
+Referinţe:
+
+http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
+
+http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20fsau%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20fsau%20Completion%20July%202016.pdf
+
+Ultima actualizare: 25-Aug-2020
 
 
 ### Generalități

@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Come posso ottenere un appuntamento per la prima iscrizione?**
 
-Se vivi a Dublino, invia una mail a burghquayregoffice@justice.ie chiedendo un appuntamento.
+Se si vive a Dublino, è possibile utilizzare il sistema di appuntamenti online https://burghquayregistrationoffice.inis.gov.ie/ per ottenere un appuntamento.
 
 Se vivi fuori da Dublino, invia un'email all'ufficio garda della tua contea per organizzare un appuntamento.
 
@@ -81,7 +81,7 @@ Se vivi fuori da Dublino, invia un'email all'ufficio garda della tua contea per 
 Riferimento - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Ultimo Aggiornamento: 24-Ago-2020
+Ultimo Aggiornamento: 24-Settembre-2020
 
 ### Pagamento
 
@@ -105,7 +105,7 @@ Se sai che viaggierai entro i primi quattro mesi dal tuo arrivo in Irlanda, tu d
 
 If you travelled to Ireland on a single entry visa and discover that you need to travel and return to Ireland before you get your IRP card, you can travel and apply for another entry visa from outside Ireland.
 
-Riferimento - http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+Riferimento: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
 
 Ultimo Aggiornamento: 15-Ago-2020
 
@@ -118,7 +118,9 @@ Ci possono volere alcune settimane per ottenere un appuntamento di registrazione
 
 I cittadini che intendono viaggiare in Irlanda e in uscita dall'Irlanda durante i primi quattro mesi del loro soggiorno previsto dovrebbero richiedere un visto per ingressi multipli, che consentirà loro di viaggiare in Irlanda più volte in un dato periodo prima che la loro carta IRP sia rilasciata.
 
-Ultimo Aggiornamento: 15-Ago-2020
+Riferimento: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas
+
+Ultimo Aggiornamento: 25-Ago-2020
 
 ## Rinnovo
 
@@ -199,16 +201,60 @@ Un numero di tracciamento sarà condiviso in email per controllare lo stato dell
 
 Ultimo Aggiornamento: 24-Ago-2020
 
+#### **Ho inviato il mio passaporto e IRP per il rinnovo. Ho intenzione di spostare la mia casa presto l'annuncio non ha ricevuto i miei documenti indietro. Cosa devo fare in questo caso per riceverli al mio nuovo indirizzo?**
+
+È possibile ottenere la posta reindirizzata alla nuova casa impostando un servizio di reindirizzamento presso l'ufficio postale locale o applicando online.
+
+Se la domanda è presentata presso l'ufficio postale, avrete bisogno di una prova dell'identità e della prova dell'indirizzo.
+
+Accettano patenti di guida, passaporti, documento di identità fotografica del datore di lavoro o documento di foto dello studente da collegi di terzo livello come prova di identificazione.
+
+Una bolletta di utilità, una dichiarazione di banca o di costruzione della società, rilasciato negli ultimi cinque mesi e recante l'indirizzo della posta da cui deve essere reindirizzato, sarà accettato come prova dell'indirizzo.
+
+Riferimento: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+
+Ultimo Aggiornamento: 25-Ago-2020
 
 ### Viaggi
 
 #### **Avevo inviato il mio passaporto e IRP per il rinnovo. Ora, ho un'emergenza familiare e ho bisogno di viaggiare al più presto. Posso ottenere il mio IRP rinnovato immediatamente?**
 
+**Opzione 1:**
+
 Invia un'email a burghquayregoffice@justice.ie indicando la tua emergenza.
 
-In caso di mancata risposta, direttamente avvicinarsi Burgh Quay Office. Dovrete convincere le guardie per poter entrare in ufficio. In seguito, è possibile ottenere il passaporto indietro per un viaggio immediato.
+In caso di mancata risposta, si avvicina direttamente all'ufficio di Burgh Quay. Dovrete convincere le guardie per poter entrare in ufficio. In seguito, è possibile ottenere il passaporto indietro per un viaggio immediato.
 
-Ultimo Aggiornamento: 24-Ago-2020
+**Opzione 2:**
+
+Documento Di Viaggio
+
+Se avete bisogno di un documento di viaggio a causa di una vera e propria emergenza che richiede di viaggiare all'estero, è necessario inviare il [modulo di domanda di documento di viaggio](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) e inviarlo a:
+
+```
+Sezione del documento di viaggio
+Unità delle decisioni ministeriali
+Divisione rimpatrio
+Servizio irlandese di naturalizzazione e immigrazione
+Dipartimento di giustizia e uguaglianza
+13-14 Burgh Quay
+Dublin 2
+D02 XK70
+```
+
+Dovresti anche inviare un'e-mail a INISTravdoc@justice.ie per fargli sapere che hai applicato e per spiegare il motivo dell'urgenza.
+
+Le domande saranno considerate urgenti solo se si applicano circostanze straordinarie – cure mediche di emergenza, decesso o malattia grave di un familiare.
+
+Dovreste fornire la prova della necessità di fissare le priorità.
+
+Riferimenti:
+
+http://www.inis.gov.ie/it/inis/pages/application_for_a_travel_document
+
+http://www.inis.gov.ie/it/INIS/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
+
+Ultimo Aggiornamento: 25-Ago-2020
 
 
 ### Generale

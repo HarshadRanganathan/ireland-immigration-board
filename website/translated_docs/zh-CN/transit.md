@@ -15,8 +15,30 @@ sidebar_label: 过境签证：
 - - 在机场国际过境区逗留；
 - 拥有下一个目的地所需的文档。
 
+如果满足上述条件，则不需要过境签证。
+
 参考 - https://www.iatavelcentre.com/pass-visa-health-travel-document-requirements.htm
 
 Tags: Lufthansa, Germany
 
-最后更新：2015 年 8 月 20 日
+最后更新时间：20月25-2020
+
+#### **我将前往爱尔兰，途经希思罗。 我是否需要过境签证？**
+
+您可能有资格在没有签证的情况下获得“过境”：
+
+* 你通过空中抵达并离开了
+
+* 经过确认的飞行在你抵达当天或到达当天午夜前的第二天离开时
+
+* 拥有目的地的正确证件(例如该国的签证)
+
+* 或者，爱尔兰拥有生物鉴别签证（在“备注”一节中标有“BC”或“BC BIVS”）和飞往爱尔兰共和国的机票。
+
+所有签证和居留证都必须有效。
+
+参考 - https://www.gov.uk/chec-uk-visa/y/india/transit/Republic_of_ireland
+
+标签：英国航空公司，Heathrow
+
+最后更新时间：20月25-2020

@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Jak dostać wizytę w celu pierwszej rejestracji?**
 
-Jeśli mieszkasz w Dublinie, wyślij e-mail na burghquayregoffice@justice.ie z prośbą o wizytę.
+Jeśli mieszkasz w Dublinie, możesz skorzystać z internetowego systemu wizyt https://burghquayregistrationoffice.inis.gov.ie/ aby dostać wizytę.
 
 Jeśli mieszkasz poza Dublinem, wyślij wiadomość e-mail do biura ogrodu w swoim okręgu, aby zorganizować spotkanie.
 
@@ -81,7 +81,7 @@ Jeśli mieszkasz poza Dublinem, wyślij wiadomość e-mail do biura ogrodu w swo
 Referencja - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Ostatnia aktualizacja: 24 sierpnia 2020 r.
+Ostatnia aktualizacja: 24 września 2020 r.
 
 ### Płatność
 
@@ -105,7 +105,7 @@ Jeśli wiesz, że podróżujesz w ciągu pierwszych czterech miesięcy od przyby
 
 Jeśli podróżowałeś do Irlandii za pośrednictwem jednej wizy wjazdowej i odkryjesz, że musisz podróżować i wrócić do Irlandii przed otrzymaniem karty IRP, mogą Państwo podróżować i ubiegać się o inną wizę wjazdową spoza Irlandii.
 
-Odniesienie – http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+Źródło: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
 
 Ostatnia aktualizacja: 15 sierpnia 2020 r.
 
@@ -118,7 +118,9 @@ Zlecenie rejestracji może potrwać kilka tygodni, a do 2 tygodni, aby karta IRP
 
 Obywatele zobowiązani do wiz, którzy zamierzają podróżować do Irlandii i z niej w ciągu pierwszych czterech miesięcy planowanego pobytu powinni ubiegać się o wizę wielokrotnego wjazdu, które umożliwią im wielokrotne podróże do Irlandii w danym okresie przed wydaniem karty IRP.
 
-Ostatnia aktualizacja: 15 sierpnia 2020 r.
+Źródło: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult -re-entry-visas
+
+Ostatnia aktualizacja: 25 sierpnia 2020 r.
 
 ## Odnowienie
 
@@ -199,16 +201,60 @@ Numer śledzenia zostanie udostępniony w wiadomości e-mail w celu sprawdzenia 
 
 Ostatnia aktualizacja: 24 sierpnia 2020 r.
 
+#### **Wysłałem mój paszport i IRP do odnowienia. Planuję wkrótce przesunąć mój dom, nie otrzymałem moich dokumentów z powrotem. Co powinienem zrobić w tym przypadku, aby otrzymać je pod moim nowym adresem?**
+
+Możesz przekierować swoją pocztę do nowego domu, konfigurując serwis przekierowania w lokalnym poczcie lub aplikując online.
+
+W przypadku złożenia wniosku w urzędzie pocztowym potrzebny jest dowód tożsamości i dowód adresu.
+
+Akceptują one prawa jazdy, paszporty, dokument tożsamości pracodawcy lub dokument tożsamości studenta z uczelni trzeciego szczebla, jako dowód tożsamości.
+
+Rachunek za media, oświadczenie banku lub społeczeństwa budowlanego, wydany w ciągu ostatnich pięciu miesięcy i opatrzony adresem pocztą ma zostać przekierowany, zostanie przyjęty jako dowód adresu.
+
+Numer referencyjny: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+
+Ostatnia aktualizacja: 25 sierpnia 2020 r.
 
 ### Podróże
 
 #### **Wysłałem mój paszport i IRP do odnowienia. Teraz mam sytuację nadzwyczajną w rodzinie i muszę podróżować w ASAP. Czy mogę natychmiast wznowić mój IRP?**
 
+**Wariant 1:**
+
 Wyślij e-mail do burghquayregoffice@justice.ie z informacją o Twoim nagłym wypadku.
 
-W przypadku braku odpowiedzi należy bezpośrednio podejść do Biura Quay Burgh. Będziesz musiał przekonać strażników, aby mogli wejść do biura. Później możesz odebrać paszport do natychmiastowego podróży.
+W przypadku braku odpowiedzi należy zwrócić się bezpośrednio do Biura Quay Burgha. Będziesz musiał przekonać strażników, aby mogli wejść do biura. Później możesz odebrać paszport do natychmiastowego podróży.
 
-Ostatnia aktualizacja: 24 sierpnia 2020 r.
+**Wariant 2:**
+
+Dokument podróży
+
+Jeśli potrzebujesz dokumentu podróży z powodu prawdziwej sytuacji awaryjnej, która wymaga podróży za granicę, powinieneś przesłać [Formularz aplikacji dokumentu podróży](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) i wysłać go do:
+
+```
+Dokument podróży sekcja
+Decyzje ministerialne Jednostka
+Repatriation Division
+Irish Naturalisation and Immigration Service
+Department of Justice and Equality
+13-14 Burgh Quay
+Dublin 2
+D02 XK70
+```
+
+Powinieneś również wysłać wiadomość e-mail do INISTravdoc@justice.ie, aby poinformować ich, że złożyłeś wniosek i wyjaśnić przyczyny pilnej potrzeby.
+
+Wnioski zostaną uznane za pilne tylko wtedy, gdy zaistnieją nadzwyczajne okoliczności – doraźne leczenie medyczne, śmierć lub poważna choroba członka rodziny.
+
+Powinieneś przedstawić dowód na potrzebę priorytetowego traktowania.
+
+Odniesienia:
+
+http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
+
+http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20flub%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20flub%20Completion%20July%202016.pdf
+
+Ostatnia aktualizacja: 25 sierpnia 2020 r.
 
 
 ### Ogólny

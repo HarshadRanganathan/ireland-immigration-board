@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **如何获得首次注册的预约？**
 
-如果你生活在都柏林，请发送电子邮件给burghquayregoffice@justice.ie 请求预约。
+如果你生活在都柏林，你可以使用网上预约系统 https://burghquayregistrationoffice.inis.gov.ie/来获得预约。
 
 如果你住在都柏林以外的地方，请向各县的花园办事处发送电子邮件，安排预约。
 
@@ -81,7 +81,7 @@ sidebar_label: IRP
 参考 - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-最后更新: 2020年8月24日至20日
+最后更新时间：2020年9月24日至20日
 
 ### 付款
 
@@ -105,7 +105,7 @@ sidebar_label: IRP
 
 如果你持一次入境签证前往爱尔兰，发现你需要旅行并回到 Ireland 才能拿到你的IRP 卡， 你可以从爱尔兰境外旅行并申请另一个入境签证。
 
-Reference - http://www.inis.gov.ie/en/INIS/abolitionof-re-entry-visa-faq.pdf/Files/abolitionof-reentry-visa-faq.pdf
+Reference: http://www.inis.gov.ie/en/INIS/abolitionof-re-entry-visa-faq.pdf/Files/abolitionof-reentry-visa-faq.pdf
 
 最后更新：2015 年 8 月 20 日
 
@@ -118,7 +118,9 @@ Reference - http://www.inis.gov.ie/en/INIS/abolitionof-re-entry-visa-faq.pdf/Fil
 
 在计划停留的前四个月内打算进出爱尔兰的国民，应申请多次入境签证， 这将使他们能够在签发移民和难民局身份证之前的一段时间内多次进入爱尔兰。
 
-最后更新：2015 年 8 月 20 日
+参考资料：http://www.inis.gov.ie/en/INIS/Pages/abolitionof-adult-re-entry-visions
+
+最后更新时间：20月25-2020
 
 ## 续费
 
@@ -199,16 +201,60 @@ Reference - http://www.inis.gov.ie/en/INIS/Pages/online-reconvalal-applications-
 
 最后更新: 2020年8月24日至20日
 
+#### **我已经发给我的护照和移民归化局延期。 我打算很快把我的房子迁回，我还没有收到我的文件。 在这种情况下，我应该做些什么来在我的新地址上接收它们？**
+
+您可以通过在您的本地邮局设置重定向服务或在线应用，将您的邮件重定向到您的新家中。
+
+如果您要在邮局申请身份证明和地址证明。
+
+他们接受三级学院的驾驶执照、护照、雇主有照片的身份证或学生有照片的身份证作为身份证明。
+
+公用事业法案、银行或建筑社团声明， 在过去五个月内签发的邮件将从地址重定向，将被接受为地址证明。
+
+Reference: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Return
+
+最后更新时间：20月25-2020
 
 ### 旅费
 
 #### **我已经发给我的护照和移民归化局延期。 现在，我遇到了家庭紧急情况，需要去ASAP。 我能立即重新更新我的IRP吗？**
 
+**备选1：**
+
 发送一封电子邮件到 burghquayregoffice@justice.ie 说明您的紧急情况。
 
 在没有答复的情况下，直接与Burgh Quay办公室联系。 你必须说服警卫能够进入办公室。 之后，你可以立即拿回护照。
 
-最后更新: 2020年8月24日至20日
+**备选2：**
+
+旅行文件
+
+如果您由于真正的紧急需要出国旅行而需要旅行证件， 您应该提交 [旅行文件申请表](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) 并发送到：
+
+```
+旅行证件部分
+部长级决定股
+遣返司
+爱尔兰归化和移民局
+司法和平等部
+13-14 Burgh Quay
+都柏林2
+D02 XK70
+```
+
+您还应该发送电子邮件给INISTravdoc@justice.ie，让他们知道您已经应用过，并解释紧迫性的原因。
+
+只有在特殊情况下申请——家庭成员急诊、死亡或重病——才被视为紧急申请。
+
+你应该提供证据证明需要确定优先次序。
+
+参考：
+
+http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
+
+http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
+
+最后更新时间：20月25-2020
 
 
 ### A. 概况

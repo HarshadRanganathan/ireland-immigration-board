@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **初回登録の予約はどうすればいいですか?**
 
-ダブリンに住んでいる場合は、burghquayregoffice@justice.ieに予約を要求するメールを送信してください。
+ダブリンに住んでいる場合は、オンライン予約システムhttps://burghquayregistrationoffice.inis.gov.ie/ を使用して予定を取得できます。
 
 あなたがダブリンの外に住んでいる場合は、あなたのそれぞれの郡のgarda事務所に電子メールを送信して、予定を手配してください。
 
@@ -81,7 +81,7 @@ sidebar_label: IRP
 Reference - https://www.garda.ie/ja/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-最終更新日: 2020年8月24日
+最終更新日: 2020年9月24日
 
 ### 支払い
 
@@ -105,7 +105,7 @@ Reference - https://www.garda.ie/ja/about-us/our-departments/office-of-corporate
 
 単一の入国ビザでアイルランドに旅行し、IRPカードを取得する前に アイルランドに戻る必要があることを発見した場合 アイルランド以外から入国ビザを申請できます。
 
-リファレンス - http://www.inis.gov.ie/en/INIS/ablition-of-re-entry-visa-faq.pdf/Files/ablition-of-re-entry-visa-faq.pdf
+参考：http://www.inis.gov.ie/en/INIS/ablition-of-re-entry-visa-faq.pdf/Files/ablition-of-re-entry-visa-faq.pdf
 
 最終更新日: 2020年8月18日
 
@@ -118,7 +118,9 @@ Reference - https://www.garda.ie/ja/about-us/our-departments/office-of-corporate
 
 ビザは、予定されている滞在期間の最初の4ヶ月間にアイルランドを出入りする予定の国民が複数の入国ビザを申請する必要があります。 IRPカードが発行される前に、一定期間内に何度もアイルランドに旅行することができます。
 
-最終更新日: 2020年8月18日
+参考：http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas
+
+最終更新日:2020年8月25日(火)
 
 ## 更新
 
@@ -199,16 +201,60 @@ Send by Registered Post to:<br/> **Permissions Renewal Unit<br/> ISD<br/> 13-14 
 
 最終更新日: 2020年8月24日
 
+#### **パスポートとIRPを更新しました。 私はすぐに私の家をシフトする予定です広告は私の書類を受け取っていません。 この場合、新しい住所で受信するにはどうすればよいですか?**
+
+郵便局でリダイレクトサービスを設定するか、オンラインで申請することで、新しい家にメールをリダイレクトすることができます。
+
+郵便局で申請する場合は、本人確認書類と住所確認書類が必要です。
+
+彼らは識別の証明として運転免許証、パスポート、雇用者の写真IDまたは第三レベルの大学からの学生写真IDを受け入れます。
+
+公共料金請求書、銀行、または社会文の構築 過去5ヶ月以内に発行され、アドレスメールが転送されるようになった場合は、住所証明として受け入れられます。
+
+参考：https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+
+最終更新日:2020年8月25日(火)
 
 ### 旅行
 
 #### **パスポートとIRPを更新するために送っていました。 今、私は家族の緊急事態があり、できるだけ早く旅行する必要があります。 IRPをすぐに更新することはできますか?**
 
+**オプション1:**
+
 burghquayregoffice@justice.ieに緊急事態を伝えるメールを送信してください。
 
 応答がない場合は、直接Burghキーオフィスにアプローチします。 あなたはオフィスに入ることができるように警備員を説得する必要があります。 その後、すぐにパスポートを取り戻すことができます。
 
-最終更新日: 2020年8月24日
+**オプション2:**
+
+旅行文書
+
+旅行書類が必要な場合は、海外旅行を要求する本格的な緊急事態が発生します。 [トラベルドキュメント申請書](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) を提出して、以下に送信してください:
+
+```
+旅行文書セクション
+閣僚決定ユニット
+帰還課
+アイルランドの自然化と移民サービス
+司法および平等部門
+13-14 Burghキー
+ダブリン2
+D02 XK70
+```
+
+あなたはまた、あなたが申請し、緊急性の理由を説明するためにそれらを知らせるためにINISTraveldoc@justice.ieを電子メールで送信する必要があります。
+
+臨時の状況が適用される場合にのみ、アプリケーションは緊急とみなされます - 緊急医療、死亡または家族の重病.
+
+優先順位付けの必要性を証明する必要があります。
+
+参照:
+
+http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
+
+http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
+
+最終更新日:2020年8月25日(火)
 
 
 ### 全般

@@ -4,31 +4,23 @@ title: Test Covid-19
 sidebar_label: Test Covid-19
 ---
 
-
-## Lufthansa
-
-#### **Avons-nous besoin d'un rapport de test COVID-19 négatif pour le PCR si nous nous rendons en Irlande par Lufthansa?**
-
-Non, Lufthansa n'a pas de telles exigences pour le moment.
-
-Dernière mise à jour: 15-août-2020
-
 ## Emirats
 
 #### **Avons-nous besoin d'un rapport d'essai COVID-19 négatif sur le PCR si nous nous rendons en Irlande ou en provenance d'Emirates?**
 
-Tous les passagers arrivant à Dubaï depuis n'importe quelle destination, y compris les passagers qui se connectent à Dubaï, doit avoir un certificat de test PCR COVID-19 négatif pour être accepté sur le vol.
+Tous les passagers qui se rendent à Dubaï ou qui y sont reliés doivent être munis d'un certificat d'examen COVID-19 pour être acceptés sur le vol.
 
-Nous vous recommandons d'apporter un certificat imprimé, mais ceux numériques sont acceptés à Dubaï. Il doit être un certificat officiel - les messages de confirmation par SMS ne sont pas acceptés.
+Le certificat doit être pour un test de swab en chaîne de polymérase (PCR) effectué 96 heures au maximum avant le départ.
 
-L'examen doit être effectué au maximum 96 heures avant le départ. Cela exclut les enfants de moins de 12 ans et les passagers présentant un handicap modéré ou grave.
+Les autres certificats d'essais, y compris les tests anticorps et les kits d'essai domiciliaire ne sont pas acceptés à Dubaï.
 
+Apportez un certificat officiel, imprimé – Les certificats SMS et digitaux ne sont pas acceptés.
 
 Référence : https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
 
-Dernière mise à jour: 15-août-2020
+Dernière mise à jour: 01-Sep-2020
 
-## Eithad
+## Etihad
 
 #### **Avons-nous besoin d'un rapport d'essai COVID-19 négatif sur les RPC si nous nous rendons en Irlande par Eithad?**
 
@@ -41,6 +33,20 @@ Les enfants de moins de 12 ans et les personnes ayant une incapacité légère e
 Référence : https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guides
 
 Dernière mise à jour: 19-août-2020
+
+## Lufthansa
+
+#### **Avons-nous besoin d'un rapport de test COVID-19 négatif pour le PCR si nous nous rendons en Irlande par Lufthansa?**
+
+Porter un couvercle bouche à bord et à l'aéroport est obligatoire pour tout le monde.
+
+Nous n'acceptons qu'une exception à l'obligation de porter un masque sur présentation d'un résultat de test PCR négatif validé et d'un certificat médical sur le formulaire du Groupe Lufthansa correspondant.
+
+Le résultat de l'essai ne doit pas être antérieur à 48 heures avant le début du vol sortant et retour respectif.
+
+Référence : https://www.lufthansa.com/xx/fr/faq-mouth-nose-cover
+
+Dernière mise à jour: 01-Sep-2020
 
 ## Certificat d'exemption de voyage
 
@@ -56,7 +62,7 @@ Dernière mise à jour: 22-août-2020
 
 ## Formulaire de localisation des clients
 
-À partir du mercredi 26 août 2020, le formulaire de localisation des passagers COVID-19 passe à un formulaire en ligne. Si vous arrivez en Irlande à cette date ou après celle-ci, vous devez remplir ce formulaire avant d'arriver dans l'État.
+Si vous arrivez en Irlande à cette date ou après celle-ci, vous devez remplir ce formulaire avant d'arriver dans l'État.
 
 https://cvd19plf-prod1.powerappsportals.com/en-us/
 
@@ -64,4 +70,4 @@ Ce formulaire et toutes les copies de celui-ci, ainsi que toutes les mises à jo
 
 Référence - https://www.gov.ie/fr/publication/ab900-covid-19-passenger-locator-form/
 
-Dernière mise à jour: 23-août-2020
+Dernière mise à jour: 25-août-2020

@@ -4,31 +4,23 @@ title: Prueba Covid-19
 sidebar_label: Prueba Covid-19
 ---
 
-
-## Lufthansa
-
-#### **¿Necesitamos un informe negativo de prueba COVID-19 PCR si viajamos a Irlanda por Lufthansa?**
-
-No, Lufthansa no tiene estos requisitos por el momento.
-
-Última actualización: 15-ago-2020
-
 ## Emiraos
 
 #### **¿Necesitamos un informe negativo de prueba COVID-19 PCR si viajamos desde/hacia Irlanda por Emiratos?**
 
-Todos los pasajeros que llegan a Dubai desde cualquier destino, incluidos los pasajeros que se conectan a Dubai, deberá contar con un certificado de prueba COVID-19 PCR negativo para ser aceptado en el vuelo.
+Todos los pasajeros que viajen o se conecten a través de Dubai deberán contar con un certificado de prueba COVID-19 PCR negativo para ser aceptado en el vuelo.
 
-Le recomendamos traer un certificado impreso, pero los digitales son aceptados en Dubai. Debe ser un certificado oficial - Los mensajes de confirmación de SMS no son aceptados.
+El certificado debe ser para un ensayo en cadena de polimerasa (PCR) realizado un máximo de 96 horas antes de la salida.
 
-El ensayo deberá realizarse con un máximo de 96 horas antes de la salida. Esto excluye a los niños menores de 12 años y a los pasajeros que tienen una discapacidad moderada o grave.
+En Dubai no se aceptan otros certificados de prueba, incluyendo pruebas anticuerpos y kits de pruebas domésticas.
 
+Traer un certificado oficial, impreso – Los certificados SMS y digitales no son aceptados.
 
 Referencia: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
 
-Última actualización: 15-ago-2020
+Última actualización: 01-Sep-2020
 
-## Eithad
+## Etihad
 
 #### **¿Necesitamos un informe negativo de prueba COVID-19 PCR si viajamos hacia o desde Irlanda por Eithad?**
 
@@ -41,6 +33,20 @@ Los niños menores de 12 años y las personas con discapacidades leves y graves 
 Referencia: https://www.etihad.com/en-ie/travel-updates/all-destinations-travel-guías
 
 Última actualización: 19-ago-2020
+
+## Lufthansa
+
+#### **¿Necesitamos un informe negativo de prueba COVID-19 PCR si viajamos a Irlanda por Lufthansa?**
+
+Llevar una cubierta de nariz a bordo y en el aeropuerto es obligatorio para todos.
+
+Sólo aceptamos una excepción de la obligación de llevar una máscara en la presentación de un resultado de prueba PCR negativo validado y un certificado médico en el formulario correspondiente del Grupo Lufthansa.
+
+El resultado de la prueba no debe ser superior a 48 horas antes del inicio del vuelo de salida y de ida respectivo.
+
+Referencia: https://www.lufthansa.com/xx/es/faq-mouth-nose-cover
+
+Última actualización: 01-Sep-2020
 
 ## Certificado de eliminación de viajes
 
@@ -56,7 +62,7 @@ Etiquetas: Prueba Covid-19 PCR Negativo
 
 ## Formulario de localización de pasajeros
 
-A partir del miércoles 26 de agosto de 2020, el Formulario de Localizador de Pasajeros COVID-19 cambia a un formulario en línea. Si llegas a Irlanda en o después de esa fecha, tienes que rellenar este formulario antes de llegar al Estado.
+Si llegas a Irlanda en o después de esa fecha, tienes que rellenar este formulario antes de llegar al Estado.
 
 https://cvd19plf-prod1.powerappsportals.com/es/
 
@@ -64,4 +70,4 @@ Este formulario y cualquier copia del mismo, así como cualquier actualización 
 
 Referencia - https://www.gov.ie/es/publication/ab900-covid-19-pasajer-locator-form/
 
-Última actualización: 23-ago-2020
+Última actualización: 25-ago-2020

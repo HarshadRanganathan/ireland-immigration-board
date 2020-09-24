@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Como faço para obter uma consulta para registro pela primeira vez?**
 
-Se estiver a viver em Dublin, envie um e-mail para burghquayregoffice@justice.ie solicitando a nomeação.
+Se estiver vivendo em Dublin, poderá utilizar o sistema de agendamentos on-line https://burghquayregistrationoffice.inis.gov.ie/ para obter uma consulta.
 
 Se estiver vivendo fora de Dublin, envie um e-mail para o escritório da garda no seu condado para organizar uma nomeação.
 
@@ -81,7 +81,7 @@ Se estiver vivendo fora de Dublin, envie um e-mail para o escritório da garda n
 Referência - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Última Atualização: 24-Aug-2020
+Última Atualização: 24-Sep-2020
 
 ### Pagamento
 
@@ -105,7 +105,7 @@ Se sabe que viajará nos primeiros quatro meses da sua chegada, na Irlanda. voc�
 
 Se viajaram para a Irlanda com um visto de entrada única e descobriram que precisam de viajar e voltar para a Irlanda antes de obterem o seu cartão do IRP. Podem viajar e solicitar outro visto de entrada de fora da Irlanda.
 
-Referência - http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+Referência: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
 
 Última Atualização: 15-Aug-2020
 
@@ -118,7 +118,9 @@ Pode levar algumas semanas para obter uma nomeação para o registo e até 2 sem
 
 Os vistos exigiam aos nacionais que tencionassem viajar na Irlanda durante os primeiros quatro meses da sua estadia prevista devem requerer um visto de entrada múltiplo, que lhes permitirá viajar para a Irlanda várias vezes num determinado período antes da emissão do seu cartão do IRP.
 
-Última Atualização: 15-Aug-2020
+Referência: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas
+
+Última Atualização: 25-Aug-2020
 
 ## Renovação
 
@@ -199,16 +201,60 @@ Um número de rastreamento será compartilhado no e-mail para verificar o status
 
 Última Atualização: 24-Aug-2020
 
+#### **Enviei meu passaporte e meu IRP para renovação. Estou planejando trocar a minha casa logo que não recebi os meus documentos de volta. O que devo fazer neste caso para os receber no meu novo endereço?**
+
+Você pode fazer com que seus e-mails sejam redirecionados para sua nova casa criando um serviço de redirecionamento na agência de correios local ou aplicando online.
+
+Você precisará do comprovante de identidade e do comprovante de residência se estiver aplicando no correio.
+
+Eles aceitam cartas de condução, passaportes, identificação do empregador ou documento com fotografia de estudantes de faculdades de terceiro nível como comprovante de identidade.
+
+Uma fatura, banco ou extrato da sociedade Emitido dentro dos últimos cinco meses e transportando o endereço de correio será redirecionado, será aceito como comprovante de endereço.
+
+Referência: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+
+Última Atualização: 25-Aug-2020
 
 ### Viagem
 
 #### **Eu tinha enviado meu passaporte e o IRP para renovação. Agora, tenho uma emergência familiar e preciso viajar o mais rápido possível. Posso renovar meu IRP imediatamente?**
 
+**Opção 1:**
+
 Envie um e-mail para burghquayregoffice@justice.ie informando a sua emergência.
 
 Em caso de não resposta, aborde directamente o Burgh Quay Office. Você terá que convencer os guardas para poder entrar no escritório. Depois você pode pegar seu passaporte de volta para viajar imediatamente.
 
-Última Atualização: 24-Aug-2020
+**Opção 2:**
+
+Documento de viagem
+
+Se você precisar de um documento de viagem devido a uma verdadeira emergência, que requer que você viaje para o estrangeiro, você deve enviar o [Formulário de solicitação de viagem](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) e enviá-lo para:
+
+```
+Unidade de decisão de viagem
+Câmara de documentos ministeriais
+Divisão de repatriação
+Serviço irlandês de Naturalização e imigração
+do Departamento de Justiça e Igualdade
+13-14 Burgh Quay
+Dublin 2
+D02 XK70
+```
+
+Você também deveria enviar um e-mail para INISTravdoc@justice.ie para que saibam que você se inscreveu e para explicar a razão da urgência.
+
+As candidaturas só serão consideradas urgentes se se aplicarem circunstâncias extraordinárias – tratamento médico de emergência, morte ou doença grave de um membro da família.
+
+Você deve fornecer uma prova da necessidade de atribuição de prioridades.
+
+Referências:
+
+http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
+
+http://www.inis.gov.ie/en/INIS/Travel%20Documento%20Guide%20fou%20Completion%20July%202016.pdf/Files/Travel%20Documento%20Guide%20fou%20Completion%20July%202016.pdf
+
+Última Atualização: 25-Aug-2020
 
 
 ### Gerais
