@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **How do I get an appointment for first-time registration?**
 
-If you are living in Dublin, send an email to burghquayregoffice@justice.ie requesting for an appointment.
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 If you are living outside Dublin, send an email to the garda office at your respective county to arrange for an appointment.	
 
@@ -81,7 +81,7 @@ If you are living outside Dublin, send an email to the garda office at your resp
 Reference - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html	
 
 
-Last Updated: 24-Aug-2020
+Last Updated: 24-Sep-2020
 
 ### Payment
 
