@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **如何获得首次注册的预约？**
 
-If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
+如果你生活在都柏林，你可以使用网上预约系统 https://burghquayregistrationoffice.inis.gov.ie/来获得预约。
 
 如果你住在都柏林以外的地方，请向各县的花园办事处发送电子邮件，安排预约。
 
@@ -81,7 +81,7 @@ If you are living in Dublin, you can use the online appointment system https://b
 参考 - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Last Updated: 24-Sep-2020
+最后更新时间：2020年9月24日至20日
 
 ### 付款
 
@@ -105,7 +105,7 @@ Last Updated: 24-Sep-2020
 
 如果你持一次入境签证前往爱尔兰，发现你需要旅行并回到 Ireland 才能拿到你的IRP 卡， 你可以从爱尔兰境外旅行并申请另一个入境签证。
 
-Reference: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Files/abolition-of-re-entry-visa-faq.pdf
+Reference: http://www.inis.gov.ie/en/INIS/abolitionof-re-entry-visa-faq.pdf/Files/abolitionof-reentry-visa-faq.pdf
 
 最后更新：2015 年 8 月 20 日
 
@@ -118,9 +118,9 @@ Reference: http://www.inis.gov.ie/en/INIS/abolition-of-re-entry-visa-faq.pdf/Fil
 
 在计划停留的前四个月内打算进出爱尔兰的国民，应申请多次入境签证， 这将使他们能够在签发移民和难民局身份证之前的一段时间内多次进入爱尔兰。
 
-Reference: http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas
+参考资料：http://www.inis.gov.ie/en/INIS/Pages/abolitionof-adult-re-entry-visions
 
-Last Updated: 25-Aug-2020
+最后更新时间：20月25-2020
 
 ## 续费
 
@@ -128,7 +128,7 @@ Last Updated: 25-Aug-2020
 
 #### **我需要更新我的综合资源方案。 我应该从何处预订我的预约？**
 
-The online renewal application portal can be found here: https://inisonline.jahs.ie/
+在线续订应用程序门户网站：https://inisonline.jahs.ie/。
 
 最后更新：2015 年 8 月 20 日
 
@@ -136,11 +136,11 @@ The online renewal application portal can be found here: https://inisonline.jahs
 
 #### **我在在线应用程序门户中支付了一笔款项，但没有收到任何确认电子邮件**
 
-Please check you spam folder for the email. If you have checked your spam folder but have not received an email from us, please wait 7 working days for us to contact you.
+请检查您的垃圾邮件文件夹。 如果您已经检查了您的垃圾邮件文件夹，但还没有收到我们发来的电子邮件 请等待7个工作日来联系您。
 
-If you have not heard from us by then, please contact the immigration unit (burghquayregoffice@justice.ie) responsible for processing the application form you want to submit.
+如果你到那时还没有听到我们的意见，请与移民局联系（Urghquayregoffice@justice@justice）。 e) 负责处理您想要提交的 申请表单。
 
-If you contact us by email, please include 'online form – issue' in the subject line of your email
+如果您通过电子邮件联系我们，请在您的电子邮件主题行中包含“在线表单-问题”
 
 Reference - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf/Files/Immigration-Online-Portal-Frequently-Asked-Questions%5b1%5d.pdf
 
@@ -148,36 +148,36 @@ Reference - http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Frequently-
 
 #### **我不会在提交表单后被重定向到付款页面**
 
-Try submitting a new form without saving it to get redirected to the payment page.
+尝试提交一个新的表单而不保存它来重定向到付款页面。
 
 最后更新：2015 年 8 月 20 日
 
 ### 提交申请
 
-In order to process your application after submitting the form in the online portal, you need to submit:
+为了在在线门户中提交表单后处理您的应用，您需要提交：
 * 申请确认电子邮件副本；
 * 您的原护照；和
 * 您当前的 IRP/GNIB 卡
 
-YOU MUST CLEARLY PRINT THE STAMP NUMBER APPLIED FOR ON THE OUTSIDE OF YOUR ENVELOPE
+您必须在您的通话结束时使用状态号码。
 
-Send by Registered Post to:<br/> **Permissions Renewal Unit<br/> ISD<br/> 13-14 Burgh Quay<br/> Dublin 2<br/> DO2 XK70**
+通过注册帖子发送到：<br/> **权限续订股<br/> ISD<br/> 13-14 Burgh Quay<br/> 都柏林2<br/> DO2 XK70**
 
-Do not submit your documents by post until you have received the application confirmation email.
+在收到申请确认邮件之前，请不要通过帖子提交文档。
 
-Passports sent by ordinary post will not be processed.
+普通邮寄的护照将不予处理。
 
-Reference - http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+Reference - http://www.inis.gov.ie/en/INIS/Pages/online-reconvalal-applications-for-students-in-dublin-only
 
 最后更新：2015 年 8 月 20 日
 
 #### **我的配偶的许可取决于我的更新。 我们是否应该一起提交我们的申请？**
 
-You need to submit two separate applications for yourself and your spouse in the online application portal.
+您需要在在线申请门户中为自己和配偶分别提交两份申请书。
 
-In your application, indicate that your spouse's permission on you.
+在你的申请中，请注明你的配偶是否允许你。
 
-Finally, send the documents in two separate envelopes for processing.
+最后，将文件分成两个单独的信封进行处理。
 
 最后更新：2015 年 8 月 20 日
 
@@ -185,109 +185,109 @@ Finally, send the documents in two separate envelopes for processing.
 
 #### **处理我的续订应用程序需要多少天？**
 
-Processing times: 10 – 15 working days minimum
+处理时间：10 - 15 个工作天
 
-If your application is successful – your permission will be renewed and your in-date passport will be stamped.  The new IRP card will issue to you separately within 10 – 15 working days
+如果您的申请成功——您的许可将被更新，并且您当前的护照将被盖盖章。  新的 IRP 卡将在 10 - 15 个工作日内单独发给您
 
-Reference: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
+参考资料：http://www.inis.gov.ie/en/INIS/Pages/online-reconvalal-applications-for-students-in-dublin-only
 
 最后更新：2015 年 8 月 20 日
 
 #### **一旦处理完毕，我将如何收到我的申请？**
 
-The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post.
+许可证印章将放在及时提供的护照上，并由注册邮政局交还，由单独的明信邮寄寄送。
 
-A tracking number will be shared in email for checking your passport delivery status.
+追踪号码将在电子邮件中共享，以检查您的护照送达状态。
 
 最后更新: 2020年8月24日至20日
 
-#### **I have sent my Passport and IRP for renewal. I'm planning to shift my house soon ad haven't received my documents back. What should I do in this case to receive them at my new address?**
+#### **我已经发给我的护照和移民归化局延期。 我打算很快把我的房子迁回，我还没有收到我的文件。 在这种情况下，我应该做些什么来在我的新地址上接收它们？**
 
-You can get your mail redirected to your new home by setting up a redirection service at your local post office or applying online.
+您可以通过在您的本地邮局设置重定向服务或在线应用，将您的邮件重定向到您的新家中。
 
-You will need proof of identity and proof of address if you are applying at the post office.
+如果您要在邮局申请身份证明和地址证明。
 
-They accept driving licences, passports, employer photo ID or student photo ID from third level colleges as proof of identify.
+他们接受三级学院的驾驶执照、护照、雇主有照片的身份证或学生有照片的身份证作为身份证明。
 
-A utility bill, bank or building society statement, issued within the last five months and bearing the address mail is to be redirected from, will be accepted as proof of address.
+公用事业法案、银行或建筑社团声明， 在过去五个月内签发的邮件将从地址重定向，将被接受为地址证明。
 
-Reference: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Redirection
+Reference: https://www.anpost.com/Post-Parcels/Manage-Your-Post/Arrange-Return
 
-Last Updated: 25-Aug-2020
+最后更新时间：20月25-2020
 
 ### 旅费
 
-#### **我已经发给我的护照和移民归化局延期。 Now, I have a family emergency and need to travel ASAP. Can I get my IRP renewed immediately?**
+#### **我已经发给我的护照和移民归化局延期。 现在，我遇到了家庭紧急情况，需要去ASAP。 我能立即重新更新我的IRP吗？**
 
-**Option 1:**
+**备选1：**
 
-Send an email to burghquayregoffice@justice.ie stating your emergency.
+发送一封电子邮件到 burghquayregoffice@justice.ie 说明您的紧急情况。
 
-In case of no response, directly approach the Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
+在没有答复的情况下，直接与Burgh Quay办公室联系。 你必须说服警卫能够进入办公室。 之后，你可以立即拿回护照。
 
-**Option 2:**
+**备选2：**
 
-Travel Document
+旅行文件
 
-If you require a Travel Document due to a genuine emergency which requires you to travel abroad, you should submit the [Travel Document Application Form](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) and send it to:
+如果您由于真正的紧急需要出国旅行而需要旅行证件， 您应该提交 [旅行文件申请表](http://www.inis.gov.ie/en/INIS/Travel%20Document%20Form%20-%20January2017.pdf/Files/Travel%20Document%20Form%20-%20January2017.pdf) 并发送到：
 
 ```
-Travel Document Section
-Ministerial Decisions Unit
-Repatriation Division
-Irish Naturalisation and Immigration Service
-Department of Justice and Equality
+旅行证件部分
+部长级决定股
+遣返司
+爱尔兰归化和移民局
+司法和平等部
 13-14 Burgh Quay
-Dublin 2
+都柏林2
 D02 XK70
 ```
 
-You should also email INISTravdoc@justice.ie to let them know that you have applied and to explain the reason for the urgency.
+您还应该发送电子邮件给INISTravdoc@justice.ie，让他们知道您已经应用过，并解释紧迫性的原因。
 
-Applications will be considered urgent only if extraordinary circumstances apply – emergency medical treatment, death or serious illness of a family member.
+只有在特殊情况下申请——家庭成员急诊、死亡或重病——才被视为紧急申请。
 
-You should provide proof of the need for prioritisation.
+你应该提供证据证明需要确定优先次序。
 
-References:
+参考：
 
 http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
 
 http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
 
-Last Updated: 25-Aug-2020
+最后更新时间：20月25-2020
 
 
 ### A. 概况
 
-#### **我已经发给我的护照和移民归化局延期。 Will they issue the new IRP with a start date from when we had applied online?**
+#### **我已经发给我的护照和移民归化局延期。 他们是否会从我们在线申请的起始日期发布新的IRP？**
 
-No, the start date will be from the processed day.
-
-最后更新：2015 年 8 月 20 日
-
-#### **What are the required documents for IRP renewal?**
-
-Check Required Documents Reference Guide - http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
+不，开始日期将从处理日算起。
 
 最后更新：2015 年 8 月 20 日
 
-#### **Is there any guide for completing the application form in online portal?**
+#### **更新IRP需要哪些文件？**
 
-Check Immigration Online Portal Guide – http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
-
-最后更新：2015 年 8 月 20 日
-
-#### **What happens if I forget to upload the necessary documents as part of my application?**
-
-Once you have created an application, you may scan any additional supporting documents and resubmit.
+请检查所需文档参考指南-http://www.inis.gov.ie/en/INIS/Online-Registration-required-documents-reference-guide[1].pdf/Files/Online-Registration-required-documents-reference-guide[1].pdf
 
 最后更新：2015 年 8 月 20 日
 
-#### **How can I obtain an update on the status of my application?**
+#### **是否有在线门户网站填写申请表的指南？**
 
-You may submit your query by email to burghquayregoffice@justice.ie
+检查移民在线门户指南——http://www.inis.gov.ie/en/INIS/Immigration-Online-Portal-Guidance%5b1%5d.pdf/Files/Immigration-Online-Portal-Guidance%5b1%5d.pdf
 
-When contacting them please include:
+最后更新：2015 年 8 月 20 日
+
+#### **如果我忘记上传必要的文件作为我的应用程序的一部分，怎么办？**
+
+一旦您创建了一个应用程序，您可以扫描任何额外的支持文件并重新提交。
+
+最后更新：2015 年 8 月 20 日
+
+#### **如何获取我应用程序状态的更新？**
+
+您可以通过电子邮件提交您的查询到 burghquayregoffice@justice.ie
+
+联系他们时，请包括：
 * 您的姓名，
 * 在线应用程序参考编号
 * 注册帖子跟踪号码和
@@ -295,31 +295,31 @@ When contacting them please include:
 
 最后更新时间：2020 年8月19日
 
-#### **My permission was restricted due to the expiry of my passport. Can I use the online system to claim the remainder of my permission on my new passport?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance of permission previously granted should be submitted by email to the Registration Office at burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+#### **由于护照过期，我的许可受到限制。 我可以使用在线系统申请我新护照的剩余许可吗？**
+否。 请不要在线申请剩余的权限。 此前批准的 余下的权限申请应通过电子邮件提交登记办公室，地址为 burghquayregoffice@justice。 e 此项许可的余额将不收费。
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf
+参考资料：http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf。
 
 最后更新：2015 年 8 月 20 日
 
 ## 更改地址
 
-#### **I have changed my home/postal address and need to update it in my registration. What is the procedure?**
+#### **我已更改了我的家庭/邮政地址，并需要在我的注册中更新它。 程序是什么？**
 
-If your new address is outside Dublin, send an email to gnib_dv@garda.ie
+如果您的新地址在都柏林之外，请向gnib_dv@gardaie 发送电子邮件
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+如果您的新地址在都柏林，请发送电子邮件到 burghquayregoffice@justice.ie
 
-Subject Line - Change of details
+主题行 - 更改详细信息
 
-In the email, specify below details:
+在电子邮件中，请指定以下详细信息：
 * 全名
 * 注册号
 * 国籍
 * 出生日期
 * 新地址
 
-You will get an acknowledgement in 2-3 days.
+你将在2-3天内得到确认。
 
 Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
@@ -327,7 +327,7 @@ Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
 ## 健康保险
 
-#### **Can you suggest some affordable health insurance options available in Ireland?**
+#### **你能否建议爱尔兰一些负担得起的健康保险备选方案？**
 
 - https://www.studyandprotect.com/ (Stamp 1G)(每年200-250欧元)
 - https://www.layahealthcare.ie/productsandservices/plan/scheme/assure-protection (EUR 40 per month)
