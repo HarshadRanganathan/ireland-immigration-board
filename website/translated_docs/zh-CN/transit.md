@@ -15,30 +15,30 @@ sidebar_label: 过境签证：
 - - 在机场国际过境区逗留；
 - 拥有下一个目的地所需的文档。
 
-If above conditions are satisfied, then a transit visa is not required.
+如果满足上述条件，则不需要过境签证。
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+参考 - https://www.iatavelcentre.com/pass-visa-health-travel-document-requirements.htm
 
 Tags: Lufthansa, Germany
 
-Last Updated: 25-Aug-2020
+最后更新时间：20月25-2020
 
-#### **I will be travelling to Ireland with transit in Heathrow. 我是否需要过境签证？**
+#### **我将前往爱尔兰，途经希思罗。 我是否需要过境签证？**
 
-You might be eligible for ‘transit without visa’ if:
+您可能有资格在没有签证的情况下获得“过境”：
 
-* you arrive and depart by air
+* 你通过空中抵达并离开了
 
-* have a confirmed onward flight that leaves on the day you arrive or before midnight on the day after you arrive
+* 经过确认的飞行在你抵达当天或到达当天午夜前的第二天离开时
 
-* have the right documents for your destination (for example a visa for that country)
+* 拥有目的地的正确证件(例如该国的签证)
 
-* (or) have an Irish biometric visa (marked ‘BC’ or ‘BC BIVS’ in the ‘Remarks’ section) and an onward flight ticket to the Republic of Ireland.
+* 或者，爱尔兰拥有生物鉴别签证（在“备注”一节中标有“BC”或“BC BIVS”）和飞往爱尔兰共和国的机票。
 
-All visas and residence permits must be valid.
+所有签证和居留证都必须有效。
 
-Reference - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
+参考 - https://www.gov.uk/chec-uk-visa/y/india/transit/Republic_of_ireland
 
-Tags: British Airways, Heathrow
+标签：英国航空公司，Heathrow
 
-Last Updated: 25-Aug-2020
+最后更新时间：20月25-2020
