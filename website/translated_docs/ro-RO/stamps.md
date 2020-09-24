@@ -1,22 +1,22 @@
 ---
-id: stamps
-title: Stamps
-sidebar_label: Stamps
+id: timbre
+title: Ștampilele
+sidebar_label: Ștampilele
 ---
 
-## Stamp 1
+## Ștampila 1
 
-#### **I'm currently on CSEP. Can I change my job or employer?**
+#### **Momentan sunt pe CSEP. Pot să-mi schimb locul de muncă sau angajatorul?**
 
-While the job offer must be of 2 years’ duration, the foreign national is expected to stay with the initial employer for a **minimum period of 12 months**.
+În timp ce oferta de locuri de muncă trebuie să aibă o durată de 2 ani, cetăţeanul străin ar trebui să rămână la angajatorul iniţial pentru o **perioadă minimă de 12 luni**.
 
-A new employment permit (for a different employer) cannot be considered if less than 12 months has elapsed since the permit holder first commenced employment in the State pursuant to an employment permit.
+Un permis de angajare nou (pentru un alt angajator) nu poate fi luat în considerare dacă au trecut mai puţin de 12 luni de la începerea primului loc de muncă în stat în temeiul unui permis de muncă.
 
-However, where the following circumstances apply, the Department **may permit a Critical Skills Employment holder to change employer**:
+Cu toate acestea, în cazul în care se aplică următoarele circumstanțe, Departamentul **poate permite deținătorului unor competențe critice să schimbe angajatorul**:
 
-* Holder is made redundant;
-* Circumstances (unforeseen at time of application) arise that fundamentally change the employment relationship.
+* Titularul este concediat;
+* Circumstanțele (neprevăzute la momentul aplicării) apar ca o modificare fundamentală a raportului de muncă.
 
-Reference: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/
+Referinţă: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/
 
 Ultima actualizare: 24-Aug-2020
