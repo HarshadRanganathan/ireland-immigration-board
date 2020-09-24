@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Jak dostać wizytę w celu pierwszej rejestracji?**
 
-Jeśli mieszkasz w Dublinie, wyślij e-mail na burghquayregoffice@justice.ie z prośbą o wizytę.
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 Jeśli mieszkasz poza Dublinem, wyślij wiadomość e-mail do biura ogrodu w swoim okręgu, aby zorganizować spotkanie.
 
@@ -81,7 +81,7 @@ Jeśli mieszkasz poza Dublinem, wyślij wiadomość e-mail do biura ogrodu w swo
 Referencja - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Ostatnia aktualizacja: 24 sierpnia 2020 r.
+Last Updated: 24-Sep-2020
 
 ### Płatność
 
