@@ -1,22 +1,22 @@
 ---
-id: stamps
-title: Stamps
-sidebar_label: Stamps
+id: штампы
+title: Марки
+sidebar_label: Марки
 ---
 
-## Stamp 1
+## Орден 1
 
-#### **I'm currently on CSEP. Can I change my job or employer?**
+#### **В настоящее время я в CSEP. Могу ли я сменить свою работу или работодателя?**
 
-While the job offer must be of 2 years’ duration, the foreign national is expected to stay with the initial employer for a **minimum period of 12 months**.
+Хотя предложение о работе должно быть 2 года, гражданин иностранного государства должен остаться с первоначальным работодателем в течение **минимального 12-месячного**.
 
-A new employment permit (for a different employer) cannot be considered if less than 12 months has elapsed since the permit holder first commenced employment in the State pursuant to an employment permit.
+Новый вид на работу (для другого работодателя) не может быть рассмотрен в том случае, если прошло менее 12 месяцев, поскольку работник по трудоустройству впервые начал работу в государстве в соответствии с разрешением на трудоустройство.
 
-However, where the following circumstances apply, the Department **may permit a Critical Skills Employment holder to change employer**:
+Однако, если применяются следующие обстоятельства, Департамент **может разрешить владельцу трудовых навыков изменить работодателя**:
 
-* Holder is made redundant;
-* Circumstances (unforeseen at time of application) arise that fundamentally change the employment relationship.
+* Владелец сделан избыточным;
+* Обстоятельства (непредвиденные в момент подачи заявления) возникают, что коренным образом изменяет трудовые отношения.
 
-Reference: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/
+Ссылка: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/
 
 Последнее обновление: 24 августа 2020 года
