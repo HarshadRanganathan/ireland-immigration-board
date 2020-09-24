@@ -15,30 +15,30 @@ sidebar_label: تأشيرة المرور العابر
 - البقاء في منطقة المرور العابر الدولية في المطار،
 - تحتوي على وثائق مطلوبة لوجهتها التالية.
 
-If above conditions are satisfied, then a transit visa is not required.
+وإذا استوفيت الشروط المذكورة أعلاه، فإنه لا يلزم الحصول على تأشيرة مرور عابر.
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+المرجع - https://www.iatatravelcentre.com/passport-visa-Healtravel-document-requirements.htm
 
-Tags: Lufthansa, Germany
+العلامات: لوفتهانسا، ألمانيا
 
-Last Updated: 25-Aug-2020
+آخر تحديث: 25 آب/أغسطس 2020
 
-#### **I will be travelling to Ireland with transit in Heathrow. هل ستحتاج إلى تأشيرة مرور؟**
+#### **وسأسافر إلى أيرلندا مع مروري العابر في هيثرو. هل ستحتاج إلى تأشيرة مرور؟**
 
-You might be eligible for ‘transit without visa’ if:
+قد تكون مؤهلاً للمرور العابر بدون تأشيرة إذا:
 
-* you arrive and depart by air
+* وصلت وغادرت عن طريق الجو
 
-* have a confirmed onward flight that leaves on the day you arrive or before midnight on the day after you arrive
+* لديك رحلة ثابتة تذهب في اليوم الذي تصل فيه أو قبل منتصف الليل في اليوم التالي لوصولك.
 
-* have the right documents for your destination (for example a visa for that country)
+* لديك المستندات الصحيحة لوجهتك (على سبيل المثال تأشيرة الدخول لتلك الدولة)
 
-* (or) have an Irish biometric visa (marked ‘BC’ or ‘BC BIVS’ in the ‘Remarks’ section) and an onward flight ticket to the Republic of Ireland.
+* (أو) لديها تأشيرة قياسية أحيائية أيرلندية (علامة 'BC' أو 'BC BIVS' في قسم 'الملاحظات`) وتذكرة طيران إلى جمهورية أيرلندا.
 
-All visas and residence permits must be valid.
+ويجب أن تكون جميع التأشيرات وتصاريح الإقامة سارية.
 
-Reference - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
+المرجع - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
 
-Tags: British Airways, Heathrow
+العلامات: الخطوط الجوية البريطانية، هيثرو
 
-Last Updated: 25-Aug-2020
+آخر تحديث: 25 آب/أغسطس 2020
