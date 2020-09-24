@@ -15,30 +15,30 @@ sidebar_label: トランジットビザ
 - 空港の国際通過区域に滞在し
 - 次の目的地に必要な書類を持っています
 
-If above conditions are satisfied, then a transit visa is not required.
+上記の条件が満たされた場合、トランジットビザは必要ありません。
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+Reference - https://www.iatravelcentre.com/passport-visa-health-travel-requirements.htm
 
-Tags: Lufthansa, Germany
+タグ：ルフトハンザ、ドイツ
 
-Last Updated: 25-Aug-2020
+最終更新日:2020年8月25日(火)
 
-#### **I will be travelling to Ireland with transit in Heathrow. トランジットビザは必要ですか?**
+#### **私はヒースローでアイルランドに旅行します。 トランジットビザは必要ですか?**
 
-You might be eligible for ‘transit without visa’ if:
+以下の場合、「ビザなしで通過する」資格があります：
 
-* you arrive and depart by air
+* 飛行機で行ったり来たりします
 
-* have a confirmed onward flight that leaves on the day you arrive or before midnight on the day after you arrive
+* 到着した日か到着した翌日の真夜中までに
 
-* have the right documents for your destination (for example a visa for that country)
+* 目的地に適した書類(例えば、その国のためのビザ)
 
-* (or) have an Irish biometric visa (marked ‘BC’ or ‘BC BIVS’ in the ‘Remarks’ section) and an onward flight ticket to the Republic of Ireland.
+* (または)アイルランドの生体認証ビザ(「備考」セクションで「BC」または「BC BIVS」と記されています)とアイルランド共和国へ向かうフライトチケットを持っています。
 
-All visas and residence permits must be valid.
+すべてのビザと在留資格は有効でなければなりません。
 
-Reference - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
+リファレンス - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
 
-Tags: British Airways, Heathrow
+タグ：ブリティッシュ・エアウェイズ、ヒースロー州
 
-Last Updated: 25-Aug-2020
+最終更新日:2020年8月25日(火)
