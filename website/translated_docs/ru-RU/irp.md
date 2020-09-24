@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Как я могу получить назначение на первую регистрацию?**
 
-Если вы живете в Дублине, отправьте письмо на burghquayregoffice@justice.ie с просьбой о назначении на должность.
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 Если вы живете за пределами Дублина, отправьте письмо в садовый офис в вашем округе для организации встречи.
 
@@ -81,7 +81,7 @@ sidebar_label: IRP
 Ссылка - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Последнее обновление: 24 августа 2020 года
+Last Updated: 24-Sep-2020
 
 ### Оплата
 
