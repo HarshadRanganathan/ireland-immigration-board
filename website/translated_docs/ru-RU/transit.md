@@ -15,30 +15,30 @@ sidebar_label: Транзитная виза
 - в международном транзитном районе аэропорта, и
 - иметь документы, необходимые для их следующего назначения.
 
-If above conditions are satisfied, then a transit visa is not required.
+Если указанные выше условия соблюдены, то транзитная виза не требуется.
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+См. https://www.iatatravelcentre.com/passport-visa-Healtravel-document-requirements.htm
 
-Tags: Lufthansa, Germany
+Теги: Lufthansa, Германия
 
-Last Updated: 25-Aug-2020
+Последнее обновление: 25 августа 2020 года
 
-#### **I will be travelling to Ireland with transit in Heathrow. Нужна ли транзитная виза?**
+#### **Я буду путешествовать в Ирландию с транзитом в Хитроу. Нужна ли транзитная виза?**
 
-You might be eligible for ‘transit without visa’ if:
+Вы можете воспользоваться услугой "транзит без визы", если:
 
-* you arrive and depart by air
+* вы прибываете и отправляетесь по воздуху
 
-* have a confirmed onward flight that leaves on the day you arrive or before midnight on the day after you arrive
+* подтвердили перелет, который покидает день прибытия или до полуночи после прибытия
 
-* have the right documents for your destination (for example a visa for that country)
+* иметь необходимые документы для назначения (например, виза для этой страны)
 
-* (or) have an Irish biometric visa (marked ‘BC’ or ‘BC BIVS’ in the ‘Remarks’ section) and an onward flight ticket to the Republic of Ireland.
+* (ирландская биометрическая виза (обозначена "BC" или "BIVS" в разделе "Комментарии") и билет на перелет в Республику Ирландия.
 
-All visas and residence permits must be valid.
+Все визы и вида на жительство должны быть действительными.
 
-Reference - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
+Ссылки - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
 
-Tags: British Airways, Heathrow
+Метки: Британские Airways, Хитроу
 
-Last Updated: 25-Aug-2020
+Последнее обновление: 25 августа 2020 года
