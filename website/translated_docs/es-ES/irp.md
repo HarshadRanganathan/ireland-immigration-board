@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **¿Cómo obtengo una cita para registrarme por primera vez?**
 
-Si vives en Dublín, envía un correo electrónico a burghquayregoffice@.Ue.ie solicitando una cita.
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 Si vives fuera de Dublín, envía un correo electrónico a la oficina de jardín en tu respectivo condado para concertar una cita.
 
@@ -81,7 +81,7 @@ Si vives fuera de Dublín, envía un correo electrónico a la oficina de jardín
 Referencia - https://www.garda.ie/es/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Última actualización: 24 de agosto de 2020
+Last Updated: 24-Sep-2020
 
 ### Pago
 
