@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **Comment puis-je obtenir un rendez-vous pour une inscription pour la première fois?**
 
-Si vous habitez à Dublin, envoyez un e-mail à burghquayregoffice@justice.ie pour demander un rendez-vous.
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 Si vous habitez en dehors de Dublin, envoyez un courriel au bureau du garda de votre comté respectif pour prendre rendez-vous.
 
@@ -81,7 +81,7 @@ Si vous habitez en dehors de Dublin, envoyez un courriel au bureau du garda de v
 Référence - https://www.garda.ie/fr/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-Dernière mise à jour: 24-août-2020
+Last Updated: 24-Sep-2020
 
 ### Paiement
 
