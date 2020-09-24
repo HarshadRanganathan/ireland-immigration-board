@@ -15,30 +15,30 @@ Nacionais da Índia que atravessam Frankfurt (FRA) ou Munique (MUC), vindo de um
 - permaneça na área de trânsito internacional do aeroporto, e
 - tem os documentos necessários para o seu próximo destino.
 
-If above conditions are satisfied, then a transit visa is not required.
+Se as condições acima mencionadas forem cumpridas, então não é necessário um visto de trânsito.
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+Referência - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
 
-Tags: Lufthansa, Germany
+Tags: Lufthansa, Alemanha
 
-Last Updated: 25-Aug-2020
+Última Atualização: 25-Aug-2020
 
-#### **I will be travelling to Ireland with transit in Heathrow. Vou precisar de um visto de trânsito?**
+#### **Viajarei para a Irlanda com trânsito em Heathrow. Vou precisar de um visto de trânsito?**
 
-You might be eligible for ‘transit without visa’ if:
+Você pode ser elegível para "trânsito sem visto" se:
 
-* you arrive and depart by air
+* você chega e parte pelo ar
 
-* have a confirmed onward flight that leaves on the day you arrive or before midnight on the day after you arrive
+* tem um voo confirmado que parte no dia em que você chega ou antes da meia-noite do dia depois de chegar
 
-* have the right documents for your destination (for example a visa for that country)
+* tem os documentos certos para o seu destino (por exemplo, um visto para esse país)
 
-* (or) have an Irish biometric visa (marked ‘BC’ or ‘BC BIVS’ in the ‘Remarks’ section) and an onward flight ticket to the Republic of Ireland.
+* (ou) tem um visto biométrico irlandês (marcado como “BC” ou “BC BIVS” na secção “Observações”) e um bilhete de voo para a República da Irlanda.
 
-All visas and residence permits must be valid.
+Todos os vistos e autorizações de residência devem ser válidos.
 
-Reference - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
+Referência - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
 
 Tags: British Airways, Heathrow
 
-Last Updated: 25-Aug-2020
+Última Atualização: 25-Aug-2020
