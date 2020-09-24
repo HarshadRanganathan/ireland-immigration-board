@@ -1,22 +1,22 @@
 ---
-id: stamps
-title: Stamps
-sidebar_label: Stamps
+id: francobolli
+title: Francobolli
+sidebar_label: Francobolli
 ---
 
-## Stamp 1
+## Timbro 1
 
-#### **I'm currently on CSEP. Can I change my job or employer?**
+#### **Attualmente sono sul CSEP. Posso cambiare lavoro o datore di lavoro?**
 
-While the job offer must be of 2 years’ duration, the foreign national is expected to stay with the initial employer for a **minimum period of 12 months**.
+Mentre l'offerta di lavoro deve avere una durata di 2 anni, il cittadino straniero dovrebbe rimanere presso il datore di lavoro iniziale per un **periodo minimo di 12 mesi**.
 
-A new employment permit (for a different employer) cannot be considered if less than 12 months has elapsed since the permit holder first commenced employment in the State pursuant to an employment permit.
+Un nuovo permesso di lavoro (per un altro datore di lavoro) non può essere considerato se sono trascorsi meno di dodici mesi dalla data in cui il titolare del permesso ha iniziato per la prima volta a lavorare nello Stato in virtù di un permesso di lavoro.
 
-However, where the following circumstances apply, the Department **may permit a Critical Skills Employment holder to change employer**:
+Tuttavia, se si applicano le seguenti circostanze, il dipartimento **può consentire a un titolare di competenze critiche di cambiare datore di lavoro**:
 
-* Holder is made redundant;
-* Circumstances (unforeseen at time of application) arise that fundamentally change the employment relationship.
+* Il detentore è ridondante;
+* Si verificano circostanze (impreviste al momento della domanda) che cambiano radicalmente il rapporto di lavoro.
 
-Reference: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/
+Riferimento: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/
 
 Ultimo Aggiornamento: 24-Ago-2020
