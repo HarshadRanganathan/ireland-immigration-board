@@ -15,30 +15,30 @@ Indische Staatsangehörige im Transit durch Frankfurt (FRA) oder München (MUC),
 - im internationalen Transitbereich des Flughafens übernachten und
 - haben Dokumente, die für ihren nächsten Bestimmungsort erforderlich sind.
 
-If above conditions are satisfied, then a transit visa is not required.
+Wenn die oben genannten Bedingungen erfüllt sind, wird kein Transitvisum benötigt.
 
-Reference - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
+Referenz - https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm
 
-Tags: Lufthansa, Germany
+Tags: Lufthansa, Deutschland
 
-Last Updated: 25-Aug-2020
+Zuletzt aktualisiert: 25-Aug-2020
 
-#### **I will be travelling to Ireland with transit in Heathrow. Benötige ich ein Transitvisum?**
+#### **Ich werde mit dem Transit in Heathrow nach Irland reisen. Benötige ich ein Transitvisum?**
 
-You might be eligible for ‘transit without visa’ if:
+Sie können „Transit ohne Visum“ beantragen wenn:
 
-* you arrive and depart by air
+* Sie kommen an und reisen mit dem Flugzeug ab
 
-* have a confirmed onward flight that leaves on the day you arrive or before midnight on the day after you arrive
+* haben einen bestätigten Weiterflug, der am Tag Ihrer Ankunft oder vor Mitternacht am Tag nach Ihrer Ankunft abfährt
 
-* have the right documents for your destination (for example a visa for that country)
+* haben die richtigen Dokumente für Ihr Reiseziel (z.B. ein Visum für dieses Land)
 
-* (or) have an Irish biometric visa (marked ‘BC’ or ‘BC BIVS’ in the ‘Remarks’ section) and an onward flight ticket to the Republic of Ireland.
+* (oder) haben ein irisches biometrisches Visum (BC) oder BIVS im Bereich „Bemerkungen“ und ein Weiterflugticket in die Republik Irland.
 
-All visas and residence permits must be valid.
+Alle Visa und Aufenthaltserlaubnisse müssen gültig sein.
 
-Reference - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
+Referenz - https://www.gov.uk/check-uk-visa/y/india/transit/republic_of_ireland
 
 Tags: British Airways, Heathrow
 
-Last Updated: 25-Aug-2020
+Zuletzt aktualisiert: 25-Aug-2020
