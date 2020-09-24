@@ -1,22 +1,22 @@
 ---
-id: stamps
-title: Stamps
-sidebar_label: Stamps
+id: pieczęci
+title: Pieczęć
+sidebar_label: Pieczęć
 ---
 
-## Stamp 1
+## Pieczęć 1
 
-#### **I'm currently on CSEP. Can I change my job or employer?**
+#### **Jestem obecnie w CSEP. Czy mogę zmienić swoją pracę czy pracodawcę?**
 
-While the job offer must be of 2 years’ duration, the foreign national is expected to stay with the initial employer for a **minimum period of 12 months**.
+Podczas gdy oferta pracy musi trwać dwa lata, obywatel zagraniczny ma pozostać u pierwotnego pracodawcy przez **minimalny okres 12 miesięcy**.
 
-A new employment permit (for a different employer) cannot be considered if less than 12 months has elapsed since the permit holder first commenced employment in the State pursuant to an employment permit.
+Nowe zezwolenie na pracę (w przypadku innego pracodawcy) nie może być brane, jeżeli upłynęło mniej niż 12 miesięcy od rozpoczęcia przez posiadacza zezwolenia po raz pierwszy zatrudnienia w państwie na podstawie zezwolenia na pracę.
 
-However, where the following circumstances apply, the Department **may permit a Critical Skills Employment holder to change employer**:
+Jednakże w przypadku gdy mają zastosowanie następujące okoliczności, Departament **może zezwolić posiadaczowi kluczowych umiejętności na zmianę pracodawcy**:
 
-* Holder is made redundant;
-* Circumstances (unforeseen at time of application) arise that fundamentally change the employment relationship.
+* Posiadacz jest zwolniony;
+* Pojawiają się okoliczności (nieprzewidziane w momencie składania wniosku) powodujące zasadniczą zmianę stosunku pracy.
 
-Reference: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/
+Źródło: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/
 
 Ostatnia aktualizacja: 24 sierpnia 2020 r.
