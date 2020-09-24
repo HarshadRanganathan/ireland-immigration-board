@@ -10,7 +10,7 @@ sidebar_label: IRP
 
 #### **如何获得首次注册的预约？**
 
-如果你生活在都柏林，请发送电子邮件给burghquayregoffice@justice.ie 请求预约。
+If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
 
 如果你住在都柏林以外的地方，请向各县的花园办事处发送电子邮件，安排预约。
 
@@ -81,7 +81,7 @@ sidebar_label: IRP
 参考 - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html
 
 
-最后更新: 2020年8月24日至20日
+Last Updated: 24-Sep-2020
 
 ### 付款
 
