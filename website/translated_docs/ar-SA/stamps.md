@@ -1,22 +1,22 @@
 ---
-id: stamps
-title: Stamps
-sidebar_label: Stamps
+id: طوابع
+title: الطوابع
+sidebar_label: الطوابع
 ---
 
-## Stamp 1
+## الختم 1
 
-#### **I'm currently on CSEP. Can I change my job or employer?**
+#### **أنا حاليا في CSEP. هل يمكنني تغيير عملي أو رب العمل؟**
 
-While the job offer must be of 2 years’ duration, the foreign national is expected to stay with the initial employer for a **minimum period of 12 months**.
+إذا كان عرض العمل يجب أن يكون لمدة سنتين، من المتوقع أن يبقى المواطن الأجنبي مع رب العمل الأول **لمدة 12 شهراً كحد أدنى**.
 
-A new employment permit (for a different employer) cannot be considered if less than 12 months has elapsed since the permit holder first commenced employment in the State pursuant to an employment permit.
+ولا يمكن النظر في منح تصريح عمل جديد (لرب عمل مختلف) إذا انقضى أقل من 12 شهرا منذ أن بدأ صاحب التصريح عمله لأول مرة في الدولة بموجب تصريح عمل.
 
-However, where the following circumstances apply, the Department **may permit a Critical Skills Employment holder to change employer**:
+ومع ذلك، عندما تنطبق الظروف التالية، يمكن للإدارة **أن تسمح لصاحب عمل مهارة حرجة بتغيير رب العمل**:
 
-* Holder is made redundant;
-* Circumstances (unforeseen at time of application) arise that fundamentally change the employment relationship.
+* الحمولة تكون زائدة عن الحاجة.
+* وتنشأ الظروف (غير المتوقعة وقت تقديم الطلب) التي تغير علاقة العمل تغييرا جوهريا.
 
-Reference: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/
+المرجع: https://dbei.gov.ie/en/What-We-Do/Workplace-and-Sskills/Employment-Permits/Permit-Types/Critical-Sskills-Employment-Permit/
 
 آخر تحديث: 24 آب/أغسطس 2020
