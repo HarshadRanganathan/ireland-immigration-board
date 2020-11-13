@@ -10,15 +10,17 @@ sidebar_label: Covid-19 Test
 
 All passengers travelling to or connecting through Dubai must have a negative COVID-19 PCR test certificate to be accepted on the flight. 
 
+Tourists must take two COVID‑19 PCR tests: one before departure with a validity of 96 hours from the date of the test, and a second test upon arrival in Dubai depending on th origin country.
+
 The certificate must be for a polymerase chain reaction (PCR) swab test taken a maximum of 96 hours before departure. 
 
 Other test certificates including antibody tests and home testing kits are not accepted in Dubai. 
 
 Bring an official, printed certificate – SMS and digital certificates are not accepted. 
 
-Reference: https://www.emirates.com/ie/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/
+Reference: https://www.emirates.com/ie/english/help/covid-19/dubai-travel-requirements/tourists/
 
-Last Updated: 01-Sep-2020
+Last Updated: 13-Nov-2020
 
 ## Etihad
 
@@ -52,13 +54,21 @@ Last Updated: 01-Sep-2020
 
 #### Where can I get a Covid-19 Travel Clearance Certificate in Ireland to allow me to fly or to enter a country?
 
-* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 160 - 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
+* https://www.tmb.ie/services/covid-19-travel-clearance-certificate (EUR 180) (Clinics: Dublin, Galway, Carlow, Cork, Kilkenny, Waterford, Wicklow, Sligo and more locations https://www.tmb.ie/clinics)
 
-* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 150) (Dawson St., Dublin)
+* http://www.travelhealth.ie/CoronaVirusTesting/ (EUR 180) (Dawson St., Dublin)
+
+* https://vidacare.ie/ (EUR 190) (Carlton Hotel Dublin Airport)
+
+* https://www.liffeymedical.ie/ (EUR 180) (Smithfield, Dublin)
+
+* https://www.better2know.ie/page/covid-19-fit-to-fly (EUR 165)
+
+* https://booking.randox.ie/ (EUR 99) (Clayton Hotel - Swords, Dublin, Cork)
 
 Tags: Covid-19 Negative PCR Test
 
-Last Updated: 22-Aug-2020
+Last Updated: 13-Nov-2020
 
 ## Passenger Locator Form
 
