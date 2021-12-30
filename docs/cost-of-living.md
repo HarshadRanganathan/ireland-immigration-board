@@ -25,5 +25,7 @@ sidebar_label: Cost Of Living
 |Driving Licence Process |45 (Theory Test - One time)<br/><br/>180-250 (6 EDT Lessons) (or) 350-450 (12 EDT Lessons)<br/><br/>30-40 for each extra class<br/><br/>85 per driving test attempt + 100 for car rental each time| | |
 |Car Insurance |1500 - 3000 (Learner/New) |Yearly | |
 |Travel to India |450-1000 | |Per person<br/><br/>Price varies based on airline/layover time/early-late booking/peak season |
+|GP |60 | |Per visit<br/><br/>50-100% reimbursable by Insurance<br/><br/>E-Doctor options available for free based on insurance provider/scheme |
+|Hospital A&E visit |100 | | |
 
 Last Updated: 30-Dec-2021
