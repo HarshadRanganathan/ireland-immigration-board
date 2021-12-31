@@ -26,7 +26,7 @@ sidebar_label: Cost Of Living
 |Car Insurance |1500 - 3000 (Learner/New) |Yearly | |
 |Motor Tax |300 |Yearly | |
 |Travel to India |450-1000 | |Per person<br/><br/>Price varies based on airline/layover time/early-late booking/peak season |
-|Health Insurance |50 |Monthly |If Company pays health insurance for you then BIK applies |
+|Health Insurance |50 |Monthly |If your company pays health insurance then BIK (Benefit-In-Kind) applies |
 |GP |60 | |Per visit<br/><br/>50-100% reimbursable by Insurance<br/><br/>E-Doctor options available for free based on insurance provider/scheme |
 |Hospital A&E visit |100 | | |
 
