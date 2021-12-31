@@ -7,8 +7,8 @@ sidebar_label: Cost Of Living
 |Item |Cost (Avg./Range) € |Frequency |Comments|
 |--|--|--|--|
 |Tax |20%, 40% rate bands (PAYE)<br/><br/>0.5% To 8% rate bands (USC)<br/><br/>4% (PRSI) |Monthly/Weekly |https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/tax-relief-charts/index.aspx |
-|Rent |2 bed - 1800 to 2100 (Dublin)<br/><br/>1544 (Cork)<br/><br/>1475 (Galway) |Monthly | |
-|Groceries |150-300 (Family of 2) |Monthly | |
+|Rent |2 bed - 1800 to 2100 (Dublin)<br/><br/>1500 - 1800 (Cork)<br/><br/>1475 (Galway)<br/><br/>800 - 1100 (Letterkenny) |Monthly | |
+|Groceries |150-300 (Family of 2)<br/><br/>350 - 400 (Family of 4) |Monthly | |
 |Indian Stores |50-100 (Family of 2) | | |
 |Internet|30-60 |Monthly|Price varies based on new customer offer/plan/vendor availability<br/><br/>Cost increases post offer period |
 |Gas |40-80 (Summer)<br/><br/>100-180 (Winter) |Bi-Monthly | |
@@ -24,7 +24,9 @@ sidebar_label: Cost Of Living
 |Restaurants/Takeaways|50-150 (Family of 2) |Monthly |Assumes an average of 10 transactions per month and combined spend per transaction doesn't exceed €20  |
 |Driving Licence Process |45 (Theory Test - One time)<br/><br/>180-250 (6 EDT Lessons) (or) 350-450 (12 EDT Lessons)<br/><br/>30-40 for each extra class<br/><br/>85 per driving test attempt + 100 for car rental each time| | |
 |Car Insurance |1500 - 3000 (Learner/New) |Yearly | |
+|Motor Tax |300 |TYearly | |
 |Travel to India |450-1000 | |Per person<br/><br/>Price varies based on airline/layover time/early-late booking/peak season |
+|Health Insurance |50 |Monthly |If Company pays health insurance for you then BIK applies |
 |GP |60 | |Per visit<br/><br/>50-100% reimbursable by Insurance<br/><br/>E-Doctor options available for free based on insurance provider/scheme |
 |Hospital A&E visit |100 | | |
 
