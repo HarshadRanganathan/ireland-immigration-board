@@ -24,7 +24,7 @@ sidebar_label: Cost Of Living
 |Restaurants/Takeaways|50-150 (Family of 2) |Monthly |Assumes an average of 10 transactions per month and combined spend per transaction doesn't exceed €20  |
 |Driving Licence Process |45 (Theory Test - One time)<br/><br/>180-250 (6 EDT Lessons) (or) 350-450 (12 EDT Lessons)<br/><br/>30-40 for each extra class<br/><br/>85 per driving test attempt + 100 for car rental each time| | |
 |Car Insurance |1500 - 3000 (Learner/New) |Yearly | |
-|Motor Tax |300 |TYearly | |
+|Motor Tax |300 |Yearly | |
 |Travel to India |450-1000 | |Per person<br/><br/>Price varies based on airline/layover time/early-late booking/peak season |
 |Health Insurance |50 |Monthly |If Company pays health insurance for you then BIK applies |
 |GP |60 | |Per visit<br/><br/>50-100% reimbursable by Insurance<br/><br/>E-Doctor options available for free based on insurance provider/scheme |
