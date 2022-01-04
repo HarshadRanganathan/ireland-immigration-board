@@ -22,7 +22,7 @@ sidebar_label: Cost Of Living
 |Transport|10-20 (Leap - Occasional Travel)<br/><br/>40 (Irish Rail)<br/><br/>10-30 (Taxi Short Distance - Once) |Monthly |Depends on how frequent you travel/travel mode<br/><br/>Tax saver options available |
 |Gym|18-60 |Monthly | |
 |Restaurants/Takeaways|50-150 (Family of 2) |Monthly |Assumes an average of 10 transactions per month and combined spend per transaction doesn't exceed €20  |
-|Driving Licence Process |45 (Theory Test - One time)<br/><br/>180-250 (6 EDT Lessons) (or) 350-450 (12 EDT Lessons)<br/><br/>30-40 for each extra class<br/><br/>85 per driving test attempt + 100 for car rental each time| | |
+|Driving Licence Process |45 (Theory Test - One time)<br/><br/>30 (Eye Test - One Time)<br/><br/>35 (Learner Permit - New + Renewal)<br/><br/>180-250 (6 EDT Lessons) (or) 350-450 (12 EDT Lessons)<br/><br/>30-40 for each extra class<br/><br/>85 per driving test attempt + 100 for car rental each time<br/><br/>55 (Driving Licence - New + Renewal)| | |
 |Car Insurance |1500 - 3000 (Learner/New)<br/><br/>700 (Experienced) |Yearly | |
 |Motor Tax |300 |Yearly | |
 |Car Fuel |200 |Monthly | |
