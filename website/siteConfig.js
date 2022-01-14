@@ -38,7 +38,7 @@ const siteConfig = {
   footerIcon: 'img/favicon.ico',
   favicon: 'img/favicon.ico',
 
-  gaTrackingId: 'UA-114369504-3',
+  gaTrackingId: 'G-D64X8XCF46',
   gaGtag: true,
 
   algolia: {
