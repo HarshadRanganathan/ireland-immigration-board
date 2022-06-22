@@ -9,7 +9,8 @@
       "visas"
     ],
     "Permissions": [
-      "stamps"
+      "stamps",
+      "critical-skills"
     ],
     "Travel": [
       "transit-visa",
