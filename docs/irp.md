@@ -151,7 +151,7 @@ Last Updated: 15-Aug-2020
 Please check you spam folder for the email. If you have checked your spam folder but have not
 received an email from us, please wait 7 working days for us to contact you. 
 
-If you have not heard from us by then, please contact the immigration unit (burghquayregoffice@justice.ie) responsible for processing the
+If you have not heard from us by then, please contact the immigration unit (immigrationsupport@justice.ie) responsible for processing the
 application form you want to submit.
 
 If you contact us by email, please include 'online form – issue' in the subject line of your email
@@ -172,11 +172,9 @@ Last Updated: 15-Aug-2020
 
 You need to submit two separate applications for yourself and your spouse in the online application portal.
 
-In your Spouse's application, indicate as shown below:
+In your Spouse's application, select `Yes, my family member's permission is dependent on me`.
 
-![irp-renewal-family-member-permission-dependent-on-me](./assets/irp/irp-renewal-family-member-permission-dependent-on-me.png)
-
-In your application, indicate as shown below:
+In your application, select `Yes, my permission is dependent on my non-EU/EEA & non-Swiss family member` (or) other option appropriately.
 
 Last Updated: 22-Jun-2022
 
@@ -184,23 +182,21 @@ Last Updated: 22-Jun-2022
 
 #### **How many days will it take to process my renewal application?**
 
-Processing times: 10 – 15 working days minimum
+Processing times: 8-10 weeks
 
-If your application is successful – your permission will be renewed and your in-date passport will be stamped.  The new IRP card will issue to you separately within 10 – 15 working days
+You will receive an email notifying you when your application has been processed.
+
+Last Updated: 22-Jun-2022
+
+#### **What happens once my renewal application is processed?**
+
+If your application is successful – your permission will be renewed and your new IRP card will be posted to you separately within 10 – 15 working days
 
 Reference: http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
 
-Last Updated: 15-Aug-2020
+Last Updated: 22-Jun-2022
 
-#### **How will I receive my application once processed?**
-
-The permission stamp will be placed in the in-date passport provided and returned by Registered Post with the IRP card being sent by separate express post.
-
-A tracking number will be shared in email for checking your passport delivery status.
-
-Last Updated: 24-Aug-2020
-
-#### **I have sent my Passport and IRP for renewal. I'm planning to shift my house soon ad haven't received my documents back. What should I do in this case to receive them at my new address?**
+#### **I'm waiting to receive my IRP card and I'm planning to shift my house meanwhile. What should I do in this case to receive my IRP card at my new address?**
 
 You can get your mail redirected to your new home by setting up a redirection service at your local post office or applying online.
 
@@ -216,13 +212,15 @@ Last Updated: 25-Aug-2020
 
 ### Travel
 
-#### **I had sent my Passport and IRP for renewal. Now, I have a family emergency and need to travel ASAP. Can I get my IRP renewed immediately?**
+#### **I have applied for my IRP renewal. Now, I have a family emergency and need to travel ASAP. Can I get my IRP renewed immediately?**
 
 **Option 1:**
 
-Send an email to burghquayregoffice@justice.ie stating your emergency.
+Send an email to immigrationsupport@justice.ie with subject line `Flight Booked for Travel`.
 
-In case of no response, directly approach the Burgh Quay Office. You will have to convince the guards to be able to enter the office. Afterwards, you can get your passport back for immediate travel.
+You should submit proof of travel, for example your flight booking and the reason for the emergency.
+
+They will respond and process your application.
 
 **Option 2:**
 
@@ -253,12 +251,12 @@ http://www.inis.gov.ie/en/inis/pages/application_for_a_travel_document
 
 http://www.inis.gov.ie/en/INIS/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf/Files/Travel%20Document%20Guide%20for%20Completion%20July%202016.pdf
 
-Last Updated: 25-Aug-2020
+Last Updated: 22-Jun-2022
 
 
 ### General
 
-#### **I had sent my Passport and IRP for renewal. Will they issue the new IRP with a start date from when we had applied online?**
+#### **I have applied for IRP renewal. Will they issue the new IRP with a start date from when we had applied online?**
 
 No, the start date will be from the processed day.
 
@@ -284,7 +282,7 @@ Last Updated: 15-Aug-2020
 
 #### **How can I obtain an update on the status of my application?**
 
-You may submit your query by email to burghquayregoffice@justice.ie
+You may submit your query by email to immigrationsupport@justice.ie
 
 When contacting them please include:
 * your name,
@@ -292,16 +290,17 @@ When contacting them please include:
 * registered post tracking number, and
 * your contact details. 
 
-Last Updated: 19-Aug-2020
+Last Updated: 22-Jun-2022
 
-#### **My permission was restricted due to the expiry of my passport. Can I use the online system to claim the remainder of my permission on my new passport?**
-No. Please do not apply for the remainder of your permission online. Applications for the balance
-of permission previously granted should be submitted by email to the Registration Office at
-burghquayregoffice@justice.ie There will be no charge for the balance of this permission.
+#### **Is my permission restricted to the expiry of my passport**
 
-Reference: http://www.inis.gov.ie/en/INIS/Immigration-Service-Delivery-Covid-19-FAQ4.pdf/Files/Immigration-Service-Delivery-Covid-19-FAQ4.pdf 
+No, from April 2021 your permission is not linked to the expiration date on your passport. 
 
-Last Updated: 15-Aug-2020
+When you receive a new passport, you are legally required to contact your local immigration office to update your details. 
+
+If you have a question about a balance of permission or you want to update your details contact immigrationsupport@justice.ie in Dublin city and county and gnib_dv@garda.ie if you live outside Dublin.
+
+Last Updated: 22-Jun-2022
 
 ## Change Address
 
@@ -309,9 +308,9 @@ Last Updated: 15-Aug-2020
 
 If your new address is outside Dublin, send an email to gnib_dv@garda.ie
 
-If your new address is within Dublin, send an email to burghquayregoffice@justice.ie
+If your new address is within Dublin, send an email to immigrationsupport@justice.ie
 
-Subject Line - Change of details
+Subject Line - Change of address
 
 In the email, specify below details:
 * Full Name
@@ -324,7 +323,7 @@ You will get an acknowledgement in 2-3 days.
 
 Reference - http://www.inis.gov.ie/en/INIS/Pages/registration-update-details
 
-Last Updated: 15-Aug-2020
+Last Updated: 22-Jun-2022
 
 ## Health Insurance
 
