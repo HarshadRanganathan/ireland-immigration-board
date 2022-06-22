@@ -10,7 +10,16 @@ sidebar_label: IRP
 
 #### **How do I get an appointment for first-time registration?**
 
-If you are living in Dublin, you can use the online appointment system https://burghquayregistrationoffice.inis.gov.ie/ to obtain an appointment.
+##### If you are resident in Dublin city or county
+
+If you are resident in Dublin city or county and wish to register a permission for the first time, please call Freephone 1800 741741.
+
+Operators are available between 9 a.m. and 5 p.m. Monday-Friday to take your call and book your appointment.
+(You should also call this number if you need to reschedule or cancel your appointment.)
+
+Please make sure you have your passport details and a valid email address to share with the customer service representative when you call.
+
+##### If you are living outside Dublin
 
 If you are living outside Dublin, send an email to the garda office at your respective county to arrange for an appointment.	
 
@@ -81,7 +90,7 @@ If you are living outside Dublin, send an email to the garda office at your resp
 Reference - https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/reopening-of-registration-offices.html	
 
 
-Last Updated: 24-Sep-2020
+Last Updated: 22-Jun-2022
 
 ### Payment
 
@@ -159,37 +168,17 @@ Last Updated: 15-Aug-2020
 
 ### Application Submission
 
-In order to process your application after submitting the form in the online portal, you need to submit:
-* A copy of Application confirmation email;
-* Your original passport; and
-* Your current original IRP/GNIB Card
-
-YOU MUST CLEARLY PRINT THE STAMP NUMBER APPLIED FOR ON THE OUTSIDE OF YOUR ENVELOPE
-
-Send by Registered Post to:<br/>
-**Permissions Renewal Unit<br/>
-ISD<br/>
-13-14 Burgh Quay<br/>
-Dublin 2<br/>
-DO2 XK70**
-
-Do not submit your documents by post until you have received the application confirmation email.
-
-Passports sent by ordinary post will not be processed.
-
-Reference - http://www.inis.gov.ie/en/INIS/Pages/online-renewal-applications-for-students-in-dublin-only
-
-Last Updated: 15-Aug-2020
-
 #### **My Spouse's permission is dependent on my renewal. Should we submit our application together?**
 
 You need to submit two separate applications for yourself and your spouse in the online application portal.
 
-In your application, indicate that your spouse's permission on you.
+In your Spouse's application, indicate as shown below:
 
-Finally, send the documents in two separate envelopes for processing.
+![irp-renewal-family-member-permission-dependent-on-me](./assets/irp/irp-renewal-family-member-permission-dependent-on-me.png)
 
-Last Updated: 15-Aug-2020
+In your application, indicate as shown below:
+
+Last Updated: 22-Jun-2022
 
 ### Delivery
 
