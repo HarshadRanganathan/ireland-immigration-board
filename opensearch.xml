@@ -4,8 +4,8 @@
   <ShortName>Ireland Immigration</ShortName>
   <Description>Search Ireland Immigration</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://harshadranganathan.github.io/ireland-immigration-board/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://harshadranganathan.github.io/ireland-immigration-board/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://harshadranganathan.github.io/ireland-immigration-board/opensearch.xml" />
-  <moz:SearchForm>https://harshadranganathan.github.io/ireland-immigration-board/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://harshadranganathan.github.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://harshadranganathan.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://harshadranganathan.github.io/opensearch.xml" />
+  <moz:SearchForm>https://harshadranganathan.github.io/</moz:SearchForm>
 </OpenSearchDescription>
