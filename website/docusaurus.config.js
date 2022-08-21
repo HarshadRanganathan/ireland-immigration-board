@@ -1,7 +1,7 @@
 module.exports={
   "title": "Ireland Immigration",
   "tagline": "Your immigration, visa and work permit queries answered by the community",
-  "url": "https://harshadranganathan.github.io",
+  "url": "https://harshadranganathan.github.io/ireland-immigration",
   "baseUrl": "/",
   "organizationName": "harshadranganathan",
   "projectName": "ireland-immigration-board",
