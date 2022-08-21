@@ -1,0 +1,30 @@
+{
+  "unversionedId": "covid-19-test",
+  "id": "covid-19-test",
+  "title": "Covid-19 Test",
+  "description": "Travel Clearance Certificate",
+  "source": "@site/../docs/covid-19.md",
+  "sourceDirName": ".",
+  "slug": "/covid-19-test",
+  "permalink": "/docs/covid-19-test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "covid-19-test",
+    "title": "Covid-19 Test",
+    "sidebar_label": "Covid-19 Test"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Transit Visa",
+    "permalink": "/docs/transit-visa"
+  },
+  "next": {
+    "title": "Citizenship",
+    "permalink": "/docs/citizenship"
+  }
+}

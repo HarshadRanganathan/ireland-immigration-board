@@ -1,0 +1,30 @@
+{
+  "unversionedId": "critical-skills",
+  "id": "critical-skills",
+  "title": "Critical Skills",
+  "description": "Permission Flow",
+  "source": "@site/../docs/critical-skills.md",
+  "sourceDirName": ".",
+  "slug": "/critical-skills",
+  "permalink": "/docs/critical-skills",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "critical-skills",
+    "title": "Critical Skills",
+    "sidebar_label": "Critical Skills"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Stamps",
+    "permalink": "/docs/stamps"
+  },
+  "next": {
+    "title": "Transit Visa",
+    "permalink": "/docs/transit-visa"
+  }
+}

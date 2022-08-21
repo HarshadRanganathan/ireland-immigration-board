@@ -1,7 +1,7 @@
 ---
 id: pros-cons-of-living-in-ireland
-title: Pros/Cons Of Living In Ireland
-sidebar_label: Pros/Cons Of Living In Ireland
+title: "Pros/Cons Of Living In Ireland"
+sidebar_label: "Pros/Cons Of Living In Ireland"
 ---
 
 Pros:

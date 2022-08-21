@@ -1,0 +1,26 @@
+{
+  "unversionedId": "pros-cons-of-living-in-ireland",
+  "id": "pros-cons-of-living-in-ireland",
+  "title": "Pros/Cons Of Living In Ireland",
+  "description": "Pros:",
+  "source": "@site/../docs/pros-cons-of-living-in-ireland.md",
+  "sourceDirName": ".",
+  "slug": "/pros-cons-of-living-in-ireland",
+  "permalink": "/docs/pros-cons-of-living-in-ireland",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "pros-cons-of-living-in-ireland",
+    "title": "Pros/Cons Of Living In Ireland",
+    "sidebar_label": "Pros/Cons Of Living In Ireland"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Cost Of Living",
+    "permalink": "/docs/cost-of-living"
+  }
+}

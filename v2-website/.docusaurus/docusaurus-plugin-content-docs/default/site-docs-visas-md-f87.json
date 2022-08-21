@@ -1,0 +1,30 @@
+{
+  "unversionedId": "visas",
+  "id": "visas",
+  "title": "Visas",
+  "description": "Join Family Visa",
+  "source": "@site/../docs/visas.md",
+  "sourceDirName": ".",
+  "slug": "/visas",
+  "permalink": "/docs/visas",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "visas",
+    "title": "Visas",
+    "sidebar_label": "Visas"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "IRP",
+    "permalink": "/docs/irp"
+  },
+  "next": {
+    "title": "Stamps",
+    "permalink": "/docs/stamps"
+  }
+}
