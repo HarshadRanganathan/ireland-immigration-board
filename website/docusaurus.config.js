@@ -83,7 +83,7 @@ module.exports={
     },
     "algolia": {
       "appId": "QNLB7B9X9L",
-      "apiKey": "600721e219403d3bcd71c5c9a32f2361",
+      "apiKey": "4255f4b32aaaa79b8c03f14b78d30be7",
       "indexName": "harshadranganathan_ireland-immigration-board"
     }
   }
