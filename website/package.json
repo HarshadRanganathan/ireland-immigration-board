@@ -9,12 +9,14 @@
     "rename-version": "docusaurus-rename-version",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
-    "docusaurus": "docusaurus"
+    "docusaurus": "docusaurus",
+    "crowdin:sync": "docusaurus write-translations && crowdin upload && crowdin download"
   },
   "devDependencies": {
     "docusaurus-plugin-google-adsense": "^0.3.1"
   },
   "dependencies": {
+    "@crowdin/cli": "^3.7.10",
     "@docusaurus/core": "2.0.1",
     "@docusaurus/preset-classic": "2.0.1",
     "classnames": "^2.3.1",
