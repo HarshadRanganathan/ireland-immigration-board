@@ -1,7 +1,7 @@
 ---
-id: first-time-home-buyer-guide
-title: First Time Home Buyer Guide
-sidebar_label: First Time Home Buyer Guide
+id: first-time-new-home-buyer-guide
+title: First Time New Home Buyer Guide
+sidebar_label: First Time New Home Buyer Guide
 ---
 
 
