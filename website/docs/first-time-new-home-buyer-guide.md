@@ -29,7 +29,7 @@ sidebar_label: First Time New Home Buyer Guide
   
    - Some banks may ask for your credit report in your home country/explanations if they notice transactions to your home country
    
-   - Rejection with one bank doesn't mean rejection will all banks
+   - Rejection with one bank doesn't mean rejection with all banks
 
    - AIP mortgage amount depends on your annual salary, repayment capabilities (child, existing loans - all factor), your savings per month, exception approval etc.
 
