@@ -37,7 +37,8 @@ sidebar_label: First Time Home Buyer Guide
 
 ## Solicitor
 - Get Solicitor Quotes for your price range
-  | | |
+
+  |Items | Price Quote|
   |--|--|
   |Professional Fee | |
   |VAT at 23% | |
@@ -45,6 +46,7 @@ sidebar_label: First Time Home Buyer Guide
   |Land Registry Fee | |
   |Search Fees | |
   |Commissioner for Oaths | |
+
 - Choose your solicitor
 
 ## Book Your Home
