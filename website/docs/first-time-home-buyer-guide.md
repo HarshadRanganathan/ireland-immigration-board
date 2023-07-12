@@ -8,6 +8,7 @@ sidebar_label: First Time Home Buyer Guide
 ## Best Practices
 
 - Have 6 months clean bank statements which -
+
    -  show your savings capability per month (used for your repayment capability calculation by bank)
    
    -  doesn't have big outward transactions e.g. transfer to home country (or) has reasonable explanations for them e.g. family maintenance
@@ -18,6 +19,7 @@ sidebar_label: First Time Home Buyer Guide
 ## Pre-Requisites
 
 - Get HTB Approved
+
    - If your mortgage will be based on Joint names (e.g. You & your spouse) ensure HTB is generated with both names
    
    - If you already own a home in a different country then you are not eligible for HTB as the home needs to be your first home across the globe. Your bank will refuse AIP under HTB if they see you already own a home in a different country. This may happen when they request for a credit report from your home country and notice a loan for home purchase was issued which means this is not your first home and legally renders you ineligible for HTB
